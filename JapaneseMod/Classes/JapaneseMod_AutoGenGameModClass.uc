@@ -1,0 +1,1 @@
+class JapaneseMod_AutoGenGameModClass extends GameMod;
