@@ -1,1 +1,0 @@
-class SKI_ContractJapanese_AutoGenGameModClass extends GameMod;
