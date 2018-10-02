@@ -1,5 +1,5 @@
 [Caption]
-WorkshopBrowser=Steam Workshop
+WorkshopBrowser = Steam Workshop
 HatActorClassesBrowser = Hat Actor Classes
 
 [UnrealEd]
@@ -8,19 +8,19 @@ WorkshopLastMod = Last Updated
 WorkshopStatus = Status
 WorkshopStatus_NotSubmit = Not Submitted
 
-ConversationTreeEditor_F=Gears for Breakfast ConversationTree Editor: `~
+ConversationTreeEditor_F = Gears for Breakfast ConversationTree Editor: `~
 ConversationPlay = Play Conversation
 ConversationResetState = Reset Conversation States
 ConversationFlush = Flush Localization Files
 ConversationSnapGrid = Snap To Grid
 
-MusicTreeEditor_F=Gears for Breakfast MusicTree Editor: `~
+MusicTreeEditor_F = Gears for Breakfast MusicTree Editor: `~
 MusicTreePlay = Play Preview
 MusicTreeStop = Stop Preview
 MusicTreeClean = Clean Unused Nodes
 
-InterpEd_ExpressionActionDialogTitle=Choose Expression
-InterpEd_ExpressionActionDialogText=Expression
+InterpEd_ExpressionActionDialogTitle = Choose Expression
+InterpEd_ExpressionActionDialogText = Expression
 
 MainMenu_GameInfo = A Hat in Time
 MainMenu_SimplifiedEditorToggle = Simplified Editor
@@ -72,12 +72,12 @@ MainMenu_GameInfo_ClearPlaySession_Desc = Remove all recorded play sessions
 MainMenu_GameInfo_SaveSlots = Save Slot
 MainMenu_GameInfo_Slot = Slot %i
 
-JiggleboneEditor_F=Gears for Breakfast Jigglebone Editor: `~
+JiggleboneEditor_F = Gears for Breakfast Jigglebone Editor: `~
 UnPhat_OpenJigglebone = Open Jigglebone Editor
 
-UpdateCubeMap=Update CubeMap
-SplineFormFit=Form Fit Spline
-SetActCheckpointHere=Set Checkpoint Info to Here
+UpdateCubeMap = Update CubeMap
+SplineFormFit = Form Fit Spline
+SetActCheckpointHere = Set Checkpoint Info to Here
 
 StaticMesh_GenerateLOD = Auto-Generate LOD
 StaticMesh_CenterPivot = Center Pivot
@@ -108,20 +108,20 @@ LevelBrowser_Method_Kismet = Kismet
 LevelBrowser_Method_Persistent = Persistent
 LevelBrowser_Method_Unknown = Unknown
 
-MapCheck_Message_SkelMeshActorAnimationsAssignedIncorrectly=`~ : SkeletalMeshComponent has Animations set to something other than an AnimNodeSequence! It has been cleared for you.
+MapCheck_Message_SkelMeshActorAnimationsAssignedIncorrectly = `~ : SkeletalMeshComponent has Animations set to something other than an AnimNodeSequence! It has been cleared for you.
 
 ObjectContext_CreateSoundCueSFX = Create New SoundCue (Sound Effect)
 ObjectContext_CreateSoundCueVoice = Create New SoundCue (Vocals)
 ObjectContext_CreateSoundCueMusic = Create New SoundCue (Music)
-CreateNewSoundCue=Create New SoundCue
+CreateNewSoundCue = Create New SoundCue
 ObjectContext_CreateMusicTree = Create New Music Tree
-CreateNewMusicTree=Create New Music Tree
+CreateNewMusicTree = Create New Music Tree
 ObjectContext_ApplyMapMusic = Make this the map's music
 
-RemoveRootMovementFirstFrame=Reset Root Movement (XYZ) to First Frame
-RemoveRootMovementXY=Reset Root Movement (XY) to First Frame
-CenterCurrentFrameRootMotion=Re-Center Root Motion to Current Frame
-RemoveRootMotionBeforeFrame=Remove Root Motion Before Current Frame
+RemoveRootMovementFirstFrame = Reset Root Movement (XYZ) to First Frame
+RemoveRootMovementXY = Reset Root Movement (XY) to First Frame
+CenterCurrentFrameRootMotion = Re-Center Root Motion to Current Frame
+RemoveRootMotionBeforeFrame = Remove Root Motion Before Current Frame
 ApplyRootTranslation = Apply Root Translation
 
 MainToolBar_DropAndSpinPlacedActors_ToolTip = Drop and Spin Placed Actors
@@ -130,10 +130,10 @@ AnimSet_RemoveCurrentBoneMotion = Remove Current Bone Motion
 
 SocketOnlyViewSelected = Only View Selected
 
-UnrealEdTitle_F=Editor for `~
-UnrealEdTitle_RHI_F=Editor for `~ (`~-bit, `~)
+UnrealEdTitle_F = Editor for `~
+UnrealEdTitle_RHI_F = Editor for `~ (`~-bit, `~)
 UnrealEdVersionTitle=`~\nCopyright © 1998-2016  Epic Games, Inc. and Gears for Breakfast, ApS.\nAll rights reserved.
-UnrealEdVersion=Version: `~ Changelist: `~
+UnrealEdVersion = Version: `~ Changelist: `~
 CycleCubeMaps = Cycle CubeMaps
 
 MainMenu_AutoTransformAttachments = Auto-Transform Attachments
@@ -143,23 +143,23 @@ AddSocketToBase_EnterSocketName = "Enter Socket Name"
 AddSocketToBase_EnterSocketNameCaption = "Enter socket name:"
 AddSocketToBase_SocketAlreadyExists = "The provided socket name already exists!"
 
-6DOP=Box Collision
-10DOPX=X-Axis Cylinder Collision
-10DOPY=Y-Axis Cylinder Collision
-10DOPZ=Z-Axis Cylinder Collision
-18DOP=18-Sided Box Collision
-26DOP=26-Sided Box Collision
+6DOP = Box Collision
+10DOPX = X-Axis Cylinder Collision
+10DOPY = Y-Axis Cylinder Collision
+10DOPZ = Z-Axis Cylinder Collision
+18DOP = 18-Sided Box Collision
+26DOP = 26-Sided Box Collision
 
 MapCheck_Message_PylonNoGroundPos = Could not find ground position for pylon, build failed. Consider moving it or turning on recast
-MapCheck_Message_SkeletalMeshNull=`~ : Skeletal mesh actor has NULL SkeletalMesh property (`~)
+MapCheck_Message_SkeletalMeshNull = `~ : Skeletal mesh actor has NULL SkeletalMesh property (`~)
 
-MainMenu_Help_UDKForums=Report a bug...
-MainMenu_Help_UDKForums_ToolTip=Report a bug on the GfB bug tracker
+MainMenu_Help_UDKForums = Report a bug...
+MainMenu_Help_UDKForums_ToolTip = Report a bug on the GfB bug tracker
 
-SceneColorizeSF=Scene Colorize Post Process
-LevelDesignerHelper=Level Designer Helper
+SceneColorizeSF = Scene Colorize Post Process
+LevelDesignerHelper = Level Designer Helper
 
-Error_ImportFailed_SoundWave=Import failed. SoundWaves must be 44100Hz and 16 bits!
+Error_ImportFailed_SoundWave = Import failed. SoundWaves must be 44100Hz and 16 bits!
 
 RemoveUVs = Remove UV Channel
 RemoveUVs_No = No UV channel to delete
@@ -170,7 +170,7 @@ StaticMesh_Generate_Imposter = Generate imposter
 SkeletalMesh_Selected_ImposterID = Save imposter:
 SkeletalMesh_Generate_Imposter = Generate imposter
 
-ToolTip_ExtremelyFastCameraSpeed=Extremely Fast Camera Speed
+ToolTip_ExtremelyFastCameraSpeed = Extremely Fast Camera Speed
 
 GizmoTransformActor_AddSpline = New Spline Here
 
@@ -179,13 +179,21 @@ StaticMesh_Bake_Spline_VertexColor_SelectedForward = Forward Axis:
 
 Error_ImportFailed_Texture2D = Failed to import Texture2D! Check that its size is a power of 2?
 
-PackageContext_SetPrivate=Mark as Secret DLC
-PackageContext_SetPublic=Unmark as Secret DLC
+PackageContext_SetPrivate = Mark as Secret DLC
+PackageContext_SetPublic = Unmark as Secret DLC
 
 MainMenu_GameInfo_Editors = Editors
+MainMenu_GameInfo_Editor_DeathWish = Death Wish UI
+DeathWishSave = Save Changes
 
-ConnectToPBR_Metallic=Connect to "Metallic"
-ConnectToPBR_Roughness=Connect to "Roughness"
+ConnectToPBR_Metallic = Connect to "Metallic"
+ConnectToPBR_Roughness = Connect to "Roughness"
 
-TouchAll=Touch All
-ConnectToPBR_EnvironmentDesaturation=Connect to "Environment Desaturation"
+TouchAll = Touch All
+ConnectToPBR_EnvironmentDesaturation = Connect to "Environment Desaturation"
+
+SelectRelevantLightActors = Select Relevant Light Actors
+SelectRelevantCubeMaps = Select Relevant CubeMap Actors
+SkeletalSectionGroup = Section Group
+LevelBrowser_ChangeStreamingMethod = Change Streaming Method
+MergeMeshMenu = Generate...

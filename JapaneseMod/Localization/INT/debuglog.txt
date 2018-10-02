@@ -1,0 +1,268 @@
+C:\Users\owner_pc3\Desktop\labo\ref\collectibles.int
+C:\Users\owner_pc3\Desktop\labo\ref\contracts.int
+C:\Users\owner_pc3\Desktop\labo\ref\contracts_deathwish.int
+C:\Users\owner_pc3\Desktop\labo\ref\credits.int
+C:\Users\owner_pc3\Desktop\labo\ref\Descriptions.int
+C:\Users\owner_pc3\Desktop\labo\ref\EditorMapTemplates.int
+C:\Users\owner_pc3\Desktop\labo\ref\Engine.int
+C:\Users\owner_pc3\Desktop\labo\ref\HatinTimeGame.int
+C:\Users\owner_pc3\Desktop\labo\ref\menus.int
+C:\Users\owner_pc3\Desktop\labo\ref\system.int
+C:\Users\owner_pc3\Desktop\labo\ref\taunts.int
+C:\Users\owner_pc3\Desktop\labo\ref\tutorial.int
+C:\Users\owner_pc3\Desktop\labo\ref\UnrealEd.int
+C:\Users\owner_pc3\Desktop\labo\ref\enemies\mafia.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\alpsnsails.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\alpv_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\alp_signs.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\alp_villagers.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\badge_salesman.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\basement.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\cafescene.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\camera_tourist.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\captain_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\conductors.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\conductor_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\cookingcat_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\cooking_cat.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\crows_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\crow_agent.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\dev_commentary.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\dj_grooves.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\fire_spirits.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\fishdude_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\hatkiddiary.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\internal_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafiaboss_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafiatown.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafia_boss.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafia_npc.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafia_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\moonpenguins.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mucastle.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\mustachegirl.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\octopus_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\oldman.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\owls_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\penguins_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\queen_vanessa.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\scienceowls.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\seals_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\ship_docks.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher_deathwish.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher_minions.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\spaceship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\telephone_tipper.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\thor.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\tourist_ship.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\train_operator.int
+C:\Users\owner_pc3\Desktop\labo\ref\sequences\were_test.int
+C:\Users\owner_pc3\Desktop\labo\work\collectibles.int
+C:\Users\owner_pc3\Desktop\labo\work\contracts.int
+C:\Users\owner_pc3\Desktop\labo\work\credits.int
+C:\Users\owner_pc3\Desktop\labo\work\Descriptions.int
+C:\Users\owner_pc3\Desktop\labo\work\EditorMapTemplates.int
+C:\Users\owner_pc3\Desktop\labo\work\Engine.int
+C:\Users\owner_pc3\Desktop\labo\work\HatinTimeGame.int
+C:\Users\owner_pc3\Desktop\labo\work\menus.int
+C:\Users\owner_pc3\Desktop\labo\work\system.int
+C:\Users\owner_pc3\Desktop\labo\work\taunts.int
+C:\Users\owner_pc3\Desktop\labo\work\tutorial.int
+C:\Users\owner_pc3\Desktop\labo\work\UnrealEd.int
+C:\Users\owner_pc3\Desktop\labo\work\enemies\mafia.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\alpsnsails.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\alp_signs.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\alp_villagers.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\badge_salesman.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\basement.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\cafescene.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\camera_tourist.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\conductors.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\cooking_cat.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\crow_agent.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\dev_commentary.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\dj_grooves.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\fire_spirits.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\forestdwellers.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\hatkiddiary.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\mafiatown.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\mafia_boss.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\mafia_npc.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\moonpenguins.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\mucastle.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\mustachegirl.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\oldman.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\queen_vanessa.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\scienceowls.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\snatcher.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\snatcher_minions.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\spaceship.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\subcon_signs.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\telephone_tipper.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\thor.int
+C:\Users\owner_pc3\Desktop\labo\work\sequences\train_operator.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\collectibles.int  C:\Users\owner_pc3\Desktop\labo\work\collectibles.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\contracts.int  C:\Users\owner_pc3\Desktop\labo\work\contracts.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\contracts_deathwish.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\credits.int  C:\Users\owner_pc3\Desktop\labo\work\credits.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\Descriptions.int  C:\Users\owner_pc3\Desktop\labo\work\Descriptions.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\EditorMapTemplates.int  C:\Users\owner_pc3\Desktop\labo\work\EditorMapTemplates.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\Engine.int  C:\Users\owner_pc3\Desktop\labo\work\Engine.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\HatinTimeGame.int  C:\Users\owner_pc3\Desktop\labo\work\HatinTimeGame.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\menus.int  C:\Users\owner_pc3\Desktop\labo\work\menus.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\system.int  C:\Users\owner_pc3\Desktop\labo\work\system.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\taunts.int  C:\Users\owner_pc3\Desktop\labo\work\taunts.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\tutorial.int  C:\Users\owner_pc3\Desktop\labo\work\tutorial.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\UnrealEd.int  C:\Users\owner_pc3\Desktop\labo\work\UnrealEd.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\enemies\mafia.int  C:\Users\owner_pc3\Desktop\labo\work\enemies\mafia.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\alpsnsails.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\alpsnsails.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\alpv_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\alp_signs.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\alp_signs.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\alp_villagers.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\alp_villagers.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\badge_salesman.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\badge_salesman.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\basement.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\basement.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\cafescene.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\cafescene.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\camera_tourist.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\camera_tourist.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\captain_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\conductors.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\conductors.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\conductor_ship.int を出力フォルダにコピーしました
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\cookingcat_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\cooking_cat.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\cooking_cat.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\crows_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\crow_agent.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\crow_agent.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\dev_commentary.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\dev_commentary.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\dj_grooves.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\dj_grooves.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\fire_spirits.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\fire_spirits.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\fishdude_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\hatkiddiary.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\hatkiddiary.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\internal_ship.int を出力フォルダにコピーしました
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafiaboss_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafiatown.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\mafiatown.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafia_boss.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\mafia_boss.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafia_npc.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\mafia_npc.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\mafia_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\moonpenguins.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\moonpenguins.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\mucastle.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\mucastle.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\mustachegirl.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\mustachegirl.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\octopus_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\oldman.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\oldman.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\owls_ship.int を出力フォルダにコピーしました
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\penguins_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\queen_vanessa.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\queen_vanessa.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\scienceowls.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\scienceowls.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\seals_ship.int を出力フォルダにコピーしました
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\ship_docks.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\snatcher.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher_deathwish.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher_minions.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\snatcher_minions.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\snatcher_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\spaceship.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\spaceship.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\telephone_tipper.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\telephone_tipper.int
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\thor.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\thor.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\tourist_ship.int を出力フォルダにコピーしました
+マッチした。C:\Users\owner_pc3\Desktop\labo\ref\sequences\train_operator.int  C:\Users\owner_pc3\Desktop\labo\work\sequences\train_operator.int
+ワークフォルダに同名ファイルを見つけられなかったので C:\Users\owner_pc3\Desktop\labo\ref\sequences\were_test.int を出力フォルダにコピーしました
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：CameraFilterDescription
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[badges]
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：BurgerBottomDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：BurgerBottomName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：BurgerTopDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：BurgerTopName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：BlueCrayonDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：GreenCrayonDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：RedCrayonDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：BlueCrayonName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：GreenCrayonName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：RedCrayonName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：CrayonBoxDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：CrayonBoxName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：CowToyDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：CowToyName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：UFODesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：TrainTracksDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：TrainTracksName
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：TrainToyDesc
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：TrainToyName
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\collectibles.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Conditions_3Lives
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Conditions_NoHealth
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Conditions_NoCheckpoints
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Conditions_ClearLevel
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[Hat_SnatcherContract_DeathWish_Intro_100Pons]
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[Hat_SnatcherContract_DeathWish_DifficultParade]
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[Hat_SnatcherContract_DeathWish_BirdBossHard]
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[Hat_SnatcherContract_DeathWish_TrainRushShortTime]
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\contracts.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\credits.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\Descriptions.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\EditorMapTemplates.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\Engine.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：acT_5_1
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\HatinTimeGame.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：ViewInWorkshop
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\menus.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\system.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\taunts.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\tutorial.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\UnrealEd.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\enemies\mafia.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\alpsnsails.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\alp_signs.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\alp_villagers.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\badge_salesman.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\basement.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\cafescene.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\camera_tourist.int
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[GearPieces]
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\conductors.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\cooking_cat.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\crow_agent.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\dev_commentary.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\dj_grooves.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\fire_spirits.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\hatkiddiary.int
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[umbrella]
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\mafiatown.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\mafia_boss.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_sale1
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_sale0
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro_b0
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro7
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro6
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro5
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro4
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro3
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro_a0
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro_no
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro_yes
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro2
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro1
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：trade_ties_intro0
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：balloon_intro0
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[sell_decoration]
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[milkman]
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\mafia_npc.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\moonpenguins.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\mucastle.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Tantrum1
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Tantrum0
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[MuMission_Subcon1]
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\mustachegirl.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\oldman.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\queen_vanessa.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\scienceowls.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Cherry0
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Cherry1
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Cherry2
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：Cherry3
+[head]抜けアリ：workにあってrefに無い[head]を見つけました。workの内容はoutputに反映されない：[manor]
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\snatcher.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\snatcher_minions.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\spaceship.int
+tag抜けアリ：workにあってrefに無いtagを見つけました。workの内容はoutputに反映されない：FirstTip3
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\telephone_tipper.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\thor.int
+変換後ファイルセーブ：C:\Users\owner_pc3\Desktop\labo\output\sequences\train_operator.int
