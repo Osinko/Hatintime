@@ -4,9 +4,9 @@ intro1 = ‚¨‚¢‚ç‚ª‚±‚±‚ÅƒfƒBƒi[‚ðì‚Á‚ÄA’N‚©‚ªƒ}ƒtƒBƒA‚Ì—¿—‚ðŒû‚É‚·‚é‘O‚ÉA‚·‚
 intro2 = ƒ}ƒtƒBƒA‚ªì‚Á‚½—¿—‚È‚ñ‚©H‚×‚½‚çŽ€‚ñ‚¶‚á‚¤‚©‚ç‚É‚áI
 
 [spaceship]
-firstdecoration0 = ƒLƒ~‚Ì‰F’ˆ‘DA‚Æ‚Á‚Ä‚àƒXƒeƒL‚¾‚ËIŸŽè‚É‚¨Ž×–‚‚µ‚Ä‚²‚ß‚ñ‚ËB‚Ç‚¤‚µ‚Ä‚àˆÙ¯‚Ì‰F’ˆ‘D‚Ì’†‚ðŒ©‚Ä‚¨‚«‚½‚©‚Á‚½‚ñ‚¾B
-firstdecoration1 = ‚¦‚¦‚Á‚ÆAƒGƒCƒŠƒAƒ“‚Á‚Ä‚à‚Á‚Æ—ÎF‚ÅAŒŒ“÷‚É‹Q‚¦‚½‚â‚Â‚¾‚ÆŽv‚Á‚Ä‚½‚æB‚Å‚àƒGƒCƒŠƒAƒ“‚ÆŒ¾‚Á‚Ä‚àAF‚ñ‚ÈŒ`‚â‘å‚«‚³‚Ì‚â‚Â‚ª‚¢‚é‚Ì‚©‚É‚áBƒt[ƒ€B
-firstdecoration2 = ‚¨‚¢‚ç‚½‚¿‚Ì˜f¯‚ð’TŒŸ‚µ‚½‚¢‚È‚çA‚Ü‚¸A‚±‚Ì¯‚ð—‰ð‚µ‚Ä‚¨‚©‚È‚«‚áB¡AŽ©•ª‚ª‘‚Ìã‚ð•à‚¢‚Ä‚¢‚é‚Ì‚©A»’n–‚É‘«‚ð“¥‚Ý“ü‚ê‚é‚Æ‚±‚ë‚È‚Ì‚©‚í‚©‚ç‚È‚¢‚Æ‚ËI
+firstdecoration0 = ƒLƒ~‚Ì‰F’ˆ‘DA‚Æ‚Á‚Ä‚àƒXƒeƒL‚¾‚ËIŸŽè‚É‚¨Ž×–‚‚µ‚Ä‚²‚ß‚ñ‚æB‚Ç‚¤‚µ‚Ä‚àˆÙ¯‚Ì‰F’ˆ‘D‚Ì’†‚ðŒ©‚Ä‚¨‚«‚½‚©‚Á‚½‚ñ‚¾B
+firstdecoration1 = ‚¦‚¦‚Á‚ÆAƒGƒCƒŠƒAƒ“‚Á‚Ä‚à‚Á‚Æ—ÎF‚ÅAŒŒ“÷‚É‹Q‚¦‚½‚â‚Â‚¾‚ÆŽv‚Á‚Ä‚½B‚Å‚àƒGƒCƒŠƒAƒ“‚ÆŒ¾‚Á‚Ä‚àAF‚ñ‚ÈŒ`‚â‘å‚«‚³‚Ì‚â‚Â‚ª‚¢‚é‚Ì‚©‚É‚áBƒt[ƒ€B
+firstdecoration2 = ‚¨‚¢‚ç‚½‚¿‚Ì˜f¯‚ð’TŒŸ‚µ‚½‚¢‚È‚çA‚Ü‚¸A‚±‚Ì¯‚ÌŽ–‚ð—‰ð‚µ‚Ä‚¨‚©‚È‚«‚áB¡AŽ©•ª‚ª‘‚Ìã‚ð•à‚¢‚Ä‚¢‚é‚Ì‚©A»’n–‚É‘«‚ð“¥‚Ý“ü‚ê‚é‚Æ‚±‚ë‚È‚Ì‚©‚í‚©‚ç‚È‚¢‚Æ‚ËI
 firstdecoration3 = [icon:relic][name]•ó[/name]‚Ì‚©‚ñ‚Ä‚¢•û–@‚ª‚í‚©‚ç‚É‚á‚¢H‘åä•vI[name]—¿—”ÔƒlƒR[/name]‚ª‚Â‚¢‚Ä‚¢‚éI
 firstdecoration4 = ƒLƒ~‚É‚Í‚±‚Ì[name]ƒo[ƒK[ƒNƒbƒVƒ‡ƒ“[/name]‚Ì•ó‚ðƒ^ƒ_‚Å‚ ‚°‚é‚æI
 firstdecoration5 = ‚±‚Ì[icon:relic][name]•ó‚Í[/name]‘äÀ‚Å‚©‚ñ‚Ä‚¢‚Å‚«‚é‚æI‘¼‚Ì•ó‚àŽg‚Á‚Ä³‚µ‚¢‡”Ô‚Å•À‚×‚é‚±‚Æ‚ª‚Å‚«‚ê‚Î³‘Ì‚ª‚í‚©‚é‚Í‚¸‚³B
@@ -26,8 +26,8 @@ cooking4 = ‚¨‚¢‚çAˆÙ¯‚ÌƒRƒ“ƒ‚Á‚Ä‚à‚Á‚Æ‹Zp“I‚Éi•à‚µ‚Ä‚¢‚é‚à‚Ì‚È‚Ì‚©‚ÆŽv‚Á‚Ä‚
 [finale]
 outside0 = ˆÈ‘O‚ÉƒAƒcƒAƒc‚ÌƒLƒbƒ`ƒ“‚Å—¿—‚ð‚µ‚½Ž–‚Í‚ ‚é‚¯‚ÇA‚±‚±’ö‚¶‚á‚È‚©‚Á‚½‚É‚áIƒLƒ~‚Í‚±‚Ì‹‚³‚ª•½‹C‚È‚Ì‚©‚¢B‚¨‚¢‚ç‚àƒNƒbƒLƒ“ƒO‚ª‚ñ‚Î‚é‚É‚áI
 outside1 = ƒLƒ~A‚¿‚å‚Á‚Æ‘Ò‚¿—ñ‚ð‚·‚Á‚Æ‚Î‚µ‚ÄA‚±‚±‚Ì—¿—’·‚ª’N‚©Œ©‚Ä‚«‚Ä‚­‚ê‚È‚¢‚©‚É‚áH
-ninjacat0 = Meow.
-ninjacat1 = Rrrreeow.
-ninjacat2 = [wave]Mrrroooowww.[/wave]
+ninjacat0 = ƒjƒƒ[
+ninjacat1 = ƒtƒMƒƒ[
+ninjacat2 = [wave]ƒOƒ‹ƒ‹ƒ‹ƒ‹[/wave]
 ninjacat3 = I guess you just don't speak this regional dialect of cat. Huh.
 group_counter0 = ‚»‚¤‚¾IŽ¸‚¹‚ë‚É‚áI

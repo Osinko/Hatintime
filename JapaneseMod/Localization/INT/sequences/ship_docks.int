@@ -42,9 +42,9 @@ fishdude2 = ああ、こんにちは。私はちょうど寒かった、あなた知っている、と私はこの
 fishdude3 =  ...それはあなたのものですか？ああ、クール、クール。破損したガラスは、海上安全秩序のコード1.3aに完全に違反しますが、それがあなたのものならば、大したことではありません。
 fishdude4 = 今、この回廊、もう一度、woah。本当に私の穏やかな雰囲気を沈めている、あなたは知っていますか？
 
-slotmachine0 = このマシンから良い波動を感じます。何か出そう！しかし、プレイにはチップが必要です...
-slotmachine1 = 幸運を信じて...
-slotmachine2 = 破片がマシンに詰まっていました！
+slotmachine0 = iこのマシンから良い波動を感じます。何か出そう！しかし、プレイにはチップが必要です...
+slotmachine1 = i幸運を信じて...
+slotmachine2 = i破片がマシンに詰まっていました！
 
 captain0 = 私は忙しく、子犬です。この船はそれ自体を操縦しない。
 captain1 = 私は私が忙しいと言った、子犬。
@@ -118,39 +118,39 @@ tourist1 = Anyway, I thought I'd take some time off to relax! This should be smo
 binocs0 = うわー！船は信じられないように見える！そして安全です！信じられないほど安全です、あなたは言うかもしれません。
 
 crates0 =この箱のラベルは「PBR」と読みます。彼らは誰でも、光り輝くものを作ることができます。
-
+//未使用
 captain0 = Uh... you look a little young to be sailing alone, pup.
 captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
 captain2 = See the walkway, pup? What a mess...
 captain3 = How is anyone supposed to get up that thing? 
 captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
-
+//未使用
 conductor0 = Well, if it isn't the little lass. How's stardom treating you?
 conductor1a = Tell you the truth, I'm taking some time off after that [br]peck-neck [icon:djgrooves] DJ tried tae to, y'know, kill you.
 conductor1b = Oh, and sorry about the whole... knife incident. [br]What's a wee argument between colleagues though, lassy?
 conductor1c = I'm taking some time off tae relax. Getting away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
 conductor2 = Anyway, I'd better go ask about the childcare on board. I love these little blighters, but I cannae bring them to the bar with me can I?
-
+//未使用
 fishdude0 = Hey there, dude. Dudette, I mean. I'm like, ready for a nice cruise, aren't you? [br]Hopefully there's nothing fishy about this ship, y'know.
 fishdude1 = Not that it being ship-shape is my concern, or anything. I'm just on vacation, like everyone else.
-
+//未使用
 mafiaboss0 = Ah! First you kill me, then you torment me by booking passage on [br]the only cruise liner here with facilities for people in jars!
 mafiaboss1 = Such a rude little child. Were I not in a pleasant holiday mood [br][small]and still without a body[/small] I would take my revenge right here and now!
-
+//未使用？
 seals0 = They look like they're having an nice time! [br]Though they probably shouldn't be left unattended.
 seals1 = Wewcome to the cwuise, miss!
 seals2 = We howp you have a gweat twime!
-
+//未使用
 snatcher0 = [shake2]Ahem...[/shake2]
 snatcher1 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]FOOOOOOOOOOooo... wait a minute. It's you, again?[/shake2]
 snatcher2 = [shake2]Ugh. You show up in my forest, assault me, refuse to leave... and then turn up to ruin my vacation too?[/shake2]
 snatcher3 = [shake2]You really are just the worst, kiddo.[/shake2]
 snatcher4 = [shake2]...Yes, I'm hiding in a crate. Tickets are expensive.[/shake2]
-
+//未使用？
 penguins0 = The tickets for this thing are pricey, but we helped ourselves to the old 1-flipper discount, if you know what I mean.
 penguins1 = The boss wanted to be here, but when he heard the [icon:conductor][name]Conductor[/name] is here he decided to focus on his next movie instead.
 penguins2 = I hope there's something other to do than take a dip. Keep it to yourself kid, but we ain't the swimmin' type, capisce?
-
+//未使用
 owls0 = You know, after travelling on the [name]Conductor's[/name] train all the time, I'm looking forward to something a little more... reliable.
 owls1 = I can't wait to get some time in the pool. Owls love water, you know.
 
