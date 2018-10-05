@@ -1,20 +1,20 @@
 [fluff]
 ticketcrow0 = やあ、同乗者。初めまして。会えて嬉しいよ。
 ticketcrow1 = 我々、急行フクロウはみんな、チケットを懸賞で得たんだ。全員だよ。信じられない幸運だ。
-ticketcrow2 = キミはきっと合法的に購入したのだろう。ところで純粋にさりげない理由から、いくら[icon：pon]ポンを支払ったか教えてくれないかい？
+ticketcrow2 = キミはきっと合法的に購入したのだろう。ところで純粋にさりげない理由から、いくら[icon:pon]ポンを支払ったか教えてくれないかい？
 ticketcrow3 = 興味深い。[icon:pon][TicketPrice]ポンはあたかもクルーズチケットの通常価格と同額だ。
 ticketcrow4 = まったく正常だ。キミの口座明細書には違和感がない。
 
 destinationcrow0 = こんにちは。同乗者。旅を楽しんでいるかい。
 destinationcrow1 = ところでキミはこのクルーズが何処に向かっているか知ってるかい？私達のチケットには、それが書かれていたけれど文字が汚れてしまってね。
-destinationcrow2 = 全てそうさ。それはとても起こりそうにない事だった。私たちが何処に向かうか思い出させる事が出来るかね？
-destinationcrow3 = ああ、そうだった。「[Destination]」と切符に書かれていたのを今、思い出したよ。
+destinationcrow2 = 全てそうさ。それはとても起こりそうにない事だった。私たちが何処に向かっているか、思い出させる事が出来るかね？
+destinationcrow3 = ああ、そういえば「[Destination]」と、切符に書かれていた。今、思い出したよ。
 
 familycrow0 = [Destination]で家族が待っているんだ。そこに向かっていると思うと、とても嬉しい。 
 familycrow1 = その為に、このクルージングに乗ったのさ。
 
 reviewcrow0 = ディナーの予約が無いとは、どういう意味なんだ？
-reviewcrow1 = 他の乗客達と同じようにチケットに対して[TicketPrice][icon：pon]ポンを正確に支払ったぞ。
+reviewcrow1 = 他の乗客達と同じようにチケットに対して[TicketPrice][icon:pon]ポンを正確に支払ったぞ。
 reviewcrow2 = このクルーズ旅行に悪いレビューを書いてやるからな。
 
 [act2]
