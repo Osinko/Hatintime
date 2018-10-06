@@ -1,8 +1,8 @@
 [internal]
-conductor0 = ƒEƒB[ƒbƒN...ƒVƒ“ƒLƒ“ƒOƒVƒbƒv‚ÌƒIƒ“EƒUEƒƒbƒN‚ðƒ_ƒuƒ‹‚Å‚­‚êB
-conductor1 = ‚ ‚ A‚¨‘O‚»‚±‚É‚¢‚½‚Ì‚©B‚¦H‚È‚ñ‚¾‚©‚Ó‚ç‚Â‚¢‚Ä‚¢‚é‚¾‚Á‚ÄB
+conductor0 = ƒEƒB[ƒbƒN...ƒVƒ“ƒLƒ“ƒOƒVƒbƒv‚ÌƒIƒ“EƒUEƒƒbƒN‚ð[br]ƒ_ƒuƒ‹‚Å‚­‚êB
+conductor1 = ‚¨‚âA‚¨‘OB‚»‚±‚É‚¢‚½‚Ì‚©B‚È‚ñ‚¾B‚Ó‚ç‚Â‚¢‚Ä‚¢‚é‚¾‚Á‚ÄH
 conductor2 = ‚¨‘O‚àˆù‚Þ‚©HŠm‚©A¬‚³‚ÈƒWƒ…[ƒX‚Ìƒ{ƒgƒ‹‚ª‚ ‚Á‚½‚ÈB‚»‚ê‚ð”Þ—‚ÉB
-conductor3 = ‘O“r‚ ‚éA‚¨ì‚¿‚á‚ñ‚ÉƒJƒ“ƒpƒCB‚Å‚à‚È‚ñ‚¾HŽ„‚ª‚µ‚Ä‚¢‚é‚Ì‚ÍŽá‚¢—«‚Ìˆ×‚Å‚Í‚È‚¢‚©‚ç‚ÈB
+conductor3 = ‘O“r‚ ‚éA‚¨ì‚¿‚á‚ñ‚ÉƒJƒ“ƒpƒCB‚Å‚àA‚È‚ñ‚¾HŽ„‚ª‚µ‚Ä‚¢‚é‚Ì‚ÍŽá‚¢—«‚Ìˆ×‚Å‚Í‚È‚¢‚©‚ç‚ÈB
 
 [act2]
 conductor0 = [wave].....ƒqƒbƒN.....‚æ‚¨A‚±‚ñ‚É‚¿‚Í‚¨ì‚¿‚á‚ñI[/wave]
@@ -15,16 +15,16 @@ conductor0 = ‚³‚ÄA‘åƒXƒ^[‚É‚È‚Á‚½¬‚³‚«——D‚Ì‚¨‘O‚ªA‚»‚Ì—§ê‚ð‚Ç‚Ì‚æ‚¤‚ÉŽg‚¤‚
 conductor1a = ‚ ‚ÌŽž‚Ì‚±‚Æ‚Åƒp[ƒ`ƒN–ì˜Y‚Ì[icon:djgrooves] [name]DJƒOƒ‹[ƒ”[/name]‚ÆƒIƒŒ‚ÌŽ–‚ª—Ç‚­‚í‚©‚Á‚½‚¾‚ë‚¤B‚¨‘O‚Í^ŽÀ‚ð–\‚¢‚½‚ñ‚¾B
 conductor1b = ‚ ‚ AƒiƒCƒtŽ–Œ‚Â‚¢‚Ä‚Í\‚µ–ó‚È‚­Žv‚Á‚Ä‚¢‚é‚æB“¯—»‚½‚¿‚ÌR‹c‚ðŽû‚ß˜A’†‚É‚Í‚©‚ñŒû—ß‚ðŽwŽ¦‚µ‚½B‚¨’‚è‚ª‚·‚¬‚½‚©‚ÈH
 conductor1c = ƒŠƒ‰ƒbƒNƒX‚·‚éˆ×‚ÉA‚¤‚é‚³‚¢[icon:djgrooves][name]DJƒOƒ‹[ƒ”[/name]‚Æ­‚µ‹——£‚ð’u‚¢‚ÄƒIƒt‚ÌŽžŠÔ‚ðŽæ‚Á‚½‚ñ‚¾B
-conductor2 = ‚Æ‚É‚©‚­•ÛˆçŠ‚ª‚Ç‚±‚É‚ ‚é‚Ì‚©A‚½‚¸‚Ë‚é•K—v‚ª‚ ‚é‚ÈBŽ„‚Ìˆ¤‚·‚×‚«¬‚³‚Èƒ„ƒ“ƒ`ƒƒ‹¤‚ð˜A‚ê‚Äƒo[‚É‚Ís‚¯‚È‚¢‚¾‚ëH
+conductor2 = ‚»‚ñ‚ÈŽ–‚æ‚è•ÛˆçŠ‚ª‚Ç‚±‚É‚ ‚é‚Ì‚©A‚½‚¸‚Ë‚é•K—v‚ª‚ ‚é‚ÈBŽ„‚Ìˆ¤‚·‚×‚«¬‚³‚Èƒ„ƒ“ƒ`ƒƒ‹¤‚ð˜A‚ê‚Äƒo[‚É‚Ís‚¯‚È‚¢‚¾‚ëH
 
 [act3]
 finale0 = ‘Ò‚ÄA‚¨ì‚¿‚á‚ñB‚Ç‚±‚És‚­‚ñ‚¾HƒIƒŒ‚ð•‚¯‚Ä‚­‚ê‚È‚¢‚Ì‚©H
-finale1 = ’¾‚ñ‚Å‚¢‚é‘D‚É•ß‚Ü‚Á‚Ä‚¢‚ç‚ê‚È‚¢‚ñ‚¾I‚¨‘O‚ª‚·‚®‚É–ß‚Á‚Ä—ˆ‚È‚¯‚ê‚ÎA‰äX‚Í‚«‚Á‚ÆA‚±‚Ì¢‚©‚ç‚¨‚³‚ç‚Î‚·‚éŽ–‚É‚È‚é‚¾‚ë‚¤I
+finale1 = ’¾‚ñ‚Å‚¢‚é‘D‚É•ß‚Ü‚Á‚Ä‚¢‚ç‚ê‚È‚¢‚ñ‚¾I‚¨‘O‚ª‚·‚®‚É–ß‚Á‚Ä—ˆ‚È‚¯‚ê‚ÎA‰äX‚Í‚«‚Á‚ÆA‚±‚Ì¢‚©‚ç‚¨ƒTƒ‰ƒo‚·‚éŽ–‚É‚È‚é‚¾‚ë‚¤I
 
 conductor0 = ‚¨ì‚¿‚á‚ñB‰½ˆ‚¾H‘D‚ª’¾‚ñ‚Å‚¢‚éA‘‚­‚±‚±‚©‚ç’Eo‚·‚é‚ñ‚¾I
 conductor1 = [scream]‚±‚±‚Éæ‚êAì‚¿‚á‚ñIo”­‚·‚é‚¼I[/scream]
 
-conductor2 = ƒzƒbA‚ ‚è‚ª‚Æ‚¤A‚¨ì‚¿‚á‚ñB‚¨ƒ`ƒr‹¤‚ÍA‚Ü‚¾‰j‚¬‚ðŠw‚ñ‚Å–³‚©‚Á‚½‚ñ‚¾I
+conductor2 = ƒt`ƒbB‚ ‚è‚ª‚Æ‚æA‚¨ì‚¿‚á‚ñB‚¨ƒ`ƒr‹¤‚ÍA‚Ü‚¾‰j‚¬‚ðŠw‚ñ‚Å–³‚©‚Á‚½‚ñ‚¾I
 
 carried0 = ‚ ‚ I‹C‚ð•t‚¯‚Ä‚­‚êì‚¿‚á‚ñB‚»‚ê‚ÍŽ„‚Ì‰Hª‚¾I
 

@@ -109,11 +109,11 @@ NoBonkBadgeDesc0 = ダイブ中、壁にぶつからなくなる！
 
 HatCooldownBonusBadgeName = クールダウンのバッジ
 HatCooldownBonusBadgeDesc0 = 帽子使用時のクールダウン時間を短縮します！
-
-MirrorBadgeName = Mirror Badge
+//TODO
+MirrorBadgeName = 鏡のバッジ
 MirrorBadgeDesc0 = Dnuora gnihtyreve spilf!
 
-NostalgiaBadgeName = Nostalgia Badge
+NostalgiaBadgeName = ノスタルジアのバッジ
 NostalgiaBadgeDesc0 = Everything is better when it's worse!
 
 [loot]
@@ -133,7 +133,7 @@ VaultCodeRedName = 赤い金庫のパスワード
 VaultCodeGreenName = 緑の金庫のパスワード
 VaultCodeBlueName = 青い金庫のパスワード
 VaultCodeYellowName = 金色の金庫のパスワード
-
+//TODO
 [skins]
 SkinDesc0 = 服や髪の色を変更します！
 SkinDesc_Outfit0 = Swap your outfit!
@@ -159,10 +159,10 @@ Cardboard = 段ボール
 RaincoatName = レインコート
 ParadeName = パレード衣装
 DetectiveName = 探偵衣装
-QueenDressGreenName = The Queen's Dress
+QueenDressGreenName = お姫様のドレス
 WitchDressName = Witch Outfit
-MaterialSkin_Gold_Name = 24 Karat Kid
-MaterialSkin_Metal_Name = Metallic
+MaterialSkin_Gold_Name = 24カラット キッド
+MaterialSkin_Metal_Name = メタリック
 MaterialSkin_Shadow_Name = Shadow Puppet
 MaterialSkin_Space_Name = Transcendent
 HK64_Name = Virtual Kid
@@ -185,9 +185,9 @@ SubconVillageScifiName = 潜在意識の村（SF Remix）
 SnatcherBossOrchestralName = 契約切れ（オーケストラRemix）
 
 [camerafilters]
-CameraFilter = Camera Filter
-CameraFilterDesc0 = A new camera filter has been unlocked
-CameraFilterDesc1 = for your [icon:camerabadge][name]Camera Badge[/name]!
+CameraFilter = カメラフィルター
+CameraFilterDesc0 = 新しいカメラフィルターがアンロックされた
+CameraFilterDesc1 = [icon:camerabadge][name]カメラバッジ[/name]で利用できます！
 ActionBlueName = アクションブルー
 DreamyName = ドリーミー
 SunriseName = 80s
@@ -220,21 +220,21 @@ UFOName = UFOとキャトルミューティレーション
 UFODesc0 = 何コレ！？こんなの全然宇宙船じゃない！
 UFODesc1 = 森はどこ？どうして牛を吸い込んでいるの？
 UFODesc2 = こんなの侮辱的だわ！訴えてやる！
-
+//TODO要確認
 CrayonCompleteName = 3色お絵かきセット
 CrayonCompleteDesc0 = これはイタズラする為に作られたもの。絶対そう。これを持ってありとあらゆるものにラクガキしたい。
 CrayonCompleteDesc1 = この破壊的なキットは法律で違法なものとして規制されているに違いないわ。
-CrayonCompleteDesc2 = この宝ものはレアなのよ。パッケージが未開封であれば、なお良かったけど、どこのモンスターが箱を開けたのかしら。
+CrayonCompleteDesc2 = この宝はレアものなの。パッケージが未開封であれば、なお良かったけれど、どこのモンスターが箱を開けたのかしら。
 
 BurgerCushionName = 地球人用着席デバイス
 BurgerCushionDesc0 = 研究によるとこの物体の上に座ると、とっても柔らかくて心地がいいらしい。
 BurgerCushionDesc1 = 非常に柔らかく、あの星でイスとして使われていたとしか合理的な結論は導けない。
 BurgerCushionDesc2 = これはおかしじゃないわ。少し食べてみたけど、布のような味がしたもの。
 
-CakeTowerName = Cake Museum
-CakeTowerDesc0 = A fancy metal platform for displaying cakes.
-CakeTowerDesc1 = What kind of person would just show them off, though? They're for eating!
-CakeTowerDesc2 = ... I can't reach the ones on the top shelf.
+CakeTowerName = ケーキ博物館
+CakeTowerDesc0 = 金属製の台の上に飾られたカワイイケーキ。
+CakeTowerDesc1 = どんな人がこれを全部食べることが出来るのかしら？ムリよ！
+CakeTowerDesc2 = ...一番上の段でさえ私には出来ない。
 
 [ItemQuality]
 SupporterPrefix = サポーター

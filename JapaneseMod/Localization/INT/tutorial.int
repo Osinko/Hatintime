@@ -13,7 +13,7 @@ homingattack = 空中で自動誘導攻撃
 helper_ability_no_target = 辺りにおもしろそうなものはない…
 smooch = キスする
 timestophat = あなたが[icon:timestophat]を使うと近くの物体がゆっくり動きます
-carry_too_much = 気を付けて！乱暴に運ぶとゆれます
+carry_too_much = 気を付けて！乱暴に運ぶと傾くよ
 
 drop_carry = 落とす
 throw_carry = 投げる
