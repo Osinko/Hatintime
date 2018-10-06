@@ -7,7 +7,7 @@ Location_MainHall = メインホール
 Location_MachineRoom = 機関室
 Location_Basement = 地下
 Location_Attic = 屋根裏
-Location_LandryRoom = Laundry Room
+Location_LandryRoom = ランドリー室
 
 [Ending]
 ThrowMu0 = [icon:timepiece][timepiece]時間のピース[/timepiece]を1つ落とし、[icon:mugirl][name]赤ずきんの女の子[/name]に[icon:timepiece][timepiece]時間のピース[/timepiece]の力を貸して[name]マフィア[/name]を倒す？[br]（もしかしたら家に帰れなくなるかも）

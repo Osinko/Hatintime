@@ -9,8 +9,8 @@ MountainPeak = 山の頂上
 FreeRoamDesc = お好きにどうぞ
 
 [coop]
-SyncBusyWait0 = Waiting for player 1!
-SyncBusyWait1 = Waiting for player 2!
+SyncBusyWait0 = プレイヤー1はお待ちください!
+SyncBusyWait1 = プレイヤー2はお待ちください!
 
 [cheats]
 disallowed_outside_editor = エディター外

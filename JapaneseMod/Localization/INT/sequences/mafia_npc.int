@@ -109,12 +109,12 @@ boss_godown0 = ‚±‚ê‚Å‚Íƒ‰ƒ`‚ª–¾‚©‚È‚¢Iƒ}ƒtƒBƒA‚Íƒ}ƒtƒBƒA‚Ì‚â‚è•û‚ÅƒJƒ^‚ğ•t‚¯‚é
 boss_godown1 = ƒ}ƒtƒBƒA‚ªƒOƒ‰ƒ“ƒ}‚É‚µ‚Ä‚«‚½‚±‚Æ‚ğ‚¨‘O‚É‚à–¡‚í‚í‚¹‚Ä‚â‚éI
 
 [chapter1bullying]
-scream0 = Eat dirt!
+scream0 = “D‚ğH‚¦I
 scream1 = Bow to Mafia!
-scream2 = Ha ha!
-scream3 = Take this! And this!
-scream4 = Take this! And that!
-scream5 = Feel the pain? Good!
+scream2 = ƒnƒ@ƒbAƒnI
+scream3 = ‚±‚ê‚Å‚àH‚ç‚¦I
+scream4 = ‚»‚±‚¾I
+scream5 = ’É‚¢‚©HƒˆƒVI
 scream6 = Mafia just help you build character!
 
 [bazaar]
