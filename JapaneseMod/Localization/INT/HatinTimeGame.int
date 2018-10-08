@@ -53,10 +53,10 @@ TimeRift_Cave_Alps = アルプススカイライン
 
 Chapter5_Finale = 最期の時
 act_5_1 = The Finale
-
+//代案キャプテンオーダー・船員の星・船の日常・船員生活・
 Chapter6_Cruise = 北極クルーズ
 Cruise_Act1 = ボン・ボヤージュ！
-Cruise_Act2 = 船の形
+Cruise_Act2 = お手伝いマラソン
 Cruise_Act3 = 岩のボート
 TimeRift_Cave_Cruise = 深海
 TimeRift_Water_Cruise_Slide = バルコニー
