@@ -2,22 +2,22 @@
 Conditions_3Lives = You have 3 lives
 Conditions_3Checkpoints = You can retry from last checkpoint 3 times
 Conditions_NoHealth = No health pons
-Conditions_NoCheckpoints = No checkpoints
-Conditions_ClearLevel = You have to collect a Time Piece
+Conditions_NoCheckpoints = チェックポイントなし
+Conditions_ClearLevel = 拾ったタイムピース
 Conditions_EasyMode = Peace and Tranquility is enabled
 
-Contract_Clear = Clear!
-Contract_Unlocked = Unlocked
-Obj_Bonus = Bonus
-Obj_Complete = Complete
-Obj_Failed = Failed
-Best_Time = Best Time
-Best_Score = Best Score
+Contract_Clear = クリア！
+Contract_Unlocked = アンロック
+Obj_Bonus = ボーナス
+Obj_Complete = 完了
+Obj_Failed = 失敗
+Best_Time = ベストタイム
+Best_Score = ベストスコア
 
 [Hat_SnatcherContract_DeathWish_Intro_100Pons]
-Title = Pon Fanatic
-Objective = Collect 20 Pons
-50Pons = Collect 50 Pons
+Title = ポンの狂信者
+Objective = 20ポン集める
+50Pons = 50ポン集める
 100Pons = Collect 100 Pons
 Tip0 = You know what [icon:money] [name]Pons[/name] are, right? Those little green things?[br]They're everywhere. Please tell me you know what [icon:money] [name]Pons[/name] are.
 
