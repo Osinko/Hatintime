@@ -4,7 +4,7 @@ Conditions_3Checkpoints = You can retry from last checkpoint 3 times
 Conditions_NoHealth = No health pons
 Conditions_NoCheckpoints = チェックポイントなし
 Conditions_ClearLevel = 拾ったタイムピース
-Conditions_EasyMode = Peace and Tranquility is enabled
+Conditions_EasyMode = イージーモードが有効になりました
 
 Contract_Clear = クリア！
 Contract_Unlocked = アンロック
@@ -18,14 +18,14 @@ Best_Score = ベストスコア
 Title = ポンの狂信者
 Objective = 20ポン集める
 50Pons = 50ポン集める
-100Pons = Collect 100 Pons
-Tip0 = You know what [icon:money] [name]Pons[/name] are, right? Those little green things?[br]They're everywhere. Please tell me you know what [icon:money] [name]Pons[/name] are.
+100Pons = 100ポン集める
+Tip0 = お前は[icon:money] [name]ポン[/name]が何か知っているよな？至る所にある小さな緑色のアレだ。その[icon:money] [name]ポン[/name]がどんなモノであるのか、詳しく私に教えてくれないか。
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
-Title = The Great Big Hootenanny
-Objective = Complete The Big Parade
-AllTokens = Don't let any DJ Grooves tokens expire
-NoHit = Don't get hit by the Express Band
+Title = グレート ビッグ パレード
+Objective = パレードを最後まで終わらせる
+AllTokens = DJグルーヴ トークンが無くならない様にする
+NoHit = 急行バンドを攻撃しないで
 BigBand = It looks like you've gained quite a following
 Tip0 = These dumb owls will follow you anywhere. Maybe you can keep them busy by [name]running around in circles[/name].
 
@@ -47,16 +47,16 @@ Condition = Security has been upped, significantly
 Tip0 = This will be your hardest task of all: [name]Not being a nuisance![/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
-Title = Beat the Heat
-Objective = Turn off all the lava faucets
-AvoidLava = Don't get too hot!
-MinWater = Don't cool down more than 2 times
-Condition = It's much hotter than usual, cool yourself off!
-Tip0 = Don't worry about doing every task on your contract at the same time. You can even [name]come back later[/name] and do them, I don't mind! Really![br][shake][scream]TAKE ALL THE TIME YOU NEED.[/scream][/shake]
-EasyTip = Take a dip after every faucet!
+Title = 踊る溶岩
+Objective = すべての溶岩の弁を閉めろ
+AvoidLava = 溶岩に一度もふれない
+MinWater = 2回以上クールダウンしない
+Condition = 暑くなってきたら水に入って体を冷やそう
+Tip0 = 契約は同時にいくつも進行させる事が出来るぞ。[name]難しい契約は後回しにする事も出来る[/name]。私はその事を気にしたりしない。[br][shake][scream]お前の心をへしおってやる[/scream][/shake]
+EasyTip = 弁を閉めたらひと泳ぎすると良いでしょう！
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
-Title = Zero Jumps
+Title = 跳ぶ事を禁じる
 Objective = Collect any Time Piece without jumping
 Condition = You jump, you die!
 Collect4 = Collect 4 Time Pieces without jumping
@@ -298,12 +298,12 @@ Condition = She stole a bunch of those weird Time Pieces!
 Tip0 = Don't go all gung-ho into this one like you usually do. Try staying alive, and learn how to [name]dodge her attacks[/name] first.
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
-Title = Snatcher's Hit List
-Objective = Kill 5 Mafia without getting punched
-NoBully = Kill 10 Pushy Crows without getting bullied
-KillEmAll = Kill every type of enemy
-Condition = They've got you all figured out!
-Tip0 = Make sure you [name]kill everybody[/name] on this list, alright? Some of them are hard to find. You might need to look in [name]different chapters[/name].
+Title = スナッチャーのSATUGAIリスト
+Objective = 殴られることなく5人のマフィアを倒す
+NoBully = いじめられずに強引なカラスを10人倒す
+KillEmAll = 目に見える敵を全部倒せ
+Condition = 彼らは全ての事を理解した
+Tip0 = このリストにのっているヤツを[name]全員殺すんだ[/name]。わかったな？一部の奴らは隠れている事もある。[name]他の章[/name]まで探す必要があるかもな。
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
 Title = Cruisin' for a Bruisin'
@@ -315,14 +315,14 @@ Condition = There's no end in sight
 Tip0 = Take some time to [name]study the layout[/name] of the ship. There may be some routes you didn't even know about!
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
-Title = So You're Back from Outer Space
-Objective = Reach the Time Piece
-Kills = Smash all the UFOs
-Speed = Reach the end in 65 seconds
-Speed_Easy = Reach the end in 3 minutes
-Condition = Mafia saw spaceship!!
-Tip0 = You won't get very far in this one unless you know how to [name]cancel your dive to climb a wall[/name], whatever that means. I'll let you figure it out.
-EasyTip = Try using your TimeStop hat!
+Title = 外宇宙から帰ってきた女
+Objective = タイムピースを手に入れる
+Kills = すべてのUFOを破壊する
+Speed = 65秒以内にタイムピースを手に入れる
+Speed_Easy = 3分以内にタイムピースを手に入れる
+Condition = マフィアは宇宙船を見た！！
+Tip0 = ダイブ中にキャンセルするテクニックを利用すると、より遠くに飛べたり、高い場所にある壁に登れるぞ。言っている意味が理解出来ないなら進む事は難しいだろう。
+EasyTip = 時間停止の帽子を使ってみろ！
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
 Title = Community Rift: Rhythm Jump Studio

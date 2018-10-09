@@ -56,16 +56,16 @@ WindmillCheckpoint1 = [shake2]You're almost there, but you've still got plenty o
 WindmillBirds0 = [shake2]These birds are so angry, I wonder why?[shake2]
 WindmillBirds1 = [shake2]Looks like you're the only thing they can take it out on, though! How unfortunate.[shake2]
 WindmillFire0 = [shake2]Whoops! Looks like everything's on fire. [wave]I wonder how that happened.[/wave][shake2]
-
+//溶岩地帯の煽り
 [HeatingUpHarder]
 Intro0 = [shake2]All this heat's great, eh? Personally I prefer freezing to death.[/shake2]
 Intro1 = [shake2]Is it HOT in here, or is it just- oh, that's a lot of lava.[/shake2]
-Intro2 = [shake2][wave][scream]AHHAHAHAHA!! YES! BURN![/scream][/wave][/shake2]
+Intro2 = [shake2][wave][scream]アーーッハッハッハッハ！！もっと燃えろ！[/scream][/wave][/shake2]
 Intro3 = [shake2]If I knew setting you on fire was this easy, I would have done it ages ago![/shake2]
 Intro4 = [shake2]Hey kid, I think I see some icecream over there. [wave]Oops! It melted![/wave][/shake2]
 Intro5 = [shake2]I can smell something burning... and it isn't my forest.[/shake2]
 Intro6 = [shake2]Come on kid, this is like, what, the first contract?[/shake2]
-Intro7 = [shake2]What's cookin' kiddo? Oh! It's [scream][big]YOU![/big][/scream][/shake2]
+Intro7 = [shake2]こんがり焼けたか？キッド。[scream][big]お前がだぜ？[/big][/scream][/shake2]
 Intro8 = [shake2]Getting too warm, kid? I'm sure there's someone here who can cool you off... for good.[/shake2]
 Intro9 = [shake2]It must be hard to think straight in all that heat, kiddo. There's no shame in [wave]giving up.[/wave][/shake2]
 
@@ -118,28 +118,28 @@ cans_b4 = [wave]Have fun![/wave]
 cans_c0 = Wow you actually did it, what a dummy.
 cans_c1 = Err... I mean, congratulations!!
 cans_c2 = Now take this [timepiece]secret thing[/timepiece]. You've earned it!
-
+//スタート地点
 [Hub]
-deathwish_intro0 = [shake2]Nice place you've got here, kiddo! What's up? Still alive and well, I see. What a shame.[/shake2]
-deathwish_intro1 = [shake2]How about we fix that with a little deal? Tell you what, you do some fresh new contracts for me, and I'll reward you handsomely. If you survive, that is.[/shake2]
-deathwish_intro2 = [shake2]I've got [hint]this little map[/hint] for you. You'll notice I've marked just one contract on it for now, you'll have to complete it before you unlock the rest. Checks and balances, you know.[/shake2]
-deathwish_intro3 = [shake2]And be careful, kid. These aren't your average everyday contracts. These are... [wave]Advanced Contracts.[/wave][/shake2]
-deathwish_intro4 = [shake2]We wouldn't want you to [scream][big]DIE[/big][/scream] on the job, right?[/shake2]
-deathwish_intro5 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
-
-deathwish_post_intro0 = [shake2]Well done kiddo! You can light a candle, I'm real impressed. You can complete these contracts in [hint]any act[/hint]. Some acts might be more suitable than others, so go take your pick![/shake2]
-deathwish_post_intro1 = [shake2]What are you waiting for? Go on! Shoo![/shake2]
+deathwish_intro0 = [shake2]なかなか良い所に住んでるじゃないかキッド！元気か？また生きて会えるとは残念だ。[/shake2]
+deathwish_intro1 = [shake2]どうだい？お互いの為に、ささやかな取引関係を修復しようじゃないか？私は、お前に対し新鮮な契約を持って来る。お前が私の契約を履行出来れば報酬を受け取る事が出来る。もっとも生きていればの話だが。[/shake2]
+deathwish_intro2 = [shake2][hint]この小さな地図[/hint]をお前にやろう。現在、ひとつの契約がマークされている事に気が付くだろう。契約の履行が完了するとチェックされ残りがアンロックされる。どうだ。健全な運営だろ？[/shake2]
+deathwish_intro3 = [shake2]せいぜい気を付けるんだな。キッド。これはお前が今まで受けてきた普通の契約とは違う。...[wave]より高難度な契約だ。[/wave][/shake2]
+deathwish_intro4 = [shake2]私はお前に仕事中、[scream][big]死んで[/big][/scream]欲しくないんだよ。[/shake2]
+deathwish_intro5 = [shake][big][scream][wave]アーーッハッハッハッハッハ！！[/wave][/scream][/big][/shake]
+//2章目
+deathwish_post_intro0 = [shake2]よくやったキッド！ロウソクに灯りがついただろう。私は感動したよ。[hint]これで一つの契約が完了した訳だ。[/hint]これは、ほんの一部でお前の手腕に相応しい物を今後も用意するつもりだ。好きなものを選んでくれ。[/shake2]
+deathwish_post_intro1 = [shake2]なにをボーッとしているんだ？行け！続けるんだ。[/shake2]
 
 deathwish_coop_disabled = Snatcher can only take one legal client at a time, unfortunately.
 
-deathwish_open0 = [shake2]Back for more, kid? Well, let's take a look at your map...[/shake2]
-deathwish_open1 = [shake2]Take out that map, kid. We're doing some contracts.[/shake2]
-deathwish_open2 = [shake2]What do you want, kid? I'm re-reading my favorite part of this book.[/shake2]
-deathwish_open3 = [shake2]You ready to die some more? Great![/shake2]
-deathwish_open4 = [shake2]Hey look, it's the annoying kid who dies all the time![/shake2]
-deathwish_open5 = [shake2]Do you have a Death Wish, kid? I've got plenty![/shake2]
-deathwish_open6 = [shake2]Time to get back to work![/shake2]
-deathwish_open7 = [shake2]Back to the old grindstone![/shake2]
+deathwish_open0 = [shake2]戻って来たのかキッド。さて、地図を見てみようじゃないか。[/shake2]
+deathwish_open1 = [shake2]地図を持っていけ。キッド。契約を履行するんだ。[/shake2]
+deathwish_open2 = [shake2]なんだ？キッド。私はここでお気に入りの本を読みふけりたいのだが。[/shake2]
+deathwish_open3 = [shake2]雑巾のように死ぬ準備は出来たかい？素晴らしい。[/shake2]
+deathwish_open4 = [shake2]ちょっと見て。何時も死ぬ迷惑なガキだ。[/shake2]
+deathwish_open5 = [shake2]死にたいのか？キッド。私が手伝ってやるぞ。[/shake2]
+deathwish_open6 = [shake2]仕事に戻る時間だ。[/shake2]
+deathwish_open7 = [shake2]諦めず帰ってきたか！[/shake2]
 
 dw_25_complete0 = [shake2]Wow kid, look at you go! Maybe you're sturdier than you look.[/shake2]
 dw_25_complete1 = [shake2]You've got a good number of contracts under your belt, but there's plenty more where that came from![/shake2]
