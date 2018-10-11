@@ -303,7 +303,7 @@ Objective = 殴られることなく5人のマフィアを倒す
 NoBully = いじめられずに強引なカラスを10人倒す
 KillEmAll = 目に見える敵を全部倒せ
 Condition = 彼らは全ての事を理解した
-Tip0 = このリストにのっているヤツを[name]全員殺すんだ[/name]。わかったな？一部の奴らは隠れている事もある。[name]他の章[/name]まで探す必要があるかもな。
+Tip0 = このリストにのっているヤツを[name]全員倒すんだ[/name]。わかったな？一部の奴らは隠れている事もある。[name]他の章[/name]まで探す必要があるかもな。
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
 Title = Cruisin' for a Bruisin'
@@ -320,7 +320,7 @@ Objective = タイムピースを手に入れる
 Kills = すべてのUFOを破壊する
 Speed = 65秒以内にタイムピースを手に入れる
 Speed_Easy = 3分以内にタイムピースを手に入れる
-Condition = マフィアは宇宙船を見た！！
+Condition = マフィアは宇宙船を見たんだ！！
 Tip0 = ダイブ中にキャンセルするテクニックを利用すると、より遠くに飛べたり、高い場所にある壁に登れるぞ。言っている意味が理解出来ないなら進む事は難しいだろう。
 EasyTip = 時間停止の帽子を使ってみろ！
 
