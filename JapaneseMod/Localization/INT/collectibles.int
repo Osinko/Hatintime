@@ -46,7 +46,7 @@ ChemicalDescFun0 = マッドな薬剤を調合！
 ChemicalDescTech0 = [button:badge]で爆発する薬瓶を投げる！
 
 TimeStopName = 時間停止の帽子
-TimeStopDescFun0 = 生あるものはいつか死ぬ。時間は何より大切だ。
+TimeStopDescFun0 = 死は避けられない。あなたの時間には価値がある
 TimeStopDescTech0 = [button:badge]で時の流れを遅くする！
 
 FoxMaskName = 住人の仮面
