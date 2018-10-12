@@ -13,6 +13,7 @@ Obj_Complete = 完了
 Obj_Failed = 失敗
 Best_Time = ベストタイム
 Best_Score = ベストスコア
+Lives_Remaining = 残りの命
 
 [Hat_SnatcherContract_DeathWish_Intro_100Pons]
 Title = ポンの狂信者
