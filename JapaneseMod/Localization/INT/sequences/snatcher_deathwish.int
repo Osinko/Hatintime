@@ -62,7 +62,7 @@ Intro0 = [shake2]‚±‚Ì‹‚³B‚·‚²‚¢‚æ‚ËHŒÂl“I‚É„‚Íƒqƒ„ƒb‚Æ‚·‚é€‚Ì—â‚½‚³‚ªD‚«‚
 Intro1 = [shake2]‚½‚¾‚Ì‘å—Ê‚Ì—nŠâ‚¾B‚µ‚©‚µA‚±‚±‚Í–{“–‚É‹‚¢‚ÈB[/shake2]
 Intro2 = [shake2][wave][scream]ƒA[[ƒbƒnƒbƒnƒbƒnƒbƒnII‚à‚Á‚Æ”R‚¦‚ëI[/scream][/wave][/shake2]
 Intro3 = [shake2]‚à‚µA„‚ª‚¨‘O‚ğ‰Î‚Ì’†‚É•ú‚è‚ß‚ê‚Î–‚ÍŠÈ’P‚ÉÏ‚Ş‚¾‚ë‚¤B‚»‚ê‚ªo—ˆ‚ê‚Î‚Æ‚¤‚ÌÌ‚É‚â‚Á‚Ä‚¢‚é‚ª‚ÈB[/shake2]
-Intro4 = [shake2]‚¨‚¢BƒLƒbƒhB‚»‚±‚ÉƒAƒCƒXƒNƒŠ[ƒ€‚ª‚ ‚é‚ºB[wave]‚¨‚Á‚ÆI‚à‚¤—n‚¯‚¿‚Ü‚Á‚½[/wave][/shake2]
+Intro4 = [shake2]‚¨‚¢BƒLƒbƒhB‚»‚±‚ÉƒAƒCƒXƒNƒŠ[ƒ€‚ª‚ ‚é‚ºB[wave]‚¨‚Á‚ÆI‚à‚¤—n‚¯‚¿‚Ü‚Á‚½B[/wave][/shake2]
 Intro5 = [shake2]‰½‚©‚ªÄ‚¯‚é“õ‚¢‚ª‚·‚é‚È...„‚ÌX‚Å‚È‚¯‚ê‚Î—Ç‚¢‚ªB[/shake2]
 Intro6 = [shake2]—ˆ‚¢‚æBƒLƒbƒhB‰½H‚±‚ê‚Í‚Ü‚é‚ÅÅ‰‚ÌŒ_–ñ‚Ì—l‚¾‚Á‚ÄB[/shake2]
 Intro7 = [shake2]‚±‚ñ‚ª‚èÄ‚¯‚½‚©HƒLƒbƒhB[scream][big]‚¨‘O‚ª‚¾‚ºH[/big][/scream][/shake2]
@@ -70,8 +70,8 @@ Intro8 = [shake2]‹C‚¿‚¢‚¢‚©BƒLƒbƒhH‚±‚ê‚Í—lX‚ÈêŠ‚É‚ ‚Á‚ÄA‚±‚ê‚Å‘Ì‚ğ—â‚â‚
 Intro9 = [shake2]‚±‚Ì‹‚³‚É‘Î‚µ‚ÄƒXƒgƒŒ[ƒg‚É“®‚­‚Ì‚Í“ï‚µ‚¢‚Æv‚¤‚ºBƒLƒbƒhB[wave]ƒMƒuƒAƒbƒv[/wave]‚Í’p‚¸‚©‚µ‚¢–‚¶‚á‚È‚¢‚ñ‚¾B[/shake2]
 
 [StudioMoreGuards]
-Intro0 = [shake2]‚¨‘O‚ªo‰‰‚µ‚Ä‚¢‚é‰f‰æ‚ªˆÀ”„‚èƒƒSƒ“‚É“ü‚Á‚Ä‚¢‚é‚Ì‚ğŒ©‚½‚¼B„‚Í‚»‚ñ‚È‚à‚Ì”ƒ‚í‚È‚©‚Á‚½‚ª‚ÈB[/shake2]
-Intro1 = [shake2]‚æ‚§BƒLƒbƒhB‚¨‘O‚ªo‰‰‚µ‚Ä‚¢‚é‰f‰æ‚ğ¡‚¿‚å‚¤‚ÇŠC‘¯ƒTƒCƒg‚©‚çƒ_ƒEƒ“ƒ[ƒh‚µ‚Ä‚¢‚½‚ñ‚¾B‚à‚¿‚ë‚ñ“r’†‚ÅƒLƒƒƒ“ƒZƒ‹‚µ‚½‚ºB[/shake2]
+Intro0 = [shake2]‚¨‘O‚ªo‰‰‚µ‚Ä‚¢‚é‰f‰æ‚ªƒƒSƒ“ƒZ[ƒ‹‚É“ü‚Á‚Ä‚¢‚é‚Ì‚ğŒ©‚½‚¼B„‚Í‚»‚ñ‚È‚à‚Ì”ƒ‚í‚È‚©‚Á‚½‚ª‚ÈB[/shake2]
+Intro1 = [shake2]‚æ‚§BƒLƒbƒhB‚¨‘O‚ªo‰‰‚µ‚Ä‚¢‚é‰f‰æ‚ğ¡‚¿‚å‚¤‚ÇŠC‘¯ƒTƒCƒg‚©‚çƒ_ƒEƒ“ƒ[ƒh‚µ‚Ä‚¢‚½‚ñ‚¾B‚à‚¿‚ë‚ñ“r’†‚ÅƒLƒƒƒ“ƒZƒ‹‚µ‚½‚ª‚ÈB[/shake2]
 
 [PonFrenzy]
 Intro0 = [shake2]‚¨‘O‚É¿‹‚³‚ê‚½Å‹à‚ğ‚±‚Ìƒ|ƒ“‚Å•¥‚¨‚¤‚ºB[/shake2]
@@ -79,45 +79,45 @@ Intro1 = [shake2]„‚Í‚Æ‚É‚©‚­A‚±‚ÌƒCƒ“ƒN‚Ìx•¥‚¢‚ğÏ‚Ü‚¹‚Ä’u‚­B‚³‚ As‚Á‚ÄW‚
 Intro2 = [shake2]‚¨‹à‚ğŒ©‚¹‚ÄI[/shake2]
 
 [CruiseWorkingHard]
-Intro0 = [shake2]Those seals are accident-prone, and incapable of performing the most basic tasks... and yet, they'd still be better at this than you.[/shake2]
-Intro1 = [shake2]This captain guy is great! His dead eyes and musty smell reminds me of home.[/shake2]
-Intro2 = [shake2]Did you know this cruise ship has a strict policy against stealing souls? It's ridiculous. I should sue![/shake2]
-Intro3 = [shake2]Whoops! I just accidentally ordered a hundred drinks. And how did those babies get loose? [wave]Clumsy me![/wave][/shake2]
+Intro0 = [shake2]‚±‚±‚Ìæ‘gˆõ‚ÍƒhƒW‚Åƒmƒƒ}‚Èd–‚ªo—ˆ‚È‚¢˜A’†‚¾B‚Ü‚ A‚¨‘O‚æ‚èƒ}ƒV‚©‚à‚µ‚ê‚ñ‚ª‚ÈB[/shake2]
+Intro1 = [shake2]‚±‚ÌƒLƒƒƒvƒeƒ“‚Í‚È‚©‚È‚©‘f°‚ç‚µ‚¢I”Ş‚Ì€‚ñ‚¾‚æ‚¤‚È–Ú‚ÆŒµ‚µ‚¢•µˆÍ‹C‚Í„‚Ì‰Æ‘°‚ğv‚¢‹N‚±‚³‚¹‚éB[/shake2]
+Intro2 = [shake2]‚±‚ÌƒNƒ‹[ƒU[‚ª°‚Ì“‚İ‚É‘Î‚µŒµ‚µ‚¢ƒ|ƒŠƒV[‚ğ‚Â–‚Í’m‚Á‚Ä‚¢‚½‚©‚¢H‰ÂÎ‚µ‚¢‚æ‚ËB‘i‚µ‚Ä‚â‚ë‚¤‚©I[/shake2]
+Intro3 = [shake2]‚¨`‚Á‚ÆIŠÔˆá‚Á‚ÄƒhƒŠƒ“ƒN‚ğ100ŒÂ’•¶‚µ‚¿‚á‚Á‚½B‚³‚ç‚ÉÔ‚ñ–V‚ª’E‘–‚µ‚½‚¼B[wave]ƒhƒW‚È„B[/wave][/shake2]
 
 [NiceBirdhouse]
-BirdHurt0 = [shake2]You're supposed to NOT kill the birds, remember?[/shake2]
-BirdHurt1 = [shake2]Look what you did! Don't you feel [wave]ashamed?[/wave][/shake2]
-BirdHurt2 = [shake2]Wow! You're even more of a heartless monster than I am![/shake2]
-BirdHurt3 = [shake2][wave]Noooo![/wave] That poor birdie![/shake2]
-BirdHurt4 = [shake2]That bird was only two days away from retirement.[/shake2]
-BirdHurt5 = [shake2]That bird had three children! Guess they're orphans now. [wave]Ooops![/wave][/shake2]
-BirdHurt6 = [shake2]You know you don't need to do that, right kid? This isn't one of those games that tries to make you feel bad.[/shake2]
+BirdHurt0 = [shake2]‰¯‚¦‚Ä‚¢‚é‚©H’¹‚ÍE‚·‚È‚æB[/shake2]
+BirdHurt1 = [shake2]Œ©‚ë‚æB‚¨‘OA‰½‚ğ‚µ‚½‚ñ‚¾H[wave]’p‚¸‚©‚µ‚¢‚Æv‚í‚È‚¢‚Ì‚©B[/wave][/shake2]
+BirdHurt2 = [shake2]‚¤‚í[I ‚¨‘OA„‚æ‚è‚à×ˆ«‚Èƒ‚ƒ“ƒXƒ^[‚¾‚ÈI[/shake2]
+BirdHurt3 = [shake2][wave]ƒm[[[[![/wave]‚È‚ñ‚Ä‚Ü‚¸‚µ‚¢ƒo[ƒfƒB[I[/shake2]
+BirdHurt4 = [shake2]‚ ‚Ì’¹‚ª‘ŞE‚µ‚Ä‚©‚ç“ñ“ú‚µ‚©Œo‚Á‚Ä‚¢‚È‚¢B[/shake2]
+BirdHurt5 = [shake2][wave]‚¨‚Á‚ÆI[/wave]‚ ‚Ì’¹‚É‚Í3l‚Ìq‹Ÿ‚ª‚¢‚½I¡‚â”Ş‚ç‚ÍA‚İ‚È‚µq‚É‚È‚Á‚½‚Æ‚¢‚¤–‚¾B[/shake2]
+BirdHurt6 = [shake2]‚¨‘O‚Í‰½‚à‚·‚é•K—v‚ª–³‚¢B‚í‚©‚é‚ÈBƒLƒbƒhH‚±‚ê‚Í‚¨‘O‚Ì‹C•ª‚ğˆ«‚­‚³‚¹‚æ‚¤‚Æ‚·‚éƒQ[ƒ€‚Å‚Í‚È‚¢B[/shake2]
 
 [DeathWishMap]
-TimePieceLocked = [shake2]Woah! Slow down, kid! You haven't even beaten the normal version of [name][ThatAct][/name] yet! Come back later. [wave]I'll be waiting...[/wave][/shake2]
+TimePieceLocked = [shake2]ƒƒII‚à‚¤­‚µ‚ä‚Á‚­‚è‚µ‚Ä‚­‚êBƒLƒbƒhB[name][ThatAct][/name]‚Ì’Êíƒo[ƒWƒ‡ƒ“‚Í‚Ü‚¾¶‚«‚Ä‚¢‚éI[wave]‚·‚®–ß‚éB‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚ëB[/wave][/shake2]
 
 [Speedrun]
-Intro0 = [shake2]You gotta go fast, kid![/shake2]
-Intro1 = [shake2]Ouch, that was clumsy. [wave]Time to start over![/wave][/shake2]
-Intro2 = [shake2]Not even a few seconds in and you're already making mistakes! [wave]Tsk tsk.[/wave][/shake2]
-Intro3 = [shake2]Be careful, kid. Don't [scream][big]TRIP![/big][/scream][/shake2]
-Intro4 = [shake2]It's time to step on the gas, tonight![/shake2]
-Intro5 = [shake2]What's the hurry, kid? It's not like you'll [scream][big]DIE[/big][/scream] if you slow down...[/shake2]
-Intro6 = [shake2]Better start running, kiddo![/shake2]
-Intro7 = [shake2]Face it kid, your speedrunning career was over before it even began.[/shake2]
+Intro0 = [shake2]‚Í‚â‚­I‹}‚°BƒLƒbƒhI[/shake2]
+Intro1 = [shake2]’ÉƒbB•sŠí—p‚¾‚ÈA‚¨‘OB[wave]‚¢‚Ü‚·‚®n‚ß‚ëI[/wave][/shake2]
+Intro2 = [shake2]‚Ù‚ñ‚Ì”•b‚Å‚¨‘O‚ÍŠù‚Éƒ~ƒX‚ğ”Æ‚µ‚Ä‚¢‚éB[wave]d–‚¾Bd–B[/wave][/shake2]
+Intro3 = [shake2]’ˆÓ‚µ‚ëBƒLƒbƒhI[scream][big]ƒgƒŠƒbƒv‚·‚é‚ÈI[/big][/scream][/shake2]
+Intro4 = [shake2]¡–é‚ÍƒKƒX‚Ìã‚Å—x‚êI[/shake2]
+Intro5 = [shake2]Šy‚µ‚»‚¤‚¾‚ÈBƒLƒbƒhHƒ{ƒ„ƒ{ƒ„‚µ‚Ä‚é‚Æ[scream][big]€[/big][/scream]‚ñ‚¶‚á‚¤ƒ]B[/shake2]
+Intro6 = [shake2]‚³‚ŸA‘–‚êBƒLƒbƒhI[/shake2]
+Intro7 = [shake2]Œ»À‚ğŒ©‚ëBƒLƒbƒhI‚¨‚Ü‚¦‚ÌƒXƒs[ƒhƒ‰ƒ“ƒjƒ“ƒO‚ÌƒLƒƒƒŠƒA‚Ín‚ß‚é‘O‚ÉI‚í‚Á‚Ä‚¢‚éB[/shake2]
 
 [CanKick]
-cans_a0 = [big][timepiece]Nice Shot![/timepiece][/big]
-cans_a1 = Keep our ship clean!
-cans_a2 = Put trash in its proper place!
-cans_b0 = Oh look! You did it again!
-cans_b1 = Not satisfied with just one, eh? I like you. You know how to have a good time.
-cans_b2 = In that case, new [timepiece]Death Wish[/timepiece] unlocked: [hint]Kick 6 Cans Behind the Desk![/hint]
-cans_b3 = You've already done two, now go find the other four.
-cans_b4 = [wave]Have fun![/wave]
-cans_c0 = Wow you actually did it, what a dummy.
-cans_c1 = Err... I mean, congratulations!!
-cans_c2 = Now take this [timepiece]secret thing[/timepiece]. You've earned it!
+cans_a0 = [big][timepiece]ƒiƒCƒXƒVƒ‡ƒbƒgI[/timepiece][/big]
+cans_a1 = „‚½‚¿‚Ì‘D‚ğƒLƒŒƒC‚É‚µ‚ëI
+cans_a2 = ƒSƒ~” ‚ğ“KØ‚ÈêŠ‚É’u‚¯I
+cans_b0 = ‚¨‚¨AŒ©‚ëI‚à‚¤ˆê“xo—ˆ‚½‚¶‚á‚È‚¢‚©I
+cans_b1 = ‚ñBˆê‚Â‚¶‚á–‘«‚Å‚«‚È‚¢‚¾‚Á‚ÄH‚¢‚¢‚¾‚ë‚¤B‚à‚Á‚Æ‚¢‚¢‚â‚è•û‚ğ‹³‚¦‚Ä‚â‚ë‚¤B
+cans_b2 = ‚±‚Ìê‡AV‚µ‚¢[timepiece]Death Wish[/timepiece]‚ªƒAƒ“ƒƒbƒN‚³‚ê‚½ : [hint]6‰ñAŠ÷‚ğ‚¯‚è‚¾‚¹[/hint]
+cans_b3 = ‚¨‘O‚ÍA‚Ó‚½‚Â¬‚µ‹‚°‚½B‚ ‚Æ4‚ÂŒ©‚Â‚¯‚ëB
+cans_b4 = [wave]Šy‚µ‚ßI[/wave]
+cans_c0 = ‚¨‚¨B–{•¨‚¾‚Æv‚Á‚½‚©BƒjƒZƒ‚ƒm‚¾‚æB
+cans_c1 = ‚¦`... ‚Æ‚¢‚¤‚©ƒRƒ“ƒOƒ‰ƒbƒ`ƒŒ[ƒVƒ‡ƒ“II
+cans_c2 = ‚Ü‚³‚É¡A‚¨‘O‚Í[timepiece]”é–§‚Ì‚à‚Ì[/timepiece]‚ğƒQƒbƒg‚µ‚½‚ñ‚¾I
 //ƒXƒ^[ƒg’n“_
 [Hub]
 deathwish_intro0 = [shake2]‚È‚©‚È‚©—Ç‚¢Š‚ÉZ‚ñ‚Å‚é‚¶‚á‚È‚¢‚©ƒLƒbƒhIŒ³‹C‚©H‚Ü‚½¶‚«‚Ä‰ï‚¦‚é‚Æ‚Íc”O‚¾B[/shake2]
@@ -130,7 +130,7 @@ deathwish_intro5 = [shake][big][scream][wave]ƒA[[ƒbƒnƒbƒnƒbƒnƒbƒnƒbƒnII[/wav
 deathwish_post_intro0 = [shake2]‚æ‚­‚â‚Á‚½ƒLƒbƒhIƒƒEƒ\ƒN‚É“”‚è‚ª‚Â‚¢‚½‚¾‚ë‚¤B„‚ÍŠ´“®‚µ‚½‚æB[hint]‚±‚ê‚Åˆê‚Â‚ÌŒ_–ñ‚ªŠ®—¹‚µ‚½–ó‚¾B[/hint]‚±‚ê‚ÍA‚Ù‚ñ‚Ìˆê•”‚Å‚¨‘O‚Ìè˜r‚É‘Š‰‚µ‚¢•¨‚ğ¡Œã‚à—pˆÓ‚·‚é‚Â‚à‚è‚¾BD‚«‚È‚à‚Ì‚ğ‘I‚ñ‚Å‚­‚êB[/shake2]
 deathwish_post_intro1 = [shake2]‚È‚É‚ğƒ{[ƒb‚Æ‚µ‚Ä‚¢‚é‚ñ‚¾Hs‚¯I‘±‚¯‚é‚ñ‚¾B[/shake2]
 
-deathwish_coop_disabled = Snatcher can only take one legal client at a time, unfortunately.
+deathwish_coop_disabled = \‚µ–ó‚²‚´‚¢‚Ü‚¹‚ñBƒXƒiƒbƒ`ƒƒ[‚Íˆê“x‚É‚Ğ‚Æ‚è‚¸‚Â–@“I‚Èæˆø‚ğs‚¤‹K‘¥‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·B
 
 deathwish_open0 = [shake2]–ß‚Á‚Ä—ˆ‚½‚Ì‚©ƒLƒbƒhB‚³‚ÄA’n}‚ğŒ©‚Ä‚İ‚æ‚¤‚¶‚á‚È‚¢‚©B[/shake2]
 deathwish_open1 = [shake2]’n}‚ğ‚Á‚Ä‚¢‚¯BƒLƒbƒhBŒ_–ñ‚ğ—šs‚·‚é‚ñ‚¾B[/shake2]
