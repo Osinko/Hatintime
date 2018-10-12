@@ -155,17 +155,17 @@ dw_75_complete1 = [shake2]このまま行けば、お前は全てを、たいらげてしまうだろう！
 dw_75_complete2 = [shake2]...正直な事を言うとキッド。お前が騒々しいこの世を永遠にたらい回しにならないように私は待ち受けていたのだ。[/shake2]
 dw_75_complete3 = [shake2]しかし、お前の次の死が本当の最期かもと誰がわかる？私達は幸運を手に入れなければならない。[/shake2]
 dw_75_complete4 = [shake2]いいだろう。仕事に戻れ！[/shake2]
-//TODO以下は要推敲
+
 dw_all_complete0 = [shake][scream]...なんだ！？お前は不死身なのか？[/scream][/shake]
 dw_all_complete1 = [shake2]こんな本など役立たずだ！訴えてやる...[/shake2]
-dw_all_complete2 = [shake2]うぐぐ。お前は私の契約をすべてコンプリートした。しかし、私を悩ませるお前は、とにかく生き残った。サンキュー。いいね。[/shake2]
+dw_all_complete2 = [shake2]うぐぐ。お前は私の契約をすべてコンプリートした。しかし、お前は生きている。サンキュー。いいね。最高だ。[/shake2]
 dw_all_complete3 = [shake2]マジで素晴らしい。コングラッチレーションだ。[/shake2]
-dw_all_complete4 = [shake2]...フーム？景品が欲しいだと？聞け。キッド。お前は以前にも同じ事をしたな。こんな事は前もって交渉して置く必要がある。いいかげん学べ。[/shake2]
+dw_all_complete4 = [shake2]...フーム？景品が欲しいだと？聞け。キッド。お前は以前にも同じような事をしたな。こういう事は前もって交渉して置く必要がある。いいかげん学べ。[/shake2]
 dw_all_complete5 = [shake2]私が何か渡さない限り放さないつもりか。いつものお前だな。フーム？[/shake2]
-dw_all_complete6 = [shake2]お前は私にどんなやりくりを期待しているのだ。今から花でも選ぼうか。[/shake2]
+dw_all_complete6 = [shake2]お前は私にこれ以上どんなやりくりを期待しているのだ。花でも選んでさしあげればよろしいのでしょうか。お嬢様？[/shake2]
 dw_all_complete7 = [shake2]いつも望むものが得られるとは限らないんだ！[/shake2]
 dw_all_complete8 = [shake2]さあ、そこに。少なくともあなたは何かを達成したという気持ちがあります。[wave]それを獲得しようじゃないか。[/wave][/shake2]
-dw_all_complete9 = [shake2]もし、それが明確なものであるならば私たちのビジネスは成り立つ。でなければ他の誰かをあたってくれ。キッド。[/shake2]
+dw_all_complete9 = [shake2]もし、それが明確なものであるならば私たちのビジネスは成り立つ。でなければ他の誰かの言う事を気にする必要はないんだ。キッド。[/shake2]
 
 deathwish_revisit0 = [shake2]You again? Why won't you leave me alone?[/shake2]
 deathwish_revisit1 = [shake2]You know there aren't any more contracts, right?[/shake2]
