@@ -24,28 +24,28 @@ Tip0 = ‚¨‘O‚Í[icon:money] [name]ƒ|ƒ“[/name]‚ª‰½‚©’m‚Á‚Ä‚¢‚é‚æ‚ÈHŠ‚éŠ‚É‚ ‚é¬‚
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = ƒOƒŒ[ƒg ƒrƒbƒO ƒpƒŒ[ƒh
-Objective = ƒpƒŒ[ƒh‚ğÅŒã‚Ü‚ÅI‚í‚ç‚¹‚é
+Objective = ƒpƒŒ[ƒh‚ğÅŒã‚Ü‚ÅI‚í‚ç‚¹‚ë
 AllTokens = DJƒOƒ‹[ƒ” ƒg[ƒNƒ“‚ª–³‚­‚È‚ç‚È‚¢—l‚É‚·‚é
 NoHit = ‹}sƒoƒ“ƒh‚ğUŒ‚‚µ‚È‚¢‚Å
 BigBand = ‚ ‚È‚½‚Í”M‹¶“I‚Èƒtƒ@ƒ“‚ğ“¾‚½‚æ‚¤‚¾@@@
-Tip0 = ‚¤‚·‚Ì‚ë‚ÈƒtƒNƒƒE‹¤‚ÍA‚¨‘O‚ğ‰½ˆ‚Ü‚Å’Ç‚¢‚©‚¯‚Ä‚­‚é‚¾‚ë‚¤B[name]‰~‚ğ•`‚­‚æ‚¤‚É‘–‚ê‚Î[/name]ŠÔ‚ğ‰Ò‚®‚±‚Æ‚ªo—ˆ‚é‚¼B
+Tip0 = ‚¤‚·‚Ì‚ë‚ÈƒtƒNƒƒE‹¤‚ÍA‚¨‘O‚ğ‰½ˆ‚Ü‚Å‚à’Ç‚¢‚©‚¯‚Ä‚­‚é‚¾‚ë‚¤B[name]‰~‚ğ•`‚­‚æ‚¤‚É‘–‚ê‚Î[/name]ŠÔ‚ğ‰Ò‚®‚±‚Æ‚ªo—ˆ‚é‚¼B
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = ©”š‚Ü‚Åc‚è10•b
-Objective = “Á‹}—ñÔ‚©‚ç’Eo‚µ‚ë
-NoHat = –Xq”\—Í‚Í—˜—p•s‰ÂAƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õÏ‚İ
+Objective = ‹}s—ñÔ‚©‚ç’Eo‚¹‚æ
+NoHat = –Xq”\—Í‚È‚µAƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ
 Tokens = Ô¶‚Ìƒg[ƒNƒ“‚ğ‚·‚×‚ÄW‚ß‚ë
 Condition = ƒtƒNƒƒE‹}s‚ÌƒXƒPƒWƒ…[ƒ‹‚Í’x‚ê‚Ä‚¢‚é
 Tip0 = ‚±‚Ì10•b‚Íƒ}ƒW‚¾B‚¨‘O‚Í‚¤‚Ü‚­Å‘¬‚Å‘–‚è”²‚¯‚é•K—v‚ª‚ ‚é‚¼BƒLƒbƒhB
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
-Title = ƒZƒLƒ…ƒŠƒeƒB‚ğ“Ë”j‚¹‚æ
+Title = ƒZƒLƒ…ƒŠƒeƒB‚ğ”j‚ê
 Objective = ƒfƒbƒhƒo[ƒhƒXƒ^ƒWƒI‚Éö“ü‚µ‚ë
 NoCaught = •ß‚Ü‚ç‚¸‚ÉŠ®—¹‚·‚é
 NoFees = 200,000ˆÈ‰º‚Ì¿‹Šz‚ÅŠ®—¹
 NoFees_Easy = 600,000ˆÈ‰º‚Ì¿‹Šz‚ÅŠ®—¹
 Condition = ƒZƒLƒ…ƒŠƒeƒB‚ª‘å•‚ÉŒüã‚µ‚Ü‚µ‚½
-Tip0 = ‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚Ä“ï‚µ‚¢d–‚É‚È‚é‚¾‚ë‚¤:[name]–ï‰îÒ‚É‚È‚è‚«‚êI[/name]
+Tip0 = ‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚Ä“ï‚µ‚¢d–‚É‚È‚é‚¾‚ë‚¤B[name]–ï‰îÒ‚É‚È‚è‚«‚êI[/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = —x‚é—nŠâ
@@ -58,117 +58,117 @@ EasyTip = •Ù‚ğ•Â‚ß‚½‚ç‚Ğ‚Æ‰j‚¬‚·‚é‚Æ—Ç‚¢‚Å‚µ‚å‚¤I
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = ’µ‚Ô–‚ğ‹Ö‚¶‚é
-Objective = Collect any Time Piece without jumping
-Condition = You jump, you die!
-Collect4 = Collect 4 Time Pieces without jumping
-TrainRush = Clear Train Rush without jumping
-Tip0 = With a light tap, your [icon:icehat] can be used to give you some extra height without having to actually jump. How convenient!
+Objective = ƒWƒƒƒ“ƒv‚·‚é–‚È‚­ƒ^ƒCƒ€ƒs[ƒX‚ğW‚ß‚ë
+Condition = ƒWƒƒƒ“ƒv‚·‚é‚Æ‚ ‚È‚½‚Í€‚ÊI
+Collect4 = ƒWƒƒƒ“ƒv‚·‚é‚±‚Æ‚È‚­4‚Â‚Ìƒ^ƒCƒ€ƒs[ƒX‚ğW‚ß‚é
+TrainRush = ƒWƒƒƒ“ƒv‚¹‚¸‚ÉƒgƒŒƒCƒ“ƒ‰ƒbƒVƒ…‚ğƒNƒŠƒA‚·‚é
+Tip0 = ÀÛ‚ÉƒWƒƒƒ“ƒv‚·‚é•K—v‚Í‚È‚¢B[icon:icehat]•X‚Ì–Xq‚ğŒy‚­ƒ^ƒbƒv‚·‚é‚æ‚¤‚É—˜—p‚·‚é‚Æ—]•ª‚È‚‚³‚ª“¾‚ç‚ê‚éB‚È‚ñ‚Ä•Ö—˜‚È‚ñ‚¾I
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
-Title = Wound-Up Windmill
-Objective = Reach the top of The Windmill
-OneHit = No hat abilities, One-Hit Hero equipped
-TimeLimit = Reach the end in 4 minutes
-TimeLimit_Easy = Reach the end in 10 minutes
-Condition = The Windmill is operating at "peak" performance
-Tip0 = Having trouble with speedy platforms? Try not jumping so high, you'll land sooner. Then try using the platform's [name]momentum[/name] to your advantage![br]Remember kid, [name]timing is everything[/name]!
+Title = ‘›‚µ‚¢•—Ô
+Objective = •—Ô‚Ì’¸ã‚É“’B‚µ‚ë
+OneHit = –Xq”\—Í‚È‚µAƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ
+TimeLimit =  4•ª‚ÅI—¹
+TimeLimit_Easy =  10•ª‚ÅI—¹
+Condition = •—Ô‚Íâ’¸‚ÌƒpƒtƒH[ƒ}ƒ“ƒX‚Å“®ì‚µ‚Ä‚¢‚é
+Tip0 = ‘f‘‚­“®‚­‘«ê‚É¢‚Á‚Ä‚¢‚é‚Ì‚©H‚ ‚Ü‚è‚‚­ƒWƒƒƒ“ƒv‚¹‚¸A‚Ş‚µ‚ë’n‚ğ”‡‚¤‚æ‚¤‚ÉˆÚ“®‚µ‚ëB“®‚­‘«ê‚Ìƒ‚[ƒƒ“ƒg‚ğ—˜—p‚·‚é‚ñ‚¾B‚¨‚Ú‚¦‚Ä‚¨‚¯ƒLƒbƒhB[name]ƒ^ƒCƒ~ƒ“ƒO‚ª‚·‚×‚Ä‚¾B[/name]
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
-Title = Secret Vault
-Objective = Open the Golden Vault
-Condition = The Vault Codes have been scattered
-Condition2 = The Vault only partially points to the codes
+Title = ”é–§‚Ì‹àŒÉ
+Objective = ‰©‹à‚Ì‹àŒÉ‚ğŠJ‚¯
+Condition = ‹àŒÉ‚ÌƒpƒXƒ[ƒh‚ªUİ‚µ‚Ä‚¢‚Ü‚·
+Condition2 = ‹àŒÉ‚ÌƒpƒXƒ[ƒh‚Í•”•ª“I‚Éƒoƒ‰ƒoƒ‰‚É‚³‚ê‚Ä‚¢‚é
 
 [Hat_SnatcherContract_DeathWish_BossRush]
-Title = Boss Rush
-Objective = Down with the Mafia (and Everyone Else!)
-NoMiss = Don't miss any chance to hit
-OneHit = Win with One-Hit Hero equipped
-Condition = No healing between fights
-Tip0 = If you find a [icon:health] [name]Health Pon[/name] you don't need, don't grab it right away! You might need it later...
+Title = ƒ{ƒXƒ‰ƒbƒVƒ…
+Objective = ƒ}ƒtƒBƒA‚Æi‚»‚Ì‘¼j‚ğ“|‚¹
+NoMiss = ƒ_ƒ[ƒW‚ğ—^‚¦‚éƒ`ƒƒƒ“ƒX‚ğ“¦‚·‚È
+OneHit = ƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ‚ÅŸ‚Ä
+Condition = í‚¢‚ÌÅ’†‚É‘Ì—Í‰ñ•œ‚Í‚È‚¢
+Tip0 =•K—v‚È‚¢[iconFhealth][name]ƒwƒ‹ƒX-ƒ|ƒ“[/name]‚ğŒ©‚Â‚¯‚Ä‚àA‚·‚®‚É‚»‚ê‚ğæ‚ç‚È‚¢•û‚ª—Ç‚¢IŒã‚Å•K—v‚É‚È‚é‚©‚à‚µ‚ê‚È‚¢‚©‚ç‚È...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
 Title = Seal the Deal
-Objective = Defeat your strongest foes
-Condition = Good luck!
-NoHats = Don't use any hat abilities
-FewHits = Don't let your health drop to 1 HP
-Tip0 = Don't forget to take breaks! Not moving for long periods of time is bad for your health!
+Objective = Å‹­‚Ì“G‚ğ“|‚·
+Condition = K‰^‚ğ‹F‚éI
+NoHats = –Xq”\—Í‚È‚µ
+FewHits = ‘Ì—Í‚Ìc‚è‚ğ1‚É‚µ‚È‚¢
+Tip0 = ‹xŒe‚ğæ‚é‚±‚Æ‚ğ–Y‚ê‚é‚ÈI’·ŠúŠÔˆÚ“®‚µ‚È‚¢‚ÆŒ’N‚Éˆ«‚¢‚©‚ç‚ÈB
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
-Title = Collect-a-thon
-Objective = Simply collect 100 Pons
-NoBoxes = Don't break any crates or barrels
-FewPons = Don't pick up more than 200 Pons in total
-Condition = Collection progress drains over time
-Tip0 = Never stop collecting Pons, kiddo! Keep an eye out for boxes, barrels, bullies, and other things you can [name]crack open[/name] to get a lot at once!
-EasyTip = Break crates and barrels!
+Title = ƒ|ƒ“‚Ì’·Ò
+Objective = ƒVƒ“ƒvƒ‹‚É100ƒ|ƒ“W‚ß‚ë
+NoBoxes = –Ø” ‚â’M‚ğ‰ó‚·‚È
+FewPons = ƒg[ƒ^ƒ‹200ƒ|ƒ“ˆÈ“à‚ÉƒNƒŠƒA
+Condition = ŠÔŒo‰ß‚Æ‹¤‚ÉûW”‚ª’á‰º‚·‚é
+Tip0 = ƒ|ƒ“‚ÌûW‚ğ~‚ß‚é‚ÈAƒLƒbƒhI˜A‘±‚³‚¹‚éˆ×‚É–Ú‚É‚Â‚­–Ø” ‚â’MA‚¢‚¶‚ß‚ÁqA‚»‚Ì‘¼‚ğ[name]‚â‚Á‚Â‚¯‚Ä[/name]‚½‚­‚³‚ñè‚É“ü‚ê‚é‚ñ‚¾I
+EasyTip = –Ø” ‚â’M‚ğ‰ó‚¹I
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
-Title = Snatcher Coins in Mafia Town
-Objective = Find a Snatcher Coin in Mafia Town
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be like shooting fish in a barrel!
+Title = ƒ}ƒtƒBƒAƒ^ƒEƒ“‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
+Objective = ƒ}ƒtƒBƒA‚Ì’¬‚ÅƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
+2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
+3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚Î’M‚Ì’†‚Ì‹›‚ğ•ß‚ç‚¦‚é—l‚ÉŠÈ’P‚È–‚¾I
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
-Title = Snatcher Coins in Battle of the Birds
-Objective = Find a Snatcher Coin in Battle of the Birds
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be a piece of cake!
+Title = ƒo[ƒhƒoƒgƒ‹‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
+Objective = ƒo[ƒhƒoƒgƒ‹‚Ì’†‚©‚çƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
+2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
+3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚ÎA‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚ÄƒP[ƒL‚Ìˆê•Ğ‚Æ‚È‚é‚¾‚ë‚¤B
 
 [Hat_SnatcherContract_DeathWish_Tokens_Subcon]
-Title = Snatcher Coins in Subcon Forest
-Objective = Find a Snatcher Coin in Subcon Forest
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be as easy as falling off a log!
+Title = öİˆÓ¯‚Ì‘º‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
+Objective = öİˆÓ¯‚Ì‘º‚Ì’†‚©‚çƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
+2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
+3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚ÎŠÛ‘¾¬‰®‚©‚ç—‚¿‚é‚®‚ç‚¢ŠÈ’P‚È–‚¾I
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
-Title = Snatcher Coins in Alpine Skyline
-Objective = Find a Snatcher Coin in Alpine Skyline
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be a breeze!
+Title = ƒAƒ‹ƒvƒXƒXƒJƒCƒ‰ƒCƒ“‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
+Objective = ƒAƒ‹ƒvƒXƒXƒJƒCƒ‰ƒCƒ“‚Ì’†‚©‚çƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
+2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
+3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚ÎA•—‚Ì’†‚Å‘§‚ğ‹z‚¤‚æ‚¤‚ÉŠÈ’P‚È–‚¾I
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
-Title = She Speedran from Outer Space
-Objective = Clear 'She Came From Outer Space' in 1:50 or less
-Bonus1 = Clear in 1:35 or less
-Bonus2 = Clear in 1:20 or less
-Objective_Easy = Clear 'She Came From Outer Space' in 3:40 or less
-Bonus1_Easy = Clear in 3:10 or less
-Bonus2_Easy = Clear in 2:40 or less
-Tip0 = It sure would be nice if you could leave that weirdo with the goofy glasses behind, but [name]he has something you need[/name].
+Title = ‰F’ˆ‚©‚ç‚ÌƒXƒs[ƒhƒ‰ƒ“ƒi[
+Objective = 1•ª50•bˆÈ“à‚Éu‰F’ˆ‚©‚ç—ˆ‚½—‚Ìqv‚ğƒNƒŠƒA‚¹‚æ
+Bonus1 = 1•ª35•bˆÈ“à‚ÉƒNƒŠƒA
+Bonus2 = 1•ª20•bˆÈ“à‚ÉƒNƒŠƒA
+Objective_Easy = 3•ª40•bˆÈ“à‚Éu‰F’ˆ‚©‚ç—ˆ‚½—‚Ìqv‚ğƒNƒŠƒA‚¹‚æ
+Bonus1_Easy = 3•ª10•bˆÈ“à‚ÉƒNƒŠƒA
+Bonus2_Easy = 2•ª40•bˆÈ“à‚ÉƒNƒŠƒA
+Tip0 = ŠÔ”²‚¯‚È•ÏlƒƒKƒl‚Ì’j‚ğ’Ç‚¢‰ñ‚·‚Ì‚ÍŠm‚©‚É–ù‰õ‚¾B‚µ‚©‚µAƒ„ƒc‚Í‚¨‘O‚ª•K—v‚Èƒ‚ƒm‚ğ‚Á‚Ä‚¢‚éB
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
-Title = Speedrun Well
-Objective = Clear 'Subcon Well' in 2:00 or less
-Bonus1 = Clear in 1:40 or less
-Bonus2 = Clear in 1:25 or less
-Objective_Easy = Clear 'Subcon Well' in 4:00 or less
-Bonus1_Easy = Clear in 3:20 or less
-Bonus2_Easy = Clear in 2:50 or less
-Tip0 = Look at all these platforms laid out nice and neat. It would be a shame if somebody [name]skipped[/name] all of them...
+Title = öİˆÓ¯‚ÌˆäŒË‚ÌƒXƒs[ƒhƒ‰ƒ“
+Objective = 2•ªˆÈ“à‚ÉuöİˆÓ¯‚ÌˆäŒËv‚ğƒNƒŠƒA‚¹‚æ
+Bonus1 = 1•ª40•bˆÈ“à‚ÉƒNƒŠƒA
+Bonus2 = 1•ª25•bˆÈ“à‚ÉƒNƒŠƒA
+Objective_Easy = 4•ªˆÈ“à‚ÉuöİˆÓ¯‚ÌˆäŒËv‚ğƒNƒŠƒA‚¹‚æ
+Bonus1_Easy = 3•ª20•bˆÈ“à‚ÉƒNƒŠƒA
+Bonus2_Easy = 2•ª50•bˆÈ“à‚ÉƒNƒŠƒA
+Tip0 = Œ©‚ë‚æB‚±‚Ìƒvƒ‰ƒbƒgƒz[ƒ€‚Ì‚·‚Á‚«‚è‚Æ‚µ‚½İŒvB‘f°‚ç‚µ‚¢‚¾‚ë‚¤B’N‚©‚ªA‚»‚ê‚ç‚·‚×‚Ä‚ğ[name]ƒXƒLƒbƒv‚µ‚½‚ç[/name]c”O‚¾‚ÈB
 
 [Hat_SnatcherContract_DeathWish_Speedrun_Illness]
-Title = The Illness Has Speedrun
-Objective = Clear 'The Illness Has Spread' in 7:00 or less
-Bonus1 = Clear in 6:30 or less
-Bonus2 = Clear in 6:00 or less
-Objective_Easy = Clear 'The Illness Has Spread' in 14:00 or less
-Bonus1_Easy = Clear in 13:00 or less
-Bonus2_Easy = Clear in 12:00 or less
-Tip0 = If you need to [name]get back to the start[/name] in a hurry, why don't you try [name]jumping off a cliff[/name]? No really! [wave]Try it![/wave]
+Title = – ‰„‚·‚é•a‚ÌƒXƒs[ƒhƒ‰ƒ“
+Objective = 7•ªˆÈ“à‚Éu– ‰„‚·‚é•av‚ğƒNƒŠƒA‚¹‚æ
+Bonus1 = 6•ª30•bˆÈ“à‚ÉƒNƒŠƒA
+Bonus2 = 6•ªˆÈ“à‚ÉƒNƒŠƒA
+Objective_Easy = 14•ªˆÈ“à‚Éu– ‰„‚·‚é•av‚ğƒNƒŠƒA‚¹‚æ
+Bonus1_Easy = 13•ªˆÈ“à‚ÉƒNƒŠƒA
+Bonus2_Easy = 12•ªˆÈ“à‚ÉƒNƒŠƒA
+Tip0 = ‹}‚¢‚Å[name]ƒXƒ^[ƒg’n“_[/name]‚É–ß‚è‚½‚¢‚È‚çŠR‚©‚ç[name]”ò‚Ñ~‚è‚Ä‚İ‚ë‚æH[/name]‚¢‚â–{“–‚ÉI[wave]‚µ‚Ä‚İ‚ë‚Á‚ÄI[/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
-Title = Rift Collapse: Mafia of Cooks
-Objective = Escape the Mafia of Cooks Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Escape with 30 seconds to spare
-Faster_Easy = Escape with 15 seconds to spare
+Title = ƒŠƒtƒg•ö‰ó - —¿—l‚Ìƒ}ƒtƒBƒA
+Objective = u—¿—l‚Ìƒ}ƒtƒBƒAv‚Ìƒ^ƒCƒ€ƒŠƒtƒg‚©‚ç“¦‚°o‚¹
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚éi3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·j
+Faster = ƒXƒyƒA30•b‚Å’Eo‚·‚é
+Faster_Easy = ƒXƒyƒA15•b‚Å’Eo‚·‚é
 Condition = The Time Rift has become unstable!
 Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
 
@@ -316,7 +316,7 @@ Condition = There's no end in sight
 Tip0 = Take some time to [name]study the layout[/name] of the ship. There may be some routes you didn't even know about!
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
-Title = ŠO‰F’ˆ‚©‚ç‹A‚Á‚Ä‚«‚½—
+Title = ‰F’ˆ‚©‚ç‹A‚Á‚Ä‚«‚½—‚Ìq
 Objective = ƒ^ƒCƒ€ƒs[ƒX‚ğè‚É“ü‚ê‚é
 Kills = ‚·‚×‚Ä‚ÌUFO‚ğ”j‰ó‚·‚é
 Speed = 65•bˆÈ“à‚Éƒ^ƒCƒ€ƒs[ƒX‚ğè‚É“ü‚ê‚é

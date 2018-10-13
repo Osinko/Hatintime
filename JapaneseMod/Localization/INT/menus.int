@@ -426,8 +426,8 @@ Label_Badges = バッジ
 Label_Weapon = 武器
 Label_Contract = 契約書
 
-Options_RestartLevel_Q = Restart the act?
-Options_RestartDeathWish_Q = Restart the Death Wish?
+Options_RestartLevel_Q = この契約をやり直す？
+Options_RestartDeathWish_Q = このDeathWishをやり直す？
 
 Coop_NoControllerPluggedIn = Please plug in a controller
 Coop_CantDisableRightNow = Can't disable co-op mode right now
@@ -656,7 +656,7 @@ Tip = スナッチャーの一言
 Debug = DEBUG Complete/Wipe
 
 ResetDeathwishQuestion = 現在の契約書の進行状況をリセットしますか？
-ResetDeathwishConfirm = 暴れ狂いながら破り捨てる！
+ResetDeathwishConfirm = 暴れ狂いながら破る！
 ResetDeathwishDeny = 待って！！
 //キッドの踊り
 [DeathWishEasyMode]
@@ -669,7 +669,7 @@ EasyShort = ここは精神と審判なきゾーン
 EasyExit = 心配無用。行き詰まったら覚えておいてください
 EasyAccept0 = 今、このデスウィッシュは簡単になりました！
 EasyAccept1 = クールな一日を！!
-ButtonYes = はい、お願いします
+ButtonYes = お願いします
 ButtonNo = いいえ
 
 EasyNamePre = 助けが必要ですか？
