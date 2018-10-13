@@ -32,7 +32,7 @@ Tip0 = ‚¤‚·‚Ì‚ë‚ÈƒtƒNƒƒE‹¤‚ÍA‚¨‘O‚ğ‰½ˆ‚Ü‚Å‚à’Ç‚¢‚©‚¯‚Ä‚­‚é‚¾‚ë‚¤B[name]‰~‚ğ•
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = ©”š‚Ü‚Åc‚è10•b
-Objective = ‹}s—ñÔ‚©‚ç’Eo‚¹‚æ
+Objective = ‹}s—ñÔ‚©‚ç‚¾‚Á‚µ‚ã‚Â‚¹‚æ
 NoHat = –Xq”\—Í‚È‚µAƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ
 Tokens = Ô¶‚Ìƒg[ƒNƒ“‚ğ‚·‚×‚ÄW‚ß‚ë
 Condition = ƒtƒNƒƒE‹}s‚ÌƒXƒPƒWƒ…[ƒ‹‚Í’x‚ê‚Ä‚¢‚é
@@ -109,28 +109,28 @@ Title = ƒ}ƒtƒBƒAƒ^ƒEƒ“‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
 Objective = ƒ}ƒtƒBƒA‚Ì’¬‚ÅƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
 2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
 3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
-Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚Î’M‚Ì’†‚Ì‹›‚ğ•ß‚ç‚¦‚é—l‚ÉŠÈ’P‚È–‚¾I
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]ƒRƒ“ƒpƒXƒoƒbƒW‚ğ‚Á‚Ä‚é‚È‚ç’M‚Ì’†‚Ì‹›‚ğ•ß‚ç‚¦‚é—l‚ÉŠÈ’P‚È–‚¾I
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
 Title = ƒo[ƒhƒoƒgƒ‹‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
 Objective = ƒo[ƒhƒoƒgƒ‹‚Ì’†‚©‚çƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
 2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
 3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
-Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚ÎA‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚ÄƒP[ƒL‚Ìˆê•Ğ‚Æ‚È‚é‚¾‚ë‚¤B
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]ƒRƒ“ƒpƒXƒoƒbƒW‚ğ‚Á‚Ä‚é‚È‚çA‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚ÄƒP[ƒL‚Ìˆê•Ğ‚Æ‚È‚é‚¾‚ë‚¤B
 
 [Hat_SnatcherContract_DeathWish_Tokens_Subcon]
 Title = öİˆÓ¯‚Ì‘º‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
 Objective = öİˆÓ¯‚Ì‘º‚Ì’†‚©‚çƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
 2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
 3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
-Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚ÎŠÛ‘¾¬‰®‚©‚ç—‚¿‚é‚®‚ç‚¢ŠÈ’P‚È–‚¾I
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]ƒRƒ“ƒpƒXƒoƒbƒW‚ğ‚Á‚Ä‚é‚È‚çŠÛ‘¾¬‰®‚©‚ç—‚¿‚é‚®‚ç‚¢ŠÈ’P‚È–‚¾I
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
 Title = ƒAƒ‹ƒvƒXƒXƒJƒCƒ‰ƒCƒ“‚ÌƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“
 Objective = ƒAƒ‹ƒvƒXƒXƒJƒCƒ‰ƒCƒ“‚Ì’†‚©‚çƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğŒ©‚Â‚¯‚ë
 2Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ2‚ÂŒ©‚Â‚¯‚é
 3Tokens = ƒXƒiƒbƒ`ƒƒ[ƒRƒCƒ“‚ğ3‚Â‚·‚×‚ÄŒ©‚Â‚¯‚é
-Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]‚ğ‚Á‚Ä‚é‚È‚ç‚ÎA•—‚Ì’†‚Å‘§‚ğ‹z‚¤‚æ‚¤‚ÉŠÈ’P‚È–‚¾I
+Tip0 = ‚à‚µA‚¨‘O‚ª[icon:compassbadge]ƒRƒ“ƒpƒXƒoƒbƒW‚ğ‚Á‚Ä‚é‚È‚çA•—‚Ì’†‚Å‘§‚ğ‹z‚¤‚æ‚¤‚ÉŠÈ’P‚È–‚¾I
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
 Title = ‰F’ˆ‚©‚ç‚ÌƒXƒs[ƒhƒ‰ƒ“ƒi[
@@ -150,7 +150,7 @@ Bonus2 = 1•ª25•bˆÈ“à‚ÉƒNƒŠƒA
 Objective_Easy = 4•ªˆÈ“à‚ÉuöİˆÓ¯‚ÌˆäŒËv‚ğƒNƒŠƒA‚¹‚æ
 Bonus1_Easy = 3•ª20•bˆÈ“à‚ÉƒNƒŠƒA
 Bonus2_Easy = 2•ª50•bˆÈ“à‚ÉƒNƒŠƒA
-Tip0 = Œ©‚ë‚æB‚±‚Ìƒvƒ‰ƒbƒgƒz[ƒ€‚Ì‚·‚Á‚«‚è‚Æ‚µ‚½İŒvB‘f°‚ç‚µ‚¢‚¾‚ë‚¤B’N‚©‚ªA‚»‚ê‚ç‚·‚×‚Ä‚ğ[name]ƒXƒLƒbƒv‚µ‚½‚ç[/name]c”O‚¾‚ÈB
+Tip0 = Œ©‚ë‚æB‚±‚Ìƒvƒ‰ƒbƒgƒz[ƒ€‚Ì‚·‚Á‚«‚è‚Æ‚µ‚½İŒvB‘f°‚ç‚µ‚¢‚¾‚ë‚¤B[name]ƒXƒLƒbƒv‚·‚é‚È‚æB[/name]‚ä‚Á‚­‚èŒ©‚Ä‚¢‚¯B
 
 [Hat_SnatcherContract_DeathWish_Speedrun_Illness]
 Title = – ‰„‚·‚é•a‚ÌƒXƒs[ƒhƒ‰ƒ“
@@ -163,75 +163,75 @@ Bonus2_Easy = 12•ªˆÈ“à‚ÉƒNƒŠƒA
 Tip0 = ‹}‚¢‚Å[name]ƒXƒ^[ƒg’n“_[/name]‚É–ß‚è‚½‚¢‚È‚çŠR‚©‚ç[name]”ò‚Ñ~‚è‚Ä‚İ‚ë‚æH[/name]‚¢‚â–{“–‚ÉI[wave]‚µ‚Ä‚İ‚ë‚Á‚ÄI[/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
-Title = ƒŠƒtƒg•ö‰ó - —¿—l‚Ìƒ}ƒtƒBƒA
+Title = ƒŠƒtƒgÁ¸ - —¿—l‚Ìƒ}ƒtƒBƒA
 Objective = u—¿—l‚Ìƒ}ƒtƒBƒAv‚Ìƒ^ƒCƒ€ƒŠƒtƒg‚©‚ç“¦‚°o‚¹
 AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
-AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚éi3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·j
-Faster = ƒXƒyƒA30•b‚Å’Eo‚·‚é
-Faster_Easy = ƒXƒyƒA15•b‚Å’Eo‚·‚é
-Condition = The Time Rift has become unstable!
-Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é(3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·)
+Faster = ƒXƒyƒA30•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Faster_Easy = ƒXƒyƒA15•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Condition = ƒ^ƒCƒ€ƒŠƒtƒg‚Í•sˆÀ’è‚É‚È‚Á‚½I
+Tip0 = Šm‚©‚É‘½‚­‚Ì[icon:treasure]‚¨•ó‚ª‚ ‚éB‚¨‘O‚ª[name]—á‚ÌƒoƒbƒW[/name]‚ğ‚Á‚Ä‚é‚È‚çA‚»‚ê‚ç‚ğŠÈ’P‚ÉûW‚Å‚«‚é‚¾‚ë‚¤‚È...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
-Title = Rift Collapse: Dead Bird Studio
-Objective = Escape the Dead Bird Studio Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Escape with 30 seconds to spare
-Faster_Easy = Escape with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+Title = ƒŠƒtƒgÁ¸ - ƒfƒbƒhEƒo[ƒhEƒXƒ^ƒWƒI
+Objective = uƒfƒbƒhEƒo[ƒhEƒXƒ^ƒWƒIv‚Ìƒ^ƒCƒ€ƒŠƒtƒg‚©‚ç“¦‚°o‚¹
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚éi3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·j
+Faster = ƒXƒyƒA30•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Faster_Easy = ƒXƒyƒA15•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Condition = ƒ^ƒCƒ€ƒŠƒtƒg‚Í•sˆÀ’è‚É‚È‚Á‚½I
+Tip0 = ‰½‚©–³‚­‚È‚Á‚½‹C‚ª‚·‚é‚¾‚Á‚ÄH‚à‚µA‚¨‘O‚ª[icon:camerabadge]ƒJƒƒ‰ƒoƒbƒW‚ğ‚Á‚Ä‚¢‚é‚È‚çAB‰eƒ|[ƒY’†‚ÉŒ©‰ñ‚µ‚ÄA‚»‚Ì[name]‰½‚©[/name]‚ğ’T‚µ‚Ä‚İ‚ê‚Î‚¢‚¢...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Subcon]
-Title = Rift Collapse: Sleepy Subcon
-Objective = Escape the Sleepy Subcon Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Escape with 30 seconds to spare
-Faster_Easy = Escape with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+Title = ƒŠƒtƒgÁ¸ - –°‚½‚¢öİˆÓ¯
+Objective = u–°‚½‚¢öİˆÓ¯v‚Ìƒ^ƒCƒ€ƒŠƒtƒg‚©‚ç“¦‚°o‚¹
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚éi3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·j
+Faster = ƒXƒyƒA30•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Faster_Easy = ƒXƒyƒA15•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Condition = ƒ^ƒCƒ€ƒŠƒtƒg‚Í•sˆÀ’è‚É‚È‚Á‚½I
+Tip0 = Šm‚©‚É‘½‚­‚Ì[icon:treasure]‚¨•ó‚ª‚ ‚éB‚¨‘O‚ª[name]—á‚ÌƒoƒbƒW[/name]‚ğ‚Á‚Ä‚é‚È‚çA‚»‚ê‚ç‚ğŠÈ’P‚ÉûW‚Å‚«‚é‚¾‚ë‚¤‚È...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
-Title = Rift Collapse: Alpine Skyline
-Objective = Escape the Alpine Skyline Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Escape with 30 seconds to spare
-Faster_Easy = Escape with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+Title = ƒŠƒtƒgÁ¸ - ƒAƒ‹ƒvƒXƒXƒJƒCƒ‰ƒCƒ“
+Objective = uƒAƒ‹ƒvƒXƒXƒJƒCƒ‰ƒCƒ“v‚Ìƒ^ƒCƒ€ƒŠƒtƒg‚©‚ç“¦‚°o‚¹
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚éi3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·j
+Faster = ƒXƒyƒA30•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Faster_Easy = ƒXƒyƒA15•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Condition = ƒ^ƒCƒ€ƒŠƒtƒg‚Í•sˆÀ’è‚É‚È‚Á‚½I
+Tip0 = ‰½‚©–³‚­‚È‚Á‚½‹C‚ª‚·‚é‚¾‚Á‚ÄH‚à‚µA‚¨‘O‚ª[icon:camerabadge]ƒJƒƒ‰ƒoƒbƒW‚ğ‚Á‚Ä‚¢‚é‚È‚çAB‰eƒ|[ƒY’†‚ÉŒ©‰ñ‚µ‚ÄA‚»‚Ì[name]‰½‚©[/name]‚ğ’T‚µ‚Ä‚İ‚ê‚Î‚¢‚¢...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
-Title = Rift Collapse: Deep Sea
-Objective = Escape the Deep Sea Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Escape with 30 seconds to spare
-Faster_Easy = Escape with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+Title = ƒŠƒtƒgÁ¸ - [ŠC
+Objective = u[ŠCv‚Ìƒ^ƒCƒ€ƒŠƒtƒg‚©‚ç“¦‚°o‚¹
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPons_Easy = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚éi3‚Â‚É‚È‚Á‚Ä‚¢‚Ü‚·j
+Faster = ƒXƒyƒA30•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Faster_Easy = ƒXƒyƒA15•b‚Å‚¾‚Á‚µ‚ã‚Â‚·‚é
+Condition = ƒ^ƒCƒ€ƒŠƒtƒg‚Í•sˆÀ’è‚É‚È‚Á‚½I
+Tip0 = ‰½‚©–³‚­‚È‚Á‚½‹C‚ª‚·‚é‚¾‚Á‚ÄH‚à‚µA‚¨‘O‚ª[icon:camerabadge]ƒJƒƒ‰ƒoƒbƒW‚ğ‚Á‚Ä‚¢‚é‚È‚çAB‰eƒ|[ƒY’†‚ÉŒ©‰ñ‚µ‚ÄA‚»‚Ì[name]‰½‚©[/name]‚ğ’T‚µ‚Ä‚İ‚ê‚Î‚¢‚¢...
 
 [Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
-Title = Mafia's Jumps
-Objective = Complete 'She Came From Outer Space' in only 15 jumps
-Presses1 = Complete in 11 jumps
-Presses2 = Complete in 7 jumps
-Objective_Easy = Complete 'She Came From Outer Space' in only 24 jumps
-EasyPresses1 = Complete in 18 jumps
-EasyPresses2 = Complete in 14 jumps
-Tip0 = With a light tap, your [icon:icehat] can be used to climb up ledges without having to actually jump. Sounds useful!
+Title = ƒ}ƒtƒBƒA‚ÌƒWƒƒƒ“ƒv
+Objective = u ‰F’ˆ‚©‚ç—ˆ‚½—‚Ìqv‚ğ15‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA‚·‚é
+Presses1 = 11‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA
+Presses2 = 7‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA
+Objective_Easy = u ‰F’ˆ‚©‚ç—ˆ‚½—‚Ìqv‚ğ24‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA‚·‚é
+EasyPresses1 = 18‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA
+EasyPresses2 = 14‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA
+Tip0 = ÀÛ‚ÉƒWƒƒƒ“ƒv‚·‚é•K—v‚Í‚È‚¢B[icon:icehat]•X‚Ì–Xq‚ğŒy‚­ƒ^ƒbƒv‚·‚é‚æ‚¤‚É—˜—p‚·‚é‚Æ—]•ª‚È‚‚³‚ª“¾‚ç‚ê‚éB‚È‚ñ‚Ä•Ö—˜‚È‚ñ‚¾I
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
-Title = Quality Time with Snatcher
-Objective = Survive Snatcher for 2 minutes
-Medium = Survive for 4 minutes
-Long = Survive for 6 minutes
-Objective_Easy = Survive Snatcher for 1 minute
-Medium_Easy = Survive Snatcher for 2 minutes
-Long_Easy = Survive Snatcher for 3 minutes
-Condition = This time, no blue potions!
-Tip0 = Come on, kid! Lets just be pals! How about I don't throw any blue potions at you, and you don't hit me with your umbrella. Deal?
+Title = ƒXƒiƒbƒ`ƒƒ[‚Æ—V‚Ú‚¤
+Objective = 2•ªŠÔƒXƒiƒbƒ`ƒƒ[‚ÌUŒ‚‚©‚ç¶‚«c‚é
+Medium = 4•ªŠÔ¶‚«c‚é
+Long = 6•ªŠÔ¶‚«c‚é
+Objective_Easy = 1•ªŠÔƒXƒiƒbƒ`ƒƒ[‚ÌUŒ‚‚©‚ç¶‚«c‚é
+Medium_Easy = 2•ªŠÔƒXƒiƒbƒ`ƒƒ[‚ÌUŒ‚‚©‚ç¶‚«c‚é
+Long_Easy = 3•ªŠÔ¶‚«c‚é
+Condition = ¡‰ñAÂ‚ÍƒiƒV‚¾I
+Tip0 = ‚©‚©‚Á‚Ä—ˆ‚¢ƒLƒbƒhI‚¨‘O‚Í‚½‚¾‚Ìƒgƒ‚ƒ_ƒ`‚¾BÂ‚Ìƒ|[ƒVƒ‡ƒ“‚à“Š‚°‚é‚È‚æBP‚Å‰£‚é‚Ì‚àƒiƒV‚¾Bæˆø‚µ‚æ‚¤‚ºH
 
 [Hat_SnatcherContract_DeathWish_HardCastle]
 Title = The Mustache Gauntlet
