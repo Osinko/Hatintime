@@ -1,7 +1,7 @@
 [Info]
-Conditions_3Lives = You have 3 lives
-Conditions_3Checkpoints = You can retry from last checkpoint 3 times
-Conditions_NoHealth = No health pons
+Conditions_3Lives = あなたは３つの命を持っている
+Conditions_3Checkpoints = あなたは残り3つのチェックポイントからリトライ出来る
+Conditions_NoHealth = ノーヘルス、ノーポン
 Conditions_NoCheckpoints = チェックポイントなし
 Conditions_ClearLevel = 拾ったタイムピース
 Conditions_EasyMode = イージーモードが有効になりました
@@ -27,25 +27,25 @@ Title = グレート ビッグ パレード
 Objective = パレードを最後まで終わらせる
 AllTokens = DJグルーヴ トークンが無くならない様にする
 NoHit = 急行バンドを攻撃しないで
-BigBand = It looks like you've gained quite a following
-Tip0 = These dumb owls will follow you anywhere. Maybe you can keep them busy by [name]running around in circles[/name].
+BigBand = あなたは熱狂的なファンを得たようだ　　　
+Tip0 = うすのろなフクロウ共は、お前を何処まで追いかけてくるだろう。[name]円を描くように走れば[/name]時間を稼ぐことが出来るぞ。
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
-Title = 10 Seconds Until Self-Destruct
-Objective = Escape Train Rush
-NoHat = No hat abilities, One-Hit Hero equipped
-Tokens = Collect all the Conductor tokens
-Condition = The Owl Express is way behind schedule
-Tip0 = When I say 10 seconds, I mean it! You better run real fast, kiddo!
+Title = 自爆まで残り10秒
+Objective = 特急列車から脱出しろ
+NoHat = 帽子能力は利用不可、ワンパンヒーローのバッジ装備済み
+Tokens = 車掌のトークンをすべて集めろ
+Condition = フクロウ急行のスケジュールは遅れている
+Tip0 = この10秒はマジだ。お前はうまく最速で走り抜ける必要があるぞ。キッド。
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
-Title = Security Breach
-Objective = Infiltrate Dead Bird Studio
-NoCaught = Complete without getting caught
-NoFees = Complete with less than 200,000 in fees
-NoFees_Easy = Complete with less than 600,000 in fees
-Condition = Security has been upped, significantly
-Tip0 = This will be your hardest task of all: [name]Not being a nuisance![/name]
+Title = セキュリティを突破せよ
+Objective = デッドバードスタジオに潜入しろ
+NoCaught = 捕まらずに完了する
+NoFees = 200,000以下の請求額で完了
+NoFees_Easy = 600,000以下の請求額で完了
+Condition = セキュリティが大幅に向上しました
+Tip0 = これはお前にとって難しい仕事になるだろう:[name]厄介者になりきれ！[/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = 踊る溶岩

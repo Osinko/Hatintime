@@ -155,7 +155,7 @@ dw_75_complete1 = [shake2]このまま行けば、お前は全てを、たいらげてしまうだろう！
 dw_75_complete2 = [shake2]...正直な事を言うとキッド。お前が騒々しい、この世を永遠にたらい回しにならないように私は待ち受けていたのだ。[/shake2]
 dw_75_complete3 = [shake2]しかし、お前の次の死が本当の最期かもと誰がわかる？私達は幸運を手に入れなければならない。[/shake2]
 dw_75_complete4 = [shake2]いいだろう。仕事に戻れ！[/shake2]
-//忠実な翻訳ではないがこれで行く
+
 dw_all_complete0 = [shake][scream]...なんだ！？お前は不死身なのか？[/scream][/shake]
 dw_all_complete1 = [shake2]こんな本など役立たずだ！訴えてやる...[/shake2]
 dw_all_complete2 = [shake2]うぐぐ。お前は私の契約をすべてコンプリートした。しかし、お前は生きている。サンキュー。いいね。[/shake2]

@@ -308,6 +308,9 @@ Item_Adv_AA_Title = アンチエイリアス
 Item_Adv_AA_Desc = この設定をオンにすると、選択されたモデルの縁を滑らかにする方法を適用します。FXAA0が最も軽く、FXAA5とMLAAが最もコストが高くなります。他の方法に精通している場合を除き、「なし」または「FXAA0」のいずれかに設定してください。
 Item_Adv_AA_Item_None = なし
 
+Item_Adv_AO_Title = アンビエントオクルージョン
+Item_Adv_AO_Desc = この設定をオンにすると、壁の近くのオブジェクトに影を適用します。
+
 Item_Adv_MaterialEffects_Title = 高品質なスクリーンエフェクト
 Item_Adv_MaterialEffects_Desc = スクリーンエフェクトに対し多重サンプリングされた高品質なエフェクトを適用します。
 
@@ -421,7 +424,7 @@ Options_QuitGame_InGame_A_Return = 戻る！
 Label_Equipment = 装備
 Label_Badges = バッジ
 Label_Weapon = 武器
-Label_Contract = CONTRACT
+Label_Contract = 契約書
 
 Options_RestartLevel_Q = Restart the act?
 Options_RestartDeathWish_Q = Restart the Death Wish?
@@ -641,7 +644,7 @@ unlocks0 = Tons of unlockable outfits, flairs,
 unlocks1 = dyes, and even camera filters!
 
 [DeathWishMap]
-Locked = Act Locked
+Locked = チャプターロック中
 Reward = 景品を受け取る!
 Unlock = アンロック
 Disable = 無効
@@ -652,32 +655,32 @@ Reset = 契約書をリセットする
 Tip = スナッチャーの一言
 Debug = DEBUG Complete/Wipe
 
-ResetDeathwishQuestion = 全ての契約書の進行状況をリセットしますか？
-ResetDeathwishConfirm = Rip and tear!
-ResetDeathwishDeny = ちょっと待って！
+ResetDeathwishQuestion = 現在の契約書の進行状況をリセットしますか？
+ResetDeathwishConfirm = 暴れ狂いながら破り捨てる！
+ResetDeathwishDeny = 待って！！
 //キッドの踊り
 [DeathWishEasyMode]
-EasyMode0 = No one is around to help
-EasyMode1 = Life is hard, life is stressful
-EasyMode2 = I need peace and tranquility
-EasyMode3 = I don't have to prove myself to anyone
-EasyMode4 = Should I make this Death Wish a bit easier for you?
-EasyShort = Welcome back to the no-judgement zone
-EasyExit = No worries, keep me in mind when things get heated
-EasyAccept0 = Presto! This Death Wish is now easier!
-EasyAccept1 = Have a cool day!
-ButtonYes = Yes please!
-ButtonNo = Nope!
+EasyMode0 = 誰も助けようとしていない
+EasyMode1 = 人生は厳しくストレスに満ちています
+EasyMode2 = 私達には平和と心静かな時が必要です
+EasyMode3 = 誰にも自分自身を証明する必要はないのです
+EasyMode4 = このデスウィッシュを少し簡単にしますか？
+EasyShort = ここは精神と審判なきゾーン
+EasyExit = 心配無用。行き詰まったら覚えておいてください
+EasyAccept0 = 今、このデスウィッシュは簡単になりました！
+EasyAccept1 = クールな一日を！!
+ButtonYes = はい、お願いします
+ButtonNo = いいえ
 
-EasyNamePre = Do you want
-EasyNamePost = now available for this Death Wish
+EasyNamePre = 助けが必要ですか？
+EasyNamePost = このデスウィッシュの為に利用可能
 EasyName0 = ラブ＆ピース
-EasyName1 = Peas in the Trees
-EasyName2 = Peck and Trainquility
-EasyName3 = P34C3 and TR4NQU171TY
-EasyName4 = Please and Thanksility
-EasyName5 = Trees and Pranquility
-EasyName6 = Piece of Tranquility
-EasyName7 = to see Hat Kid dance
-EasyName8 = to enable EZ Modo???
-EasyName9 = to enable Nice Wish
+EasyName1 = 愛と誠
+EasyName2 = ラブ＆ペック
+EasyName3 = クソゲーと言う前に
+EasyName4 = ゲイブに返金申請する前に
+EasyName5 = 怒りのレビューを投稿する前に
+EasyName6 = 深呼吸しましょう
+EasyName7 = 帽子ちゃんのダンスを見る
+EasyName8 = 初心者救済の部屋
+EasyName9 = ナイスウィッシュを有効にする
