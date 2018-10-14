@@ -429,12 +429,12 @@ Label_Contract = 契約書
 Options_RestartLevel_Q = この契約をやり直す？
 Options_RestartDeathWish_Q = このDeathWishをやり直す？
 
-Coop_NoControllerPluggedIn = Please plug in a controller
-Coop_CantDisableRightNow = Can't disable co-op mode right now
-Coop_CantEnableRightNow = Can't enable co-op right now
-Coop_CantEnableDeathWish = Unavailable for co-op
-Coop_CantEnableDWActive = Can't enable co-op while a Death Wish is active
-Coop_Disable_Question = Disable Coop?
+Coop_NoControllerPluggedIn = コントローラーを差し込んでください
+Coop_CantDisableRightNow = co-opモードを無効に出来ませんでした
+Coop_CantEnableRightNow = co-opモードを有効に出来ませんでした
+Coop_CantEnableDeathWish = co-opは利用できません
+Coop_CantEnableDWActive = Death Wishがアクティブである間、co-opを有効にする事は出来ません
+Coop_Disable_Question = co-opを無効にしますか？
 Coop_Disable_Confirm = 無効
 Coop_Disable_Deny = 戻る
 
@@ -679,7 +679,7 @@ EasyName1 = 愛と誠
 EasyName2 = ラブ＆ペック
 EasyName3 = クソゲーと言う前に
 EasyName4 = ゲイブに返金申請する前に
-EasyName5 = 怒りのレビューを投稿する前に
+EasyName5 = 怒りのレビューを書き込む前に
 EasyName6 = 深呼吸しましょう
 EasyName7 = 帽子ちゃんのダンスを見る
 EasyName8 = 初心者救済の部屋

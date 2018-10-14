@@ -18,9 +18,9 @@ reviewcrow1 = ‘¼‚Ìæ‹q’B‚Æ“¯‚¶‚æ‚¤‚Éƒ`ƒPƒbƒg‚É‘Î‚µ‚Ä[TicketPrice][icon:pon]ƒ|ƒ“‚
 reviewcrow2 = ‚±‚ÌƒNƒ‹[ƒY—·s‚Éˆ«‚¢ƒŒƒrƒ…[‚ð‘‚¢‚Ä‚â‚éB
 //TODO
 [act2]
-missives0 = ‚±‚ê‚ç‚Ì’Pƒ‚ÅƒR[ƒh‰»‚³‚ê‚Ä‚¢‚È‚¢ƒƒbƒZ[ƒW‚ðŽ„‚Ì‚½‚ß‚É“n‚µ‚Ä‚­‚¾‚³‚¢B
-missives1 = ‚ ‚ B‚±‚ê‚ç‚Ì•’Ê‚ÌŽèŽ†A“¯—»‚ÉŠ´ŽÓ‚µ‚Ü‚·B
-missives2 = ‚ ‚È‚½‚Í“¯æŽÒ‚Ì‚½‚ß‚É‚±‚ê‚ç‚ð”z’B‚Å‚«‚Ü‚·‚©H
-missives3 = –Ú—§‚½‚È‚¢ƒƒbƒZ[ƒW‚Å‚·‚©HŽ„‚Ì‚½‚ß‚ÉH‚ ‚È‚½‚ÍŽ‚Á‚Ä‚Í‚¢‚¯‚È‚¢I
-missives4 = ‚±‚ê‚ç‚ÍA’a¶“úƒJ[ƒh‚Å‚·BŽ„‚Ì—Fl‚Ì‚½‚ßB”Þ‚É‚»‚ê‚ç‚ð—^‚¦‚Ä‚­‚¾‚³‚¢B
-missives5 = ‚ ‚ BŽ„‚É‚Í‚¨’a¶“ú‚¨‚ß‚Å‚Æ‚¤B“¯”ºŽÒA‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B
+missives0 = ‚±‚ê‚ç‚Ì’Pƒ‚ÅˆÃ†‰»‚³‚ê‚Ä‚¢‚È‚¢ƒƒbƒZ[ƒW‚ðŽ„‚Ìˆ×‚É“n‚µ‚Ä—ˆ‚Ä‚­‚ê‚È‚¢‚©B
+missives1 = ‚ ‚ B‚²‚­•’Ê‚ÌŽèŽ†‚¾‚ÈB“¯æŽÒ‚ÉŠ´ŽÓ‚·‚é‚æB
+missives2 = “¯æŽÒ‚Ìˆ×‚É”z’B‚µ‚Ä‚­‚ê‚é‚¾‚Á‚ÄH
+missives3 = ‹C•t‚©‚ê‚È‚¢—l‚ÉƒƒbƒZ[ƒW‚·‚éA‚¾‚Á‚ÄHŽ„‚Ìˆ×‚É‚©H—]Œv‚ÈŽ–‚ð‚·‚é‚ÈI
+missives4 = ‚»‚ê‚ÍA‚È‚ñ‚Æ‚¢‚¤‚©Aƒo[ƒXƒfƒCƒJ[ƒh‚¾B—Fl‚ª‚¢‚é‚ñ‚¾B‚»‚ê‚ð”Þ‚É“n‚µ‚Ä‚Ù‚µ‚¢B
+missives5 = ‚ ‚ Bƒo[ƒXƒfƒC‚¨‚ß‚Å‚Æ‚¤‚¾‚Á‚ÄBŽ‚Á‚Ä‚«‚Ä‚­‚ê‚ÄA‚ ‚è‚ª‚Æ‚¤B

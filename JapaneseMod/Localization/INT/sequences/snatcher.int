@@ -33,7 +33,7 @@ contract_soul = 非常に空っぽな気分になった。
 contract_agree2 = [shake2]おーっと！この魂はどうやら私のものになってしまったようだ！[/shake2]
 contract_agree3 = [shake2]だが心配は無用！すみやかに仕事を片付けたなら、すぐに魂は返してやろう！[/shake2]
 contract_agree4 = [shake2]契約のことは忘れるなよ！いつでも見られるよう契約書をお前の[button:start]メニューに入れておいたからな！[/shake2]
-contract_agree5 = [shake2]Goodbye! Take care! Don't die on me![/shake2]
+contract_agree5 = [shake2]あばよ！達者でな。死ぬんじゃないぞ！[/shake2]
 
 enter_village0 = [shake][big][scream][wave]やあやあ、ご機嫌いかがかな？？[/wave][/scream][/big][/shake][br][shake2]私のことを、おぼえているだろうね！？まさか忘れていたなんて言わないよな！？[/shake2]
 enter_village1 = [shake2]どうだい？最近は契約的義務の履行に勤しんでいるかな？そうであるはずだよな！我らの取引のこと、忘れるんじゃないぞ！[/shake2]

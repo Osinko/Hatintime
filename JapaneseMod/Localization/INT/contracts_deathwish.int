@@ -1,5 +1,5 @@
 [Info]
-Conditions_3Lives = あなたは３つの命を持っている
+Conditions_3Lives = あなたは3つの命を持っている
 Conditions_3Checkpoints = あなたは残り3つのチェックポイントからリトライ出来る
 Conditions_NoHealth = ノーヘルス、ノーポン
 Conditions_NoCheckpoints = チェックポイントなし
@@ -20,7 +20,7 @@ Title = ポンの狂信者
 Objective = 20ポン集める
 50Pons = 50ポン集める
 100Pons = 100ポン集める
-Tip0 = お前は[icon:money] [name]ポン[/name]が何か知っているよな？至る所にある小さな緑色のアレだ。その[icon:money] [name]ポン[/name]がどんなモノであるのか、詳しく私に教えてくれないか。
+Tip0 = お前は[icon:money] [name]ポン[/name]が何か知っているよな？いたる所にある小さな緑色のアレだ。その[icon:money] [name]ポン[/name]がどんなモノであるのか、詳しく私に教えてくれないか。
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = グレート ビッグ パレード
@@ -28,7 +28,7 @@ Objective = パレードを最後まで終わらせろ
 AllTokens = DJグルーヴ トークンが無くならない様にする
 NoHit = 急行バンドを攻撃しないで
 BigBand = あなたは熱狂的なファンを得たようだ　　　
-Tip0 = うすのろなフクロウ共は、お前を何処までも追いかけてくるだろう。[name]円を描くように走れば[/name]時間を稼ぐことが出来るぞ。
+Tip0 = うすのろなフクロウ共は、お前を何処までも追いかけてくるだろう。[name]丸く描くように走れば[/name]時間を稼ぐことが出来るぞ。
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = 自爆まで残り10秒
@@ -71,13 +71,13 @@ OneHit = 帽子能力なし、ワンパンヒーローのバッジ装備
 TimeLimit =  4分で終了
 TimeLimit_Easy =  10分で終了
 Condition = 風車は絶頂のパフォーマンスで動作している
-Tip0 = 素早く動く足場に困っているのか？あまり高くジャンプせず、むしろ地を這うように移動しろ。動く足場のモーメントを利用するんだ。おぼえておけキッド。[name]タイミングがすべてだ。[/name]
+Tip0 = 素早く動く足場に困っているのか？あまり高くジャンプせず、むしろ地をはうように移動しろ。動く足場のモーメントを利用するんだ。おぼえておけキッド。[name]タイミングがすべてだ。[/name]
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = 秘密の金庫
 Objective = 黄金の金庫を開け
-Condition = 金庫のパスワードが散在しています
-Condition2 = 金庫のパスワードは部分的にバラバラにされている
+Condition = 金庫のパスワードがあちこちに在ります
+Condition2 = 金庫のパスワードはバラバラだ
 
 [Hat_SnatcherContract_DeathWish_BossRush]
 Title = ボスラッシュ
@@ -93,7 +93,7 @@ Objective = 最強の敵を倒す
 Condition = 幸運を祈る！
 NoHats = 帽子能力なし
 FewHits = 体力の残りを1にしない
-Tip0 = 休憩を取ることを忘れるな！長期間移動しないと健康に悪いからな。
+Tip0 = 休む事を忘れるな。昔、ゲームは一日一時間と言った男もいた。長期間移動しないと健康に悪いぞ。
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = ポンの長者
@@ -160,7 +160,7 @@ Bonus2 = 6分以内にクリア
 Objective_Easy = 14分以内に「蔓延する病」をクリアせよ
 Bonus1_Easy = 13分以内にクリア
 Bonus2_Easy = 12分以内にクリア
-Tip0 = 急いで[name]スタート地点[/name]に戻りたいなら崖から[name]飛び降りてみろよ？[/name]いや本当に！[wave]試してみろって！[/wave]
+Tip0 = 急いで[name]スタート地点[/name]に戻りたいならガケから[name]飛び降りてみろよ？[/name]いや本当に！[wave]試してみろって！[/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
 Title = リフト消失 - 料理人のマフィア

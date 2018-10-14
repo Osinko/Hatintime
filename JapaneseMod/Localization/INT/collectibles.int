@@ -18,7 +18,7 @@ BadgeCollect0 = [yarn][icon:yarn]の糸[/yarn]が[badgepoints_required]つ必要。制作
 BadgeCollect1 = [yarn][icon:yarn]の糸[/yarn]が[badgepoints_required]つ必要。現在[yarn][badgepoints_player][/yarn]つ持っている[button:start]でポーズメニューを開いて、どこで制作できるか確認できます。
 BadgeCollect2 = [yarn][icon:yarn]の糸[/yarn]が[badgepoints_required]つ必要！
 BadgeCollect3 = 制作に必要な[yarn][icon:yarn]の糸[/yarn]が十分ある！
-BadgeCollect4 = You already have this hat, but you get [yarn]+1 [icon:yarn]yarn[/yarn] anyway!
+BadgeCollect4 = この帽子はすでに持っているため、[yarn][icon:yarn]の糸[/yarn]+1がもらえる！
 
 UnknownName = ？？？の帽子
 UnknownDescLocked0 = 説明なし。
@@ -109,12 +109,12 @@ NoBonkBadgeDesc0 = ダイブ中、壁にぶつからなくなる！
 
 HatCooldownBonusBadgeName = クールダウンのバッジ
 HatCooldownBonusBadgeDesc0 = 帽子使用時のクールダウン時間を短縮します！
-//TODO
+//？？未確認
 MirrorBadgeName = 鏡のバッジ
 MirrorBadgeDesc0 = Dnuora gnihtyreve spilf!
 
 NostalgiaBadgeName = ノスタルジアのバッジ
-NostalgiaBadgeDesc0 = Everything is better when it's worse!
+NostalgiaBadgeDesc0 = 昔は良かった！
 
 [loot]
 BirdPassportName = 鳥連合国のパスポート

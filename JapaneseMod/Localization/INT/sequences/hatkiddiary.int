@@ -84,15 +84,16 @@ AlpineSkyline_Finale_0 = 病の種を持つ不思議な花があるなんて知らなかった。[icon:t
 AlpineSkyline_Finale_1 = 彼らの大きなくしゃみは恐ろしいあらしを呼んで山の人々は不安な時を過ごすことになりました。大変！彼らを助ける必要があります。
 
 //THE ARCTIC CRUISE
-Cruise_Boarding_0 = Wow! Look at the size of that ship! Maybe I should have made mine bigger...
-Cruise_Boarding_1 = Anyway, this should be fun! I deserve a holiday after all this running around. I wonder if there's more [icon:timepiece][timepiece]Time Pieces[/timepiece] here, though.
+Cruise_Boarding_0 = うわー！とっても大きな船！多分、私のものより、ずっと大きい...
+Cruise_Boarding_1 = これは、とっても楽しいだろう！私はこの周りを走り回ってホリデーを満喫するつもり。でも、ここにも[icon:timepiece][timepiece]時間のピース[/timepiece]があるような気がします。
 
-Cruise_Working_0 = There's tooootally more [icon:timepiece][timepiece]Time Pieces[/timepiece] on this boat! Nobody even wants 'em! 
-Cruise_Working_1 = That moody old Captain made me clean up (ughh!!!) his ship, but joke's on him! At least no one's getting murdered or blown up here.
+Cruise_Working_0 = このボートには、あまりにも多くの[icon:timepiece][timepiece]時間のピース[/timepiece]があります！ 誰もそんな事、望んでいない！
 
-Cruise_Sinking_0 = Uhhhh..... whoops. I don't think anyone saw me do that. Should I come up with an excuse just in case?
-Cruise_Sinking_1 = It was a freak accident? Icebergs just get in the way of ships sometimes? I really wanted to do it?
-Cruise_Sinking_2 = Maybe sinking cruise ships isn't even illegal on this planet?
+Cruise_Working_1 = その不機嫌そうな古い船長の船を私はキレイにしてあげました（ちょっと嫌だな）。少なくとも、もう誰も、ここで殺害されたり爆死することはないと思います。
+
+Cruise_Sinking_0 = う.....オェップ。誰も私がした事を目撃してないわよね。この場合、私は素直に謝った方が良いのでしょうか？
+Cruise_Sinking_1 = これは不慮のアクシデントと言える？船がちょうど氷山の通り道に入ってた？私は何をしでかしたのでしょう？
+Cruise_Sinking_2 = おそらく、この惑星でクルーズ船を沈めることは違法なのではないでしょうか？
 
 //FINALE
 Mu_Finale_0 = 何も書く気が起きません。宇宙船の中の[icon:timepiece][timepiece]燃料[/timepiece]は、まるで、この惑星の溶岩のようにカラッポです。
