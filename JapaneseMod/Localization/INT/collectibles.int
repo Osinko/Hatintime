@@ -38,7 +38,7 @@ HoverDescFun0 = 危なくなったらフワフワ逃げよう！
 HoverDescTech0 = [button:badge]長押しで空中浮遊！
 
 HelpName = 女の子の帽子
-HelpDescTech0 = [button:badge]で次の[icon:timepiece][timepiece]時間のピース[/timepiece]をさがそう！
+HelpDescTech0 = [button:badge]で次の[icon:timepiece][timepiece]時間のピース[/timepiece]を[br]さがそう！
 HelpUsage = [icon:activehat]でゴールを探そう！
 
 ChemicalName = 化学の帽子
@@ -52,7 +52,7 @@ TimeStopDescTech0 = [button:badge]で時の流れを遅くする！
 FoxMaskName = 住人の仮面
 FoxMaskDescFun0 = 不気味な糸！
 FoxMaskDescHat0 = 不気味な仮面！
-FoxMaskDescTech0 = [button:badge]で住人の視点で世界を見る！
+FoxMaskDescTech0 = [button:badge]で住人視点で世界を見る！
 
 DetectiveHatName = 探偵の帽子
 DetectiveHatDesc0 = 事件を解決しよう。この探偵をあなどるなかれ
@@ -65,16 +65,16 @@ UnknownName = ？？？のアビリティ。
 UnknownDescFun0 = 説明なし。
 UnknownDescTech0 = このアビリティの効果は不明。
 
-OneHitDeathName = ワンパンヒーローのバッジ
+OneHitDeathName = ワンパンヒーロー
 OneHitDeathDesc0 = 一発で死にます。上級者向け！
 
 SuckInOrbsName = 磁石のバッジ
 SuckInOrbsFun0 = アイテムに手が届かない？これでもう安心。
-SuckInOrbsTech0 = 自動で近くのアイテムを引き寄せます！
+SuckInOrbsTech0 = 自動で近くのアイテムを[br]引き寄せます！
 
 AttackProjectileName = ビームのバッジ
 AttackProjectileDescFun0 = ビームをぶっぱなせ。
-AttackProjectileDescTech0 = [button:attack]を長押しして離すとビームを発射！
+AttackProjectileDescTech0 = [button:attack]を長押しして離すとビームを[br]発射！
 
 CameraName = カメラのバッジ
 CameraDesc0 = [button:share]で旅の写真を撮ろう！
@@ -90,10 +90,10 @@ AirAttackBadgeName = 空中攻撃のバッジ
 AirAttackBadgeDesc0 = 空中で攻撃できる！
 
 MumbleBadgeName = 耳栓のバッジ
-MumbleBadgeDesc0 = 耳栓をすれば何を言っているか聞き取れなくなります！
+MumbleBadgeDesc0 = 耳栓をすれば何を言っているか[br]聞き取れなくなります！
 
-HookshotBadgeName = フックショットのバッジ
-HookshotBadgeDesc0 = [button:attack]長押しでフックを引っ掛けてスウィング！
+HookshotBadgeName = フックショット
+HookshotBadgeDesc0 = [button:attack]長押しでフックを引っ掛けて[br]スウィング！
 
 FindRelicsBadgeName = 宝探しのバッジ
 FindRelicsBadgeDesc0 = 近くの[icon:relic]をマップに表示します！
@@ -105,10 +105,10 @@ NoFallDamageBadgeName = ホバーのバッジ
 NoFallDamageBadgeDesc0 = 高いところから落ちた時、自動で傘を開きます！
 
 NoBonkBadgeName = 安全のバッジ
-NoBonkBadgeDesc0 = ダイブ中、壁にぶつからなくなる！
+NoBonkBadgeDesc0 = ダイブ中、壁にぶつから[br]なくなる！
 
-HatCooldownBonusBadgeName = クールダウンのバッジ
-HatCooldownBonusBadgeDesc0 = 帽子使用時のクールダウン時間を短縮します！
+HatCooldownBonusBadgeName = クールダウン
+HatCooldownBonusBadgeDesc0 = 帽子使用時のクールダウン[br]時間を短縮します！
 //？？未確認
 MirrorBadgeName = 鏡のバッジ
 MirrorBadgeDesc0 = Dnuora gnihtyreve spilf!

@@ -85,7 +85,7 @@ Objective = マフィアと（その他）を倒せ
 NoMiss = ダメージを与えるチャンスを逃すな
 OneHit = ワンパンヒーローのバッジ装備で勝て
 Condition = 戦いの最中に体力回復はない
-Tip0 =必要ない[icon：health][name]ヘルス-ポン[/name]を見つけても、すぐにそれを取らない方が良い！後で必要になるかもしれないからな...
+Tip0 =必要ない[icon:health][name]ヘルス-ポン[/name]を見つけても、すぐにそれを取らない方が良い！後で必要になるかもしれないからな...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
 Title = Seal the Deal
@@ -264,7 +264,7 @@ NoSlow = 時間の流れは遅く出来ない
 Kill = 時間を見つけて10人のマフィアを倒す
 Kill_Easy = 時間を見つけて1人のマフィアを倒す
 Condition = 金庫キーワードを集める時間は30秒です
-Tip0 = 一度、深呼吸しろキッド。落ち着いて風の中に舞うキーワードの動きを見るんだ。癒される光景だろう！
+Tip0 = 一度、深呼吸しろキッド。落ち着いて風の中に舞うキーワードの動きを見るんだ。いやされる光景だろう！
 
 [Hat_SnatcherContract_DeathWish_MafiaBossEX]
 Title = アンコールよ、もう一度
@@ -272,7 +272,7 @@ Objective = マフィアのボスを倒す
 NoMiss = 攻撃の隙を見逃すな
 NoHit = ワンパンヒーローのバッジ装備
 Condition = 彼は完全にチャージ済みだ
-Tip0 = 憐れな瓶詰の彼は念願の新しい体を手に入れ生まれ変わった様だ。しかし、[name]顔が青く[name]なるまで踏ん張り叫ぶという厄介な癖は直ってないようだな。
+Tip0 = あわれな瓶詰の彼は念願の新しい体を手に入れ生まれ変わった様だ。しかし、[name]顔が青く[name]なるまで踏ん張り叫ぶという厄介なクセは直ってないようだな。
 
 [Hat_SnatcherContract_DeathWish_BirdBossEX]
 Title = ダブルバード
@@ -280,7 +280,7 @@ Objective = 両方のディレクターを倒せ
 Fast = 100秒残して勝利する
 BestBird = 1人のディレクターに最後まで攻撃を集中させて倒す
 Condition = 次のプロジェクトはコラボレーションです...
-Tip0 = 嵐のような攻撃に気を散らすな！憶えておけキッド。手の中の一羽は草むらの中の二羽に勝る。
+Tip0 = 台風のような攻撃に気をちらすな！おぼえておけキッド。手の中の一羽は草むらの中の2羽に勝る。
 
 [Hat_SnatcherContract_DeathWish_SnatcherEX]
 Title = 契約を破れ
@@ -288,7 +288,7 @@ Objective = スナッチャーを倒す
 Condition = 私はいつもよりハンサムです！
 FewHits = ヘルスを1以下にしない
 NoUmbrella = 攻撃不可！青ポーションを投げる事だけが出来ます
-Tip0 = [name]衝撃波の間、着地する場所を探さない方が良い。[/name]そういう時は地面に頭を伏せて寝そべって見ろ。[shake]そうすれば、ずっと簡単になるぞ。[/shake]
+Tip0 = [name]衝撃波の間、着地する場所を探さない方が良い。[/name]そういう時は地面に頭をふせて寝そべって見ろ。[shake]そうすれば、ずっとラクになるぞ。[/shake]
 
 [Hat_SnatcherContract_DeathWish_MuGirlEX]
 Title = 悪者はもういや
@@ -328,7 +328,7 @@ EasyTip = 時間停止の帽子を使ってみろ！
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
 Title = コミュニティリフト：リズムジャンプスタジオ
 ShortTitle = Rhythm Jump Studio
-Condition = 投稿者 Lane 'FlameLFH' Haskins
+Condition = 制作者 Lane 'FlameLFH' Haskins
 Objective = タイムリフトを完了する
 AllPons = すべてのリフトポンを集める
 AllPages = すべてのストーリーブックのページを収集する
@@ -337,16 +337,16 @@ Tip0 = これは力作だ。キッド。あわてふためいてコケまくれ。
 [Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
 Title = コミュニティリフト：トワイライトトラベル
 ShortTitle = Twilight Travels
-Condition = 投稿者 Eric 'Jak' Ridge
+Condition = 制作者 Eric 'Jak' Ridge
 Objective = タイムリフトを完了する
 AllPons = すべてのリフトポンを集める
 AllPages = すべてのストーリーブックのページを収集する
-Tip0 = 鐘を鳴らすのを辞めろキッド。頭痛がする。
+Tip0 = もう鐘を鳴らすのは、やめろキッド。頭痛がする。
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
 Title = コミュニティリフト：ザマウンテンリフト
 ShortTitle = The Mountain Rift
-Condition = 投稿者 Devan 'Mr.Brawls' Miller
+Condition = 制作者 Devan 'Mr.Brawls' Miller
 Objective = タイムリフトを完了する
 AllPons = すべてのリフトポンを集める
 AllPages = すべてのストーリーブックのページを収集する

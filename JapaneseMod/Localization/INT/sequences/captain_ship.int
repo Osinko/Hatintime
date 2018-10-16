@@ -18,9 +18,9 @@ leftshard2 = Ž„‚ªˆãŽÒ‚Ì‚æ‚¤‚ÉŒ©‚¦‚é‚©H[br]‚¨‘O‚ª[hint]ƒLƒX[/hint]‚Å‚à‚µ‚Ä‚â‚ê‚Î
 captainAttention0 = ƒLƒƒƒvƒeƒ“‚©‚ç‹Æ–±˜A—B
 captain0 = ‚È‚ñ‚¾Aƒpƒs[H[br]‰½‚©Žè“`‚¨‚¤‚©A‚¾‚Á‚ÄH
 captain1 = ƒtƒ“B‚¢‚¢‚¾‚ë‚¤Bƒ{[ƒg‚ðŒ©‰ñ‚ê‚ÎA‚ ‚ç‚ä‚é‘›“®‚ª‹N‚«‚éB‚»‚ê‚ð‰ðŒˆ‚·‚é‚ñ‚¾B
-captain2 = ƒt[ƒh‚Ì’²—‚âƒhƒŠƒ“ƒN‚ÌƒfƒŠƒoƒŠ[‚à—Š‚ÞB‚ ‚ç‚ä‚é‚±‚Æ‚ðŽè‘‚­•Ð‚Ã‚¯‚é‚ñ‚¾B‚¢‚¢‚ÈBƒpƒs[B
+captain2 = ƒt[ƒh‚Ì’²—‚âƒhƒŠƒ“ƒN‚ÌƒfƒŠƒoƒŠ[‚à—Š‚ÞB‚ ‚ç‚ä‚éŽ–‚ðŽè‘‚­•Ð‚Ã‚¯‚é‚ñ‚¾B‚¢‚¢‚ÈBƒpƒs[B
 captain3 = –Ê“|‚¾‚ªA‚â‚è‚ª‚¢‚Ì‚ ‚éŽdŽ–‚¾B’ˆÓ[‚­‚â‚é‚ñ‚¾‚¼B€”õ‚Í‚¢‚¢‚©H
-captain4 = ‚æ‚µA‚»‚ë‚»‚ë–ß‚Á‚Ä—ˆ‚¢B‚±‚Ì‘D‚Å‚â‚é‚±‚Æ‚Í•Ð•t‚¢‚½‚¾‚ë‚¤B
+captain4 = ƒtƒ€B‚Ü‚½Ž„‚Ì‚Æ‚±‚ë‚Ö–ß‚Á‚Ä—ˆ‚¢B‚±‚Ì‘D‚Å•Ð•t‚¯‚Ä‚à‚ç‚¢‚½‚¢Ž–‚Í‚Ü‚¾‚ ‚éB
 captain5 = ‚¢‚¢•ÔŽ–‚¾B‚±‚±‚à‘|œ‚ª•K—v‚¾‚ÈB‚Å‚ÍA‚·‚®‚»‚±‚É‚ ‚é” ‚©‚çŽdŽ–‚ðŽn‚ß‚Ä‚­‚êB
 captainFail0 = æ‘gˆõ‚Æ‚µ‚Ä‚Í...Ž¸Ši‚¾B•Ð•t‚¯‚ç‚ê‚Ä‚¢‚È‚¢‚¼Bƒpƒs[B‚à‚¤ˆê“x‚â‚é‚©B‚»‚ê‚Æ‚à’ú‚ß‚é‚©B
 captainDone0 = ƒˆƒV\•ª‚¾‚ë‚¤B‚¢‚Ü‚·‚®ŽdŽ–‚ðŽ~‚ß‚ÄƒRƒ“ƒgƒ[ƒ‹Žº‚É–ß‚Á‚Ä—ˆ‚é‚ñ‚¾Bƒpƒs[B
@@ -40,7 +40,7 @@ captain4 = ‘Dˆõ‚Í‚Ü‚Á‚·‚®“¹‚ðì‚é‚±‚Æ‚³‚¦o—ˆ‚È‚¢‚ñ‚¾B‚¨‚Ç‚ë‚¢‚½Ž–‚É‚Ü‚Á‚½‚­A‚
 [act3]
 captainbar0 = ƒqƒ}‚»‚¤‚¾‚ÈBƒpƒs[H‰½ˆ‚Å—V‚ñ‚Å‚¢‚½‚ñ‚¾B
 captainbar1 = ƒAƒUƒ‰ƒV’B‚Í•ª’PˆÊ‚Å‘D‚ÌŽdŽ–‚ð‚³‚Î‚¢‚Ä‚¢‚­B‚»‚Ì‚¨‚©‚°‚ÅA‚¨‚¢‚Ú‚ê‘D’·‚à‚â‚Á‚Æ‹x‚ÞŽ–‚ªo—ˆ‚é‚Á‚Ä–ó‚¾B
-captainbar2 = ”Þ‚ç‚à‘½‚­‚ðŠw‚ÑA¡‚â[hint]‘D‚Ìƒnƒ“ƒhƒ‹‚ÉƒCƒ^ƒYƒ‰‚·‚é[/hint]Ž–‚à–³‚¢...‚¾‚ë‚¤B
+captainbar2 = ”Þ‚ç‚à‘½‚­‚ðŠw‚ÑA¡‚â[hint]‘D‚Ìƒnƒ“ƒhƒ‹‚ÉƒCƒ^ƒYƒ‰‚·‚é[/hint]Ž–‚à–³‚¢...B
 
 loudspeaker0 = ƒEƒƒIƒLƒƒƒvƒeƒ“‰ž“š‚µ‚Ä‚­‚¾‚³‚¢[
 loudspeaker1 = ƒ}ƒCƒN‚ðŽæ‚êI[scream]‘€c‚µ‚Ä‚¢‚é‚Ì‚Í’N‚¾ƒbH[/scream]
