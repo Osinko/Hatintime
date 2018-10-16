@@ -234,69 +234,69 @@ Condition = ¡‰ñAÂ‚ÍƒiƒV‚¾I
 Tip0 = ‚©‚©‚Á‚Ä—ˆ‚¢ƒLƒbƒhI‚¨‘O‚Í‚½‚¾‚Ìƒgƒ‚ƒ_ƒ`‚¾BÂ‚Ìƒ|[ƒVƒ‡ƒ“‚à“Š‚°‚é‚È‚æBP‚Å‰£‚é‚Ì‚àƒiƒV‚¾Bæˆø‚µ‚æ‚¤‚ºH
 
 [Hat_SnatcherContract_DeathWish_HardCastle]
-Title = The Mustache Gauntlet
-Objective = Defeat all the Bad Guys
-DontFry = Don't get burned
-MeleeOnly = Don't use any projectile weapons
-Tip0 = Make sure you [name]kill everyone[/name], kiddo! You don't want to reach the end just to find out you have to [name]start over[/name], do you?
+Title = Œû‚Ğ‚°‚ÌƒKƒ“ƒgƒŒƒbƒg
+Objective = ‚·‚×‚Ä‚Ìˆ«Ò‚ğ“|‚·
+DontFry = ”R‚¦‚Ä‚Í‚¢‚¯‚È‚¢
+MeleeOnly = ƒVƒ‡ƒbƒg‚Í•sg—p
+Tip0 = [name]‚İ‚ÈE‚µ‚¾B[/name]ƒLƒbƒhI[name]Å‰‚©‚çÅŒã‚Ü‚Å[/name]‹ŠE‚É“ü‚Á‚½‚à‚Ì‘S•”A‘§‚Ìª‚ğ~‚ß‚ëB
 
 [Hat_SnatcherContract_DeathWish_NiceBirdhouse]
-Title = Bird Sanctuary
-Condition = Hurting birds is not allowed!
-Objective = Tiptoe through the Birdhouse
-TimeLimit = Reach the end in 65 seconds
-TimeLimit_Easy = Reach the end in 3 minutes
-NoKills = With One-Hit Hero equipped
-MafiaHunt = Defeat the 6 hidden Mafia
-Tip0 = Make sure you [name]keep the birds away[/name] from those explosive eggs, I don't want to see anyone getting hurt!
+Title = ’¹‚Ì•ÛŒì‹æ
+Condition = ’¹‚ğ‚Â‚¯‚é‚±‚Æ‚Í‹–‚³‚ê‚È‚¢I
+Objective = ƒo[ƒhƒnƒEƒX‚É”E‚Ñ‚ß
+TimeLimit = 65•b‚ÅI—¹
+TimeLimit_Easy = 3•ª‚ÅI—¹
+NoKills = ƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ
+MafiaHunt = 6l‚Ì‰B‚ê‚½ƒ}ƒtƒBƒA‚ğ“|‚·
+Tip0 = Šm”F‚µ‚Ä‚¨‚­‚ª[name]”š’e—‘‚©‚ç‚à’¹‚ğç‚é‚ñ‚¾‚¼[/name]B„‚Í’N‚à‚Â‚¢‚Ä‚¢‚é‚Ì‚ğŒ©‚½‚­‚È‚¢‚©‚ç‚ÈI
 
 [Hat_SnatcherContract_DeathWish_CameraTourist_1]
-Title = Camera Tourist
-Objective = Snap a picture of 8 different enemies
-GroupShot = Snap a single picture with 3 different enemies in it
-AllBosses = Snap a picture of every boss
-Tip0 = Make sure you get a picture of my good side! While I'm [name]killing you[/name], preferably.
+Title = ƒJƒƒ‰ƒc[ƒŠƒXƒg
+Objective = ˆÙ‚È‚é“G‚ÌÊ^‚ğ8‚ÂB‚é
+GroupShot = ˆê–‡‚Å3‚Â‚ÌˆÙ‚È‚é“G‚ª“ü‚Á‚½Ê^‚ğB‚é
+AllBosses = ‘S‚Ä‚Ìƒ{ƒX‚ÌÊ^‚ğB‚é
+Tip0 = „‚ªƒnƒ“ƒTƒ€‚ÉŒ©‚¦‚éÊ^‚ğB‚Á‚Ä‚­‚êIo—ˆ‚ê‚Î[/name]‚¨‘O‚ğ“|‚µ‚½ƒVƒ‡ƒbƒg[/name]‚à—~‚µ‚¢‚ÈB
 
 [Hat_SnatcherContract_DeathWish_MovingVault]
-Title = Vault Codes in the Wind
-Objective = Open the Golden Vault
-NoSlow = Don't slow the flow of time
-Kill = Find time to defeat 10 Mafia
-Kill_Easy = Find time to defeat one Mafia
-Condition = You only have 30 seconds to collect each Vault Code
-Tip0 = Take your time with this one, kid. Just relax and watch the Vault Codes flutter in the wind. It's very calming!
+Title = •—‚Ì’†‚ÌƒL[ƒ[ƒh
+Objective = ‰©‹à‹àŒÉ‚ğŠJ‚­
+NoSlow = ŠÔ‚Ì—¬‚ê‚Í’x‚­o—ˆ‚È‚¢
+Kill = ŠÔ‚ğŒ©‚Â‚¯‚Ä10l‚Ìƒ}ƒtƒBƒA‚ğ“|‚·
+Kill_Easy = ŠÔ‚ğŒ©‚Â‚¯‚Ä1l‚Ìƒ}ƒtƒBƒA‚ğ“|‚·
+Condition = ‹àŒÉƒL[ƒ[ƒh‚ğW‚ß‚éŠÔ‚Í30•b‚Å‚·
+Tip0 = ˆê“xA[ŒÄ‹z‚µ‚ëƒLƒbƒhB—‚¿’…‚¢‚Ä•—‚Ì’†‚É•‘‚¤ƒL[ƒ[ƒh‚Ì“®‚«‚ğŒ©‚é‚ñ‚¾B–ü‚³‚ê‚éŒõŒi‚¾‚ë‚¤I
 
 [Hat_SnatcherContract_DeathWish_MafiaBossEX]
-Title = Encore! Encore!
-Objective = Defeat the Mafia Boss
-NoMiss = Don't miss your cue to attack
-NoHit = With One-Hit Hero equipped
-Condition = He's all charged up!
-Tip0 = This old fool looks like he's being a bit more careful with this new body, but he still has that nasty habit of stomping and shouting until he [name]turns blue in the face[/name].
+Title = ƒAƒ“ƒR[ƒ‹‚æA‚à‚¤ˆê“x
+Objective = ƒ}ƒtƒBƒA‚Ìƒ{ƒX‚ğ“|‚·
+NoMiss = UŒ‚‚ÌŒ„‚ğŒ©“¦‚·‚È
+NoHit = ƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ
+Condition = ”Ş‚ÍŠ®‘S‚Éƒ`ƒƒ[ƒWÏ‚İ‚¾
+Tip0 = —÷‚ê‚È•r‹l‚Ì”Ş‚Í”OŠè‚ÌV‚µ‚¢‘Ì‚ğè‚É“ü‚ê¶‚Ü‚ê•Ï‚í‚Á‚½—l‚¾B‚µ‚©‚µA[name]Šç‚ªÂ‚­[name]‚È‚é‚Ü‚Å“¥‚ñ’£‚è‹©‚Ô‚Æ‚¢‚¤–ï‰î‚È•È‚Í’¼‚Á‚Ä‚È‚¢‚æ‚¤‚¾‚ÈB
 
 [Hat_SnatcherContract_DeathWish_BirdBossEX]
-Title = Killing Two Birds
-Objective = Defeat both Directors
-Fast = Win with more than 100 seconds left on the clock
-BestBird = Only attack one director until the very end
-Condition = This next project is a collaboration...
-Tip0 = There's a lot going on here, but don't let yourself get distracted![br]Remember kid: a bird in the hand is worth two in the bush!
+Title = ƒ_ƒuƒ‹ƒo[ƒh
+Objective = —¼•û‚ÌƒfƒBƒŒƒNƒ^[‚ğ“|‚¹
+Fast = 100•bc‚µ‚ÄŸ—˜‚·‚é
+BestBird = 1l‚ÌƒfƒBƒŒƒNƒ^[‚ÉÅŒã‚Ü‚ÅUŒ‚‚ğW’†‚³‚¹‚Ä“|‚·
+Condition = Ÿ‚ÌƒvƒƒWƒFƒNƒg‚ÍƒRƒ‰ƒ{ƒŒ[ƒVƒ‡ƒ“‚Å‚·...
+Tip0 = —’‚Ì‚æ‚¤‚ÈUŒ‚‚É‹C‚ğU‚ç‚·‚ÈI‰¯‚¦‚Ä‚¨‚¯ƒLƒbƒhBè‚Ì’†‚Ìˆê‰H‚Í‘‚Ş‚ç‚Ì’†‚Ì“ñ‰H‚ÉŸ‚éB
 
 [Hat_SnatcherContract_DeathWish_SnatcherEX]
-Title = Breaching the Contract
-Objective = Defeat the Snatcher
-Condition = I'm even more handsome than usual!
-FewHits = Don't let your health drop to 1 HP
-NoUmbrella = Don't attack me! Only throw blue potions!
-Tip0 = Don't look for places to [name]land between the shockwaves[/name]. Actually, try to lie face down on the ground, that will make this [shake]MUCH EASIER.[/shake]
+Title = Œ_–ñ‚ğ”j‚ê
+Objective = ƒXƒiƒbƒ`ƒƒ[‚ğ“|‚·
+Condition = „‚Í‚¢‚Â‚à‚æ‚èƒnƒ“ƒTƒ€‚Å‚·I
+FewHits = ƒwƒ‹ƒX‚ğ1ˆÈ‰º‚É‚µ‚È‚¢
+NoUmbrella = UŒ‚•s‰ÂIÂƒ|[ƒVƒ‡ƒ“‚ğ“Š‚°‚é–‚¾‚¯‚ªo—ˆ‚Ü‚·
+Tip0 = [name]ÕŒ‚”g‚ÌŠÔA’…’n‚·‚éêŠ‚ğ’T‚³‚È‚¢•û‚ª—Ç‚¢B[/name]‚»‚¤‚¢‚¤‚Í’n–Ê‚É“ª‚ğ•š‚¹‚ÄQ‚»‚×‚Á‚ÄŒ©‚ëB[shake]‚»‚¤‚·‚ê‚ÎA‚¸‚Á‚ÆŠÈ’P‚É‚È‚é‚¼B[/shake]
 
 [Hat_SnatcherContract_DeathWish_MuGirlEX]
-Title = No More Bad Guys
-Objective = Defeat Mustache Girl
-NoHat = Don't use any of your stupid hat abilities!
-Time = Don't spend more than 3 minutes in the Hyper Zone
-Condition = She stole a bunch of those weird Time Pieces!
-Tip0 = Don't go all gung-ho into this one like you usually do. Try staying alive, and learn how to [name]dodge her attacks[/name] first.
+Title = ˆ«Ò‚Í‚à‚¤‚¢‚â
+Objective = ƒqƒQ‚Ì­—‚ğ“|‚·
+NoHat = ƒAƒ“ƒ^‚Ìƒ€ƒJ‚Â‚­–Xq”\—Í‚Íg‚í‚È‚¢‚Å‚æI
+Time = ƒnƒCƒp[ƒ][ƒ“‚Å3•ªˆÈã”ï‚â‚³‚È‚¢
+Condition = ”Ş—‚Í‚Ü‚é‚²‚ÆŠï–­‚Èƒ^ƒCƒ€ƒs[ƒX‚ğ“‚ñ‚¾I
+Tip0 = ‰½‚ğ‚µ‚Ä‚¢‚éB‘›“®‚ÉŠª‚«‚Ü‚ê‚½‚æ‚¤‚È‚à‚Ì‚¾B‚Ü‚¾s‚­‚ÈB‚»‚ê‚æ‚è[name]”Ş—‚ÌƒtƒFƒCƒ“ƒgUŒ‚[/name]‚©‚ç¶‚«‰„‚Ñ‚é–‚ğl‚¦‚ëB
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
 Title = ƒXƒiƒbƒ`ƒƒ[‚ÌSATUGAIƒŠƒXƒg
@@ -307,13 +307,13 @@ Condition = ”Ş‚ç‚Í‘S‚Ä‚Ì–‚ğ—‰ğ‚µ‚½
 Tip0 = ‚±‚ÌƒŠƒXƒg‚É‚Ì‚Á‚Ä‚¢‚éƒ„ƒc‚ğ[name]‘Sˆõ“|‚·‚ñ‚¾[/name]B‚í‚©‚Á‚½‚ÈHˆê•”‚Ì“z‚ç‚Í‰B‚ê‚Ä‚¢‚é–‚à‚ ‚éB[name]‘¼‚ÌÍ[/name]‚Ü‚Å’T‚·•K—v‚ª‚ ‚é‚©‚à‚ÈB
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
-Title = Cruisin' for a Bruisin'
-Objective = Complete 40 tasks
-NoMiss = Complete 40 tasks without missing one
-More = Complete 70 tasks
-Objective_Easy = Complete 30 tasks
-Condition = There's no end in sight
-Tip0 = Take some time to [name]study the layout[/name] of the ship. There may be some routes you didn't even know about!
+Title = ƒNƒ‹[ƒWƒ“ƒO ƒtƒH[ ƒuƒ‹[ƒWƒ“ƒO
+Objective = 40‚Ìd–‚ğ‚±‚È‚·
+NoMiss = ‚Ğ‚Æ‚Â‚àŒ‡‚©‚·––³‚­40‚Ìd–‚ğ‚±‚È‚·
+More = 70‚Ìd–‚ğ‚±‚È‚·
+Objective_Easy = 30‚Ìd–‚ğ‚±‚È‚·
+Condition = I‚í‚è‚ª‚È‚¢
+Tip0 =[name]‘D‚ÌƒŒƒCƒAƒEƒg‚ğ—‰ğ‚µ‚ëB[/name]‚¨‘O‚ª’m‚ç‚È‚¢A•Ö—˜‚Èƒ‹[ƒg‚ª‚ ‚é‚©‚à’m‚ê‚È‚¢‚¼I
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
 Title = ‰F’ˆ‚©‚ç‹A‚Á‚Ä‚«‚½—‚Ìq
@@ -326,28 +326,28 @@ Tip0 = ƒ_ƒCƒu’†‚ÉƒLƒƒƒ“ƒZƒ‹‚·‚éƒeƒNƒjƒbƒN‚ğ—˜—p‚·‚é‚ÆA‚æ‚è‰“‚­‚É”ò‚×‚½‚èA‚‚¢
 EasyTip = ŠÔ’â~‚Ì–Xq‚ğg‚Á‚Ä‚İ‚ëI
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
-Title = Community Rift: Rhythm Jump Studio
+Title = ƒRƒ~ƒ…ƒjƒeƒBƒŠƒtƒgFƒŠƒYƒ€ƒWƒƒƒ“ƒvƒXƒ^ƒWƒI
 ShortTitle = Rhythm Jump Studio
-Condition = Contributed by Lane 'FlameLFH' Haskins
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
-AllPages = Collect all the Storybook Pages
-Tip0 = This one's all you, kiddo. I'm a terrible dancer.[br]I don't have the legs for it.
+Condition = “ŠeÒ Lane 'FlameLFH' Haskins
+Objective = ƒ^ƒCƒ€ƒŠƒtƒg‚ğŠ®—¹‚·‚é
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPages = ‚·‚×‚Ä‚ÌƒXƒg[ƒŠ[ƒuƒbƒN‚Ìƒy[ƒW‚ğûW‚·‚é
+Tip0 = ‚±‚ê‚Í—Íì‚¾BƒLƒbƒhB‚ ‚í‚Ä‚Ó‚½‚ß‚¢‚ÄƒRƒP‚Ü‚­‚êB
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
-Title = Community Rift: Twilight Travels
+Title = ƒRƒ~ƒ…ƒjƒeƒBƒŠƒtƒgFƒgƒƒCƒ‰ƒCƒgƒgƒ‰ƒxƒ‹
 ShortTitle = Twilight Travels
-Condition = Contributed by Eric 'Jak' Ridge
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
-AllPages = Collect all the Storybook Pages
-Tip0 = Stop ringing those bells, kid. You're giving me a headache.
+Condition = “ŠeÒ Eric 'Jak' Ridge
+Objective = ƒ^ƒCƒ€ƒŠƒtƒg‚ğŠ®—¹‚·‚é
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPages = ‚·‚×‚Ä‚ÌƒXƒg[ƒŠ[ƒuƒbƒN‚Ìƒy[ƒW‚ğûW‚·‚é
+Tip0 = à‚ğ–Â‚ç‚·‚Ì‚ğ«‚ß‚ëƒLƒbƒhB“ª’É‚ª‚·‚éB
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
-Title = Community Rift: The Mountain Rift
+Title = ƒRƒ~ƒ…ƒjƒeƒBƒŠƒtƒgFƒUƒ}ƒEƒ“ƒeƒ“ƒŠƒtƒg
 ShortTitle = The Mountain Rift
-Condition = Contributed by Devan 'Mr.Brawls' Miller
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
-AllPages = Collect all the Storybook Pages
-Tip0 = I love mountains, don't you? All those scenic vertical drops!
+Condition = “ŠeÒ Devan 'Mr.Brawls' Miller
+Objective = ƒ^ƒCƒ€ƒŠƒtƒg‚ğŠ®—¹‚·‚é
+AllPons = ‚·‚×‚Ä‚ÌƒŠƒtƒgƒ|ƒ“‚ğW‚ß‚é
+AllPages = ‚·‚×‚Ä‚ÌƒXƒg[ƒŠ[ƒuƒbƒN‚Ìƒy[ƒW‚ğûW‚·‚é
+Tip0 = R‚ªD‚«‚¶‚á‚È‚¢‚¾‚Á‚ÄH‘SˆõAŒiF‚Ì‚¢‚¢êŠ‚©‚ç”ò‚Ñ~‚è‚ëI
