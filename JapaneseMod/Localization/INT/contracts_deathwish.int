@@ -299,7 +299,7 @@ Condition = 彼女は奇妙なタイムピースをまるごと盗んで行った！
 Tip0 = 何をしている。騒動に巻き込まれたようなものだ。まだ行くな。それより[name]彼女のフェイント攻撃[/name]から生き延びる事を考えろ。
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
-Title = スナッチャーのSATUGAIリスト
+Title = スナッチャーのSATSUGAIリスト
 Objective = 殴られることなく5人のマフィアを倒せ
 NoBully = いじめられずに強引なカラスを10人倒せ
 KillEmAll = 目に見える敵を全部倒せ
