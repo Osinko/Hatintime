@@ -20,7 +20,7 @@ Title = ポンの狂信者
 Objective = 20ポン集めろ
 50Pons = 50ポン集めろ
 100Pons = 100ポン集めろ
-Tip0 = お前は[icon:money] [name]ポン[/name]が何か知っているよな？いたる所にある小さな緑色のアレだ。その[icon:money] [name]ポン[/name]がどんなモノであるのか、詳しく私に教えてくれないか。
+Tip0 = お前は[icon:money][name]ポン[/name]が何か知っているよな？いたる所にある小さな緑色のアレだ。その[icon:money] [name]ポン[/name]がどんなモノであるのか、詳しく私に教えてくれないか。
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = グレート ビッグ パレード
@@ -299,12 +299,12 @@ Condition = 彼女は奇妙なタイムピースをまるごと盗んで行った！
 Tip0 = 何をしている。騒動に巻き込まれたようなものだ。まだ行くな。それより[name]彼女のフェイント攻撃[/name]から生き延びる事を考えろ。
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
-Title = スナッチャーのSATSUGAIリスト
-Objective = 殴られることなく5人のマフィアを倒せ
-NoBully = いじめられずに強引なカラスを10人倒せ
-KillEmAll = 目に見える敵を全部倒せ
+Title = スナッチャーのヒットマンリスト
+Objective = 殴られることなく5人のマフィアを殺せ
+NoBully = いじめられずに強引なカラスを10人殺せ
+KillEmAll = 目に見える敵を全部殺せ
 Condition = 彼らは全ての事を理解した
-Tip0 = このリストにのっているヤツを[name]全員倒すんだ[/name]。わかったな？奴らを見つけるのは大変だ。[name]他のチャプター[/name]まで探す必要があるだろう。
+Tip0 = このリストにのっているヤツを[name]全員殺すんだ[/name]。わかったな？奴らを見つけるのは大変だ。[name]他のチャプター[/name]まで探す必要があるだろう。
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
 Title = クルージング フォー ブルージング
@@ -322,7 +322,7 @@ Kills = すべてのUFOを破壊しろ
 Speed = 65秒以内にタイムピースを手に入れろ
 Speed_Easy = 3分以内にタイムピースを手に入れろ
 Condition = マフィアは宇宙船を見たんだ！！
-Tip0 = ダイブ中にキャンセルするテクニックを利用すると、より遠くに飛べたり、壁によじ登れるぞ。なんであれ、これが理解出来ないなら先に進む事は難しいな。
+Tip0 = ダイブ中にキャンセルするテクニックを利用すると、より遠くに飛べたり壁によじ登れる。これが出来ないなら先に進む事は難しいぞ。
 EasyTip = 時間停止の帽子を使ってみろ！
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
