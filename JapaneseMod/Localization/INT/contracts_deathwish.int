@@ -53,7 +53,7 @@ Objective = すべての溶岩の弁を閉めろ
 AvoidLava = 溶岩に一度もふれるな
 MinWater = 2回以上クールダウンするな
 Condition = 暑くなってきたら水に入って体を冷やそう
-Tip0 = 契約は同時にいくつも進行させる事が出来るぞ。[name]難しい契約は後回しにする事も出来る[/name]。私はその事を気にしたりしない。[br][shake][scream]お前の心をへしおってやる[/scream][/shake]
+Tip0 = 契約は同時にいくつも進行させる事が出来るぞ。[name]難しい契約は後回しにする事も出来る[/name]。私はそれを気にしない。サァ。[br][shake][scream]お前の心をへしおってやる[/scream][/shake]
 EasyTip = 弁を閉めたらひと泳ぎすると良いぞ！
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
@@ -255,7 +255,7 @@ Title = カメラツーリスト
 Objective = 異なる敵の写真を8つ撮れ
 GroupShot = 一枚で3つの異なる敵が入った写真を撮れ
 AllBosses = 全てのボスの写真を撮れ
-Tip0 = 私がハンサムに見える写真を撮ってくれ！出来れば[/name]お前を倒したショット[/name]も欲しいゾ。
+Tip0 = 私がハンサムに見える写真を撮ってくれ！出来れば、私が[/name]お前を殺した[/name]ショットもあると好ましい。
 
 [Hat_SnatcherContract_DeathWish_MovingVault]
 Title = 風の中のキーワード
@@ -264,7 +264,7 @@ NoSlow = 時間の流れは遅く出来ない
 Kill = 時間を見つけて10人のマフィアを倒せ
 Kill_Easy = 時間を見つけて1人のマフィアを倒せ
 Condition = 金庫キーワードを集める時間は30秒です
-Tip0 = 一度、深呼吸しろキッド。落ち着いて風の中に舞うキーワードの動きを見るんだ。いやされる光景だろう！
+Tip0 = 一度、深呼吸しろキッド。リラックスして風の中に舞うキーワードの動きを読むんだ。落ち着け！
 
 [Hat_SnatcherContract_DeathWish_MafiaBossEX]
 Title = アンコール、もう一度だ
@@ -299,7 +299,7 @@ Condition = 彼女は奇妙なタイムピースをまるごと盗んで行った！
 Tip0 = 何をしている。騒動に巻き込まれたようなものだ。まだ行くな。それより[name]彼女のフェイント攻撃[/name]から生き延びる事を考えろ。
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
-Title = スナッチャーのヒットマンリスト
+Title = スナッチャーのSATSUGAIリスト
 Objective = 殴られることなく5人のマフィアを殺せ
 NoBully = いじめられずにアルペンの強襲カラスを10人殺せ
 KillEmAll = あらゆる種類の敵を殺せ
