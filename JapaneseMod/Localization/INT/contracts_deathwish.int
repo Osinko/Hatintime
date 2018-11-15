@@ -167,8 +167,8 @@ Title = リフト消失 - 料理人のマフィア
 Objective = 「料理人のマフィア」のタイムリフトから逃げ出せ
 AllPons = すべてのリフトポンを集めろ
 AllPons_Easy = すべてのリフトポンを集めろ(3つになっています)
-Faster = スペア30秒でだっしゅつしろ
-Faster_Easy = スペア15秒でだっしゅつしろ
+Faster = 残り30秒でだっしゅつしろ
+Faster_Easy = 残り15秒でだっしゅつしろ
 Condition = タイムリフトは不安定になった！
 Tip0 = 確かに多くの[icon:treasure]お宝がある。お前が[name]例のバッジ[/name]を持ってるなら、それらを簡単に収集できるだろうな...
 
@@ -177,8 +177,8 @@ Title = リフト消失 - デッド・バード・スタジオ
 Objective = 「デッド・バード・スタジオ」のタイムリフトから逃げ出せ
 AllPons = すべてのリフトポンを集めろ
 AllPons_Easy = すべてのリフトポンを集めろ（3つになっています）
-Faster = スペア30秒でだっしゅつしろ
-Faster_Easy = スペア15秒でだっしゅつしろ
+Faster = 残り30秒でだっしゅつしろ
+Faster_Easy = 残り15秒でだっしゅつしろ
 Condition = タイムリフトは不安定になった！
 Tip0 = 何か無くなった気がするだって？もし、お前が[icon:camerabadge]カメラバッジを持っているなら、撮影ポーズ中に見回して、その[name]何か[/name]を探してみればいい...
 
@@ -187,18 +187,18 @@ Title = リフト消失 - 眠たい潜在意識
 Objective = 「眠たい潜在意識」のタイムリフトから逃げ出せ
 AllPons = すべてのリフトポンを集めろ
 AllPons_Easy = すべてのリフトポンを集めろ（3つになっています）
-Faster = スペア30秒でだっしゅつしろ
-Faster_Easy = スペア15秒でだっしゅつしろ
+Faster = 残り30秒でだっしゅつしろ
+Faster_Easy = 残り15秒でだっしゅつしろ
 Condition = タイムリフトは不安定になった！
-Tip0 = 確かに多くの[icon:treasure]お宝がある。お前が[name]例のバッジ[/name]を持ってるなら、それらを簡単に収集できるだろうな...
+Tip0 = 確かに多くの[icon:treasure]お宝がある。お前が[name]例のバッジ[/name]を持ってるなら、それらを簡単に収集できるだろう...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
 Title = リフト消失 - アルプススカイライン
 Objective = 「アルプススカイライン」のタイムリフトから逃げ出せ
 AllPons = すべてのリフトポンを集めろ
 AllPons_Easy = すべてのリフトポンを集めろ（3つになっています）
-Faster = スペア30秒でだっしゅつしろ
-Faster_Easy = スペア15秒でだっしゅつしろ
+Faster = 残り30秒でだっしゅつしろ
+Faster_Easy = 残り15秒でだっしゅつしろ
 Condition = タイムリフトは不安定になった！
 Tip0 = 何か無くなった気がするだって？もし、お前が[icon:camerabadge]カメラバッジを持っているなら、撮影ポーズ中に見回して、その[name]何か[/name]を探してみればいい...
 
@@ -207,8 +207,8 @@ Title = リフト消失 - 深海
 Objective = 「深海」のタイムリフトから逃げ出せ
 AllPons = すべてのリフトポンを集めろ
 AllPons_Easy = すべてのリフトポンを集めろ（3つになっています）
-Faster = スペア30秒でだっしゅつしろ
-Faster_Easy = スペア15秒でだっしゅつしろ
+Faster = 残り30秒でだっしゅつしろ
+Faster_Easy = 残り15秒でだっしゅつしろ
 Condition = タイムリフトは不安定になった！
 Tip0 = 何か無くなった気がするだって？もし、お前が[icon:camerabadge]カメラバッジを持っているなら、撮影ポーズ中に見回して、その[name]何か[/name]を探してみればいい...
 
