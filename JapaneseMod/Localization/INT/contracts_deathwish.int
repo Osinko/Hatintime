@@ -20,7 +20,7 @@ Title = ƒ|ƒ“‚Ì‹¶MÒ
 Objective = 20ƒ|ƒ“W‚ß‚ë
 50Pons = 50ƒ|ƒ“W‚ß‚ë
 100Pons = 100ƒ|ƒ“W‚ß‚ë
-Tip0 = ‚¨‘O‚Í[icon:money][name]ƒ|ƒ“[/name]‚ª‰½‚©’m‚Á‚Ä‚¢‚é‚æ‚ÈH‚¢‚½‚éŠ‚É‚ ‚é¬‚³‚È—ÎF‚ÌƒAƒŒ‚¾B‚»‚Ì[icon:money] [name]ƒ|ƒ“[/name]‚ª‚Ç‚ñ‚Èƒ‚ƒm‚Å‚ ‚é‚Ì‚©AÚ‚µ‚­„‚É‹³‚¦‚Ä‚­‚ê‚È‚¢‚©B
+Tip0 = [icon:money][name]ƒ|ƒ“[/name]‚ª‚Ç‚ñ‚Èƒ‚ƒm‚©’m‚Á‚Ä‚¢‚é‚©H‚ ‚Ì¬‚³‚È—ÎF‚Ì•¨‘Ì‚¾B‚ ‚Ì[icon:money][name]ƒ|ƒ“[/name]‚ª‚Ç‚ñ‚Èƒ‚ƒm‚Å‚ ‚é‚Ì‚©A„‚ÉÚ‚µ‚­‹³‚¦‚Ä‚­‚êB
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = ƒOƒŒ[ƒg ƒrƒbƒO ƒpƒŒ[ƒh
@@ -28,11 +28,11 @@ Objective = ƒpƒŒ[ƒh‚ğÅŒã‚Ü‚ÅI‚í‚ç‚¹‚ë
 AllTokens = DJƒOƒ‹[ƒ” ƒg[ƒNƒ“‚ª–³‚­‚È‚ç‚È‚¢—l‚É‚µ‚ë
 NoHit = ‹}sƒoƒ“ƒh‚ğUŒ‚‚·‚é‚È
 BigBand = ”M‹¶“I‚Èƒtƒ@ƒ“‚ğ“¾‚½‚æ‚¤‚¾
-Tip0 = ‚¤‚·‚Ì‚ë‚ÈƒtƒNƒƒE‹¤‚ÍA‚¨‘O‚ğ‰½ˆ‚Ü‚Å‚à’Ç‚¢‚©‚¯‚Ä‚­‚é‚¾‚ë‚¤B[name]ŠÛ‚­•`‚­‚æ‚¤‚É‘–‚ê‚Î[/name]ŠÔ‚ğ‰Ò‚®‚±‚Æ‚ªo—ˆ‚é‚¼B
+Tip0 = ‚Ì‚ë‚Ü‚ÈƒtƒNƒƒE‚Ç‚à‚ÍA‚¨‘O‚ğ‰½ˆ‚Ü‚Å‚à’Ç‚¢‚©‚¯‚Ä‚­‚éB[name]ŠÛ‚­•`‚­‚æ‚¤‚É‘–‚ê‚Î[/name]ŠÔ‚ğ‰Ò‚®–‚ªo—ˆ‚é‚¾‚ë‚¤B
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = ©”š‚Ü‚Åc‚è10•b
-Objective = ‹}s—ñÔ‚©‚ç‚¾‚Á‚µ‚ã‚Â‚¹‚æ
+Objective = ‹}s—ñÔ‚©‚ç“¦‚°o‚¹I
 NoHat = –Xq”\—Í‚È‚µAƒƒ“ƒpƒ“ƒq[ƒ[‚ÌƒoƒbƒW‘•”õ
 Tokens = Ô¶‚Ìƒg[ƒNƒ“‚ğ‚·‚×‚ÄW‚ß‚ë
 Condition = ƒtƒNƒƒE‹}s‚ÌƒXƒPƒWƒ…[ƒ‹‚Í’x‚ê‚Ä‚¢‚é
@@ -45,7 +45,7 @@ NoCaught = •ß‚Ü‚ç‚¸‚ÉŠ®—¹‚µ‚ë
 NoFees = 200,000ˆÈ‰º‚Ì¿‹Šz‚ÅŠ®—¹‚µ‚ë
 NoFees_Easy = 600,000ˆÈ‰º‚Ì¿‹Šz‚ÅŠ®—¹‚µ‚ë
 Condition = ƒZƒLƒ…ƒŠƒeƒB‚ª‘å•‚ÉŒüã‚µ‚Ü‚µ‚½
-Tip0 = ‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚Ä“ï‚µ‚¢d–‚É‚È‚é‚¾‚ë‚¤B[name]–ï‰îÒ‚É‚È‚è‚«‚êI[/name]
+Tip0 = ‚±‚ê‚Í‚¨‘O‚É‚Æ‚Á‚Ä“ï‚µ‚¢d–‚É‚È‚é‚©‚à‚ÈB[name]–ï‰îÒ‚É‚È‚è‚«‚êI[/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = —x‚é—nŠâ
@@ -220,7 +220,7 @@ Presses2 = 7‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA‚µ‚ë
 Objective_Easy = u ‰F’ˆ‚©‚ç—ˆ‚½—‚Ìqv‚ğ24‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA‚µ‚ë
 EasyPresses1 = 18‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA‚µ‚ë
 EasyPresses2 = 14‰ñ‚ÌƒWƒƒƒ“ƒv‚ÅƒNƒŠƒA‚µ‚ë
-Tip0 = ÀÛ‚ÉƒWƒƒƒ“ƒv‚·‚é•K—v‚Í‚È‚¢B[icon:icehat]•X‚Ì–Xq‚ğŒy‚­ƒ^ƒbƒv‚·‚é‚Æ—]•ª‚È‚‚³‚ª“¾‚ç‚ê‚éB‚È‚ñ‚Ä•Ö—˜‚È‚ñ‚¾I
+Tip0 = ŠÈ’P‚È–‚¾B‚¨‘O‚Ì[icon:icehat]•X‚Ì–Xq‚ÍÀÛ‚ÉƒWƒƒƒ“ƒv‚·‚é–‚È‚­’i·‚ğ“o‚é–‚É—˜—p‚Å‚«‚éB•Ö—˜‚¾‚æ‚ÈI
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
 Title = ƒXƒiƒbƒ`ƒƒ[‚Æ—V‚Ú‚¤
@@ -301,10 +301,10 @@ Tip0 = ‰½‚ğ‚µ‚Ä‚¢‚éB‘›“®‚ÉŠª‚«‚Ü‚ê‚½‚æ‚¤‚È‚à‚Ì‚¾B‚Ü‚¾s‚­‚ÈB‚»‚ê‚æ‚è[name]”
 [Hat_SnatcherContract_DeathWish_KillEverybody]
 Title = ƒXƒiƒbƒ`ƒƒ[‚Ìƒqƒbƒgƒ}ƒ“ƒŠƒXƒg
 Objective = ‰£‚ç‚ê‚é‚±‚Æ‚È‚­5l‚Ìƒ}ƒtƒBƒA‚ğE‚¹
-NoBully = ‚¢‚¶‚ß‚ç‚ê‚¸‚É‹­ˆø‚ÈƒJƒ‰ƒX‚ğ10lE‚¹
-KillEmAll = –Ú‚ÉŒ©‚¦‚é“G‚ğ‘S•”E‚¹
-Condition = ”Ş‚ç‚Í‘S‚Ä‚Ì–‚ğ—‰ğ‚µ‚½
-Tip0 = ‚±‚ÌƒŠƒXƒg‚É‚Ì‚Á‚Ä‚¢‚éƒ„ƒc‚ğ[name]‘SˆõE‚·‚ñ‚¾[/name]B‚í‚©‚Á‚½‚ÈH“z‚ç‚ğŒ©‚Â‚¯‚é‚Ì‚Í‘å•Ï‚¾B[name]‘¼‚Ìƒ`ƒƒƒvƒ^[[/name]‚Ü‚Å’T‚·•K—v‚ª‚ ‚é‚¾‚ë‚¤B
+NoBully = ‚¢‚¶‚ß‚ç‚ê‚¸‚ÉƒAƒ‹ƒyƒ“‚Ì‹­PƒJƒ‰ƒX‚ğ10lE‚¹
+KillEmAll = ‚ ‚ç‚ä‚éí—Ş‚Ì“G‚ğE‚¹
+Condition = ”Ş‚ç‚ÌK«‚ğ—‰ğ‚·‚é‚Ì‚¾I
+Tip0 = ‚±‚ÌƒŠƒXƒg‚É‚Ì‚Á‚Ä‚¢‚éƒ„ƒc‚ğ[name]‘SˆõE‚¹[/name]B‚í‚©‚Á‚½‚ÈH‘S‚Ä‚ğŒ©‚Â‚¯‚é‚Ì‚Í‘å•Ï‚¾B[name]‘¼‚Ìƒ`ƒƒƒvƒ^[[/name]‚Ü‚Å’T‚·•K—v‚ª‚ ‚é‚¾‚ë‚¤B
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
 Title = ƒNƒ‹[ƒWƒ“ƒO ƒtƒH[ ƒuƒ‹[ƒWƒ“ƒO

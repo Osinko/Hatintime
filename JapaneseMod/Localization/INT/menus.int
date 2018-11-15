@@ -393,7 +393,7 @@ SteamVerifyIntegrityGameCache = [name]’ˆÓ[/name][br][hint]Steam[/hint]‚ª‚·‚×‚Ä‚
 UsingIntegratedGPU0 = [name]’ˆÓ[/name][br]‚²—˜—p‚Ìƒm[ƒgƒpƒ\ƒRƒ“‚ÍŒ»İA[hint]“Æ—§GPU[/hint]‚Å‚Í‚È‚­A[hint]“à‘ GPU[/hint]‚ğg—p‚µ‚Ä‚¢‚Ü‚·B
 UsingIntegratedGPU1 = [hint]NVidiaƒRƒ“ƒgƒ[ƒ‹ƒpƒlƒ‹[/hint]‚Ü‚½‚Í[hint]AMDƒRƒ“ƒgƒ[ƒ‹ƒZƒ“ƒ^[[/hint]‚ğŠJ‚«AwA Hat in Timex‚ª“Æ—§GPU‚ğg—p‚·‚é‚æ‚¤İ’è‚µ‚Ä‚­‚¾‚³‚¢B
 BrokenControllerSoftware0 = [hint]ƒT[ƒhƒp[ƒeƒB[»‚ÌƒQ[ƒ€ƒpƒbƒhƒ\ƒtƒgƒEƒFƒA[/hint]i—áFJoy2Keyj“™‚Ì[br]—˜—p‚ªŒŸo‚³‚ê‚Ü‚µ‚½BwA Hat in Timex‚Í“Áê‚ÈƒAƒvƒŠ‚ğƒCƒ“ƒXƒg[ƒ‹‚·‚é–‚È‚­A‘½‚­‚ÌƒRƒ“ƒgƒ[ƒ‰[‚É‘Î‰‚µ‚Ä‚¢‚Ü‚·B
-BrokenControllerSoftware1 = g—p’†‚Ìƒ\ƒtƒgƒEƒFƒA‚ğƒIƒt‚É‚µ‚ÄAwA Hat in Timex‚Å‚²—˜—p‚ÌƒRƒ“ƒgƒ[ƒ‰[‚ªƒfƒtƒHƒ‹ƒg‚Å‹@”\‚·‚é‚±‚Æ‚ğ‚²Šm”F‚­‚¾‚³‚¢B
+BrokenControllerSoftware1 = g—p’†‚Ìƒ\ƒtƒgƒEƒFƒA‚ğƒIƒt‚É‚µ‚ÄAwA Hat in Timex‚ÅA‚²—˜—p‚ÌƒRƒ“ƒgƒ[ƒ‰[‚ªƒfƒtƒHƒ‹ƒg‚Å‹@”\‚·‚é‚±‚Æ‚ğ‚²Šm”F‚­‚¾‚³‚¢B
 
 [Loadout]
 TimePieces_Main = ƒƒCƒ“
