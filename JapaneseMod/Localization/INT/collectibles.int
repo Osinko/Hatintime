@@ -136,8 +136,8 @@ VaultCodeYellowName = 金色の金庫のパスワード
 //TODO
 [skins]
 SkinDesc0 = 服や髪の色を変更します！
-SkinDesc_Outfit0 = Swap your outfit!
-MaterialSkin_Desc0 = Dunk yourself in paint!
+SkinDesc_Outfit0 = この衣装に着がえます！
+MaterialSkin_Desc0 = この色になります！
 WhiteRedSkinName = ビッグボス
 RedWhiteSkinName = ブラッドムーン
 GreenOrangeSkinName = くるみ割り人形
@@ -160,13 +160,13 @@ RaincoatName = レインコート
 ParadeName = パレード衣装
 DetectiveName = 探偵衣装
 QueenDressGreenName = お姫様のドレス
-WitchDressName = Witch Outfit
+WitchDressName = 魔女衣装
 MaterialSkin_Gold_Name = 24カラット キッド
 MaterialSkin_Metal_Name = メタリック
-MaterialSkin_Shadow_Name = Shadow Puppet
-MaterialSkin_Space_Name = Transcendent
-HK64_Name = Virtual Kid
-HikingSkin_Name = Hiking Shorts
+MaterialSkin_Shadow_Name = 影人形
+MaterialSkin_Space_Name = 超越者
+HK64_Name = ヴァーチャルキッド
+HikingSkin_Name = ハイキング衣装
 
 
 [remixes]

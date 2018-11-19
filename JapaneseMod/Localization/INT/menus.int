@@ -392,8 +392,8 @@ alpha2 = 必ずラン挑戦中のプレイ動画を撮影し、[name]speedrun.com[/name]にアップロ
 SteamVerifyIntegrityGameCache = [name]注意[/name][br][hint]Steam[/hint]がすべてのゲームファイルを適切にダウンロードしていないようです。[br]問題が解決しない場合、このゲームの[hint]ゲームキャッシュの整合性を確認[/hint]してください。
 UsingIntegratedGPU0 = [name]注意[/name][br]ご利用のノートパソコンは現在、[hint]独立GPU[/hint]ではなく、[hint]内蔵GPU[/hint]を使用しています。
 UsingIntegratedGPU1 = [hint]NVidiaコントロールパネル[/hint]または[hint]AMDコントロールセンター[/hint]を開き、『A Hat in Time』が独立GPUを使用するよう設定してください。
-BrokenControllerSoftware0 = [hint]サードパーティー製のゲームパッドソフトウェア[/hint]（例：Joy2Key）等の[br]利用が検出されました。『A Hat in Time』は特殊なアプリをインストールする事なく、多くのコントローラーに対応しています。
-BrokenControllerSoftware1 = 使用中のソフトウェアをオフにして、『A Hat in Time』で、ご利用のコントローラーがデフォルトで機能することをご確認ください。
+BrokenControllerSoftware0 = [hint]サードパーティー製のゲームパッドソフトウェア[/hint]（例：Joy2Key）等の[br]利用が検出されました。『A Hat in Time』は特殊なアプリを[br]インストールする事なく、多くのコントローラーに対応しています。
+BrokenControllerSoftware1 = 使用中のソフトウェアをオフにして、『A Hat in Time』で、ご利用のコントローラーがデフォルトで機能することを[br]ご確認ください。
 
 [Loadout]
 TimePieces_Main = メイン
