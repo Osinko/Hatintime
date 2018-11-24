@@ -1,11 +1,11 @@
 [fluff]
 ticketcrow0 = ‚â‚ A“¯æŽÒB‰‚ß‚Ü‚µ‚ÄBƒLƒ~‚É‰ï‚¦‚ÄŠð‚µ‚¢‚æB
-ticketcrow1 = ‰äXA‹}sƒtƒNƒƒE‚Í‚Ý‚ñ‚ÈAƒ`ƒPƒbƒg‚ðŒœÜ‚Å“¾‚½‚ñ‚¾B‘Sˆõ‚ËBM‚¶‚ç‚ê‚È‚¢K‰^‚¾B
+ticketcrow1 = ‰äXAƒNƒƒE‚Í‚Ý‚ñ‚ÈAƒ`ƒPƒbƒg‚ðŒœÜ‚Å“¾‚½‚ñ‚¾B‘Sˆõ‚ËBM‚¶‚ç‚ê‚È‚¢K‰^‚¾B
 ticketcrow2 = ‚«‚Á‚ÆƒLƒ~‚Í‡–@“I‚Éw“ü‚µ‚½‚Ì‚¾‚ë‚¤B‚Æ‚±‚ë‚Åƒˆ‚É‚³‚è‚°‚È‚¢——R‚©‚çA‚¢‚­‚ç[icon:pon]ƒ|ƒ“‚ðŽx•¥‚Á‚½‚©‹³‚¦‚Ä‚­‚ê‚È‚¢‚©‚¢H
 ticketcrow3 = ‹»–¡[‚¢B[icon:pon][TicketPrice]ƒ|ƒ“‚Í‚ ‚½‚©‚àƒNƒ‹[ƒYƒ`ƒPƒbƒg‚Ì’Êí‰¿Ši‚Æ“¯Šz‚¾B
 ticketcrow4 = ‚Ü‚Á‚½‚­³í‚¾BƒLƒ~‚ÌŒûÀ–¾×‘‚É‚Íˆá˜aŠ´‚ª‚È‚¢B
 
-destinationcrow0 = ‚±‚ñ‚É‚¿‚ÍB“¯æŽÒB—·‚ðŠy‚µ‚ñ‚Å‚¢‚é‚©‚¢B
+destinationcrow0 = ‚±‚ñ‚É‚¿‚ÍB“¯æŽÒ‚æB—·‚ðŠy‚µ‚ñ‚Å‚¢‚é‚©‚¢B
 destinationcrow1 = ‚Æ‚±‚ë‚ÅƒLƒ~‚Í‚±‚ÌƒNƒ‹[ƒY‚ª‰½ˆ‚ÉŒü‚©‚Á‚Ä‚¢‚é‚©’m‚Á‚Ä‚¢‚é‚©‚¢HŽ„’B‚Ìƒ`ƒPƒbƒg‚É‚ÍA‚»‚ê‚ª‘‚©‚ê‚Ä‚¢‚½‚¯‚ê‚Ç•¶Žš‚ª‰˜‚ê‚Ä‚µ‚Ü‚Á‚Ä‚ËB
 destinationcrow2 = ‘S‚Ä‚»‚¤‚³B‚»‚ê‚Í‚Æ‚Ä‚à‹N‚±‚è‚»‚¤‚É‚È‚¢Ž–‚¾‚Á‚½BŽ„‚½‚¿‚ª‰½ˆ‚ÉŒü‚©‚Á‚Ä‚¢‚é‚©AŽv‚¢o‚³‚¹‚éŽ–‚ªo—ˆ‚é‚©‚ËH
 destinationcrow3 = ‚ ‚ A‚»‚¤‚¢‚¦‚Îu[Destination]v‚ÆAØ•„‚É‘‚©‚ê‚Ä‚¢‚½Ž–‚ð¡AŽv‚¢o‚µ‚½‚æB
@@ -14,13 +14,13 @@ familycrow0 = [Destination]‚Å‰Æ‘°‚ª‘Ò‚Á‚Ä‚¢‚é‚ñ‚¾B‚»‚±‚ÉŒü‚©‚Á‚Ä‚¢‚é‚ÆŽv‚¤‚ÆA‚
 familycrow1 = ‚»‚Ìˆ×‚ÉA‚±‚ÌƒNƒ‹[ƒWƒ“ƒO‚Éæ‚Á‚½‚Ì‚³B
 
 reviewcrow0 = ƒfƒBƒi[‚Ì—\–ñ‚ª–³‚¢‚Æ‚ÍA‚Ç‚¤‚¢‚¤ˆÓ–¡‚È‚ñ‚¾H
-reviewcrow1 = ‘¼‚Ìæ‹q’B‚Æ“¯‚¶‚æ‚¤‚Éƒ`ƒPƒbƒg‚É‘Î‚µ‚Ä[TicketPrice][icon:pon]ƒ|ƒ“‚ð³Šm‚ÉŽx•¥‚Á‚½‚¼B
+reviewcrow1 = ‘¼‚Ìæ‹q‚Æ“¯‚¶‚æ‚¤‚Éƒ`ƒPƒbƒg‚É‘Î‚µ‚Ä[TicketPrice][icon:pon]ƒ|ƒ“‚ð³Šm‚ÉŽx•¥‚Á‚½‚¼B
 reviewcrow2 = ‚±‚ÌƒNƒ‹[ƒY—·s‚Éˆ«‚¢ƒŒƒrƒ…[‚ð‘‚¢‚Ä‚â‚é‚©‚ç‚ÈB
 //TODO
 [act2]
-missives0 = ‚±‚ê‚ç‚Ì’Pƒ‚ÅˆÃ†‰»‚³‚ê‚Ä‚¢‚È‚¢ƒƒbƒZ[ƒW‚ðŽ„‚Ìˆ×‚É“n‚µ‚Ä—ˆ‚Ä‚­‚ê‚È‚¢‚©B
-missives1 = ‚ ‚ B‚²‚­•’Ê‚ÌŽèŽ†‚¾‚ÈB“¯æŽÒ‚ÉŠ´ŽÓ‚·‚é‚æB
-missives2 = “¯æŽÒ‚Ìˆ×‚É”z’B‚µ‚Ä‚­‚ê‚é‚¾‚Á‚ÄH
-missives3 = ‹C•t‚©‚ê‚È‚¢—l‚ÉƒƒbƒZ[ƒW‚·‚éA‚¾‚Á‚ÄHŽ„‚Ìˆ×‚É‚©H—]Œv‚ÈŽ–‚ð‚·‚é‚ÈI
-missives4 = ‚»‚ê‚ÍA‚È‚ñ‚Æ‚¢‚¤‚©Aƒo[ƒXƒfƒCƒJ[ƒh‚¾B—Fl‚ª‚¢‚é‚ñ‚¾B‚»‚ê‚ð”Þ‚É“n‚µ‚Ä‚Ù‚µ‚¢B
-missives5 = ‚ ‚ Bƒo[ƒXƒfƒC‚¨‚ß‚Å‚Æ‚¤‚¾‚Á‚ÄBŽ‚Á‚Ä‚«‚Ä‚­‚ê‚ÄA‚ ‚è‚ª‚Æ‚¤B
+missives0 = ‚È‚ñ‚Ì‚Ö‚ñ‚Ä‚Â‚à‚È‚¢ˆÃ†‚È‚Ç‚ ‚è‚à‚µ‚È‚¢A‚±‚ÌƒƒbƒZ[ƒW‚ðŽ„‚Ìˆ×‚É“Í‚¯‚Ä‚­‚ê‚È‚¢‚©B
+missives1 = ‚ ‚ B‚ ‚è‚ª‚Æ‚¤B‚²‚­•’Ê‚ÌŽèŽ†‚¾‚ÈB“¯Žm‚ÉŠ´ŽÓ‚·‚é‚æB
+missives2 = “¯Žm‚É”z’B‚µ‚Ä‚­‚ê‚é‚¾‚Á‚ÄH
+missives3 = ‹C•t‚©‚ê‚È‚¢—l‚ÉƒƒbƒZ[ƒW‚·‚éA‚¾‚Á‚ÄHŽ„‚Ìˆ×‚É‚©H—]Œv‚ÈŽ–‚Í‚·‚é‚ÈI
+missives4 = ‚»‚ê‚ÍA‚È‚ñ‚Æ‚¢‚¤‚©Aƒo[ƒXƒfƒCƒJ[ƒh‚¾B—Fl‚¾‚æB‚»‚ê‚ð”Þ‚É“n‚µ‚Ä‚Ù‚µ‚¢B
+missives5 = ‚ ‚ Bƒo[ƒXƒfƒC‚¨‚ß‚Å‚Æ‚¤‚¾‚Á‚ÄB‚ ‚è‚ª‚Æ‚¤B“¯Žm‚æB

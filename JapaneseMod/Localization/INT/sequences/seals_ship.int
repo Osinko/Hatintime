@@ -1,15 +1,15 @@
 [internal]
 desksealA10 = ‚²‚«‚°‚ñ‚æ‚¤I‚Ç‚ñ‚È‚²—pŒ‚Å‚¿‚©B
-desksealA11 = ‚¨ì‚¿‚á‚Ü‚Í[icon:timepiece]ƒ^ƒCƒ€ƒs[ƒX‚Ì—l‚È•¨‚ð‚¨’T‚µ‚È‚Ì‚Å‚¿‚ËH
+desksealA11 = ‚¨ì‚¿‚á‚Ü‚Í[icon:timepiece]ƒ^ƒCƒ€ƒs[ƒX‚Ì—l‚È•¨‚ð‚¨’T‚µ‚È‚Ì‚Å‚·ƒlH
 desksealA12 = ‚¤[‚ñB‰½ˆ‚©‚ÅA‚»‚ñ‚Èƒ‚ƒm‚ðŒ©‚½‹C‚ª...
 desksealA13 = ‚Ç‚±‚ÅŒ©‚½‚Ì‚©...
-desksealA14 = ƒnƒbIŽv‚¢o‚µ‚½‚Å‚¿Iƒ{ƒN‚½‚¿‚Í‚»‚ê‚ð‰ó‚µ‚Ä‚µ‚Ü‚¢ƒLƒƒƒvƒeƒ“‚©‚ç‰B‚µ‚½‚Ì‚Å‚¿I‚±‚ÌŽ¸”s‚ð’m‚ç‚ê‚é‚ÆƒJƒ“ƒJƒ“‚É“{‚ç‚ê‚¿‚á‚¤‚Å‚¿B
+desksealA14 = ƒnƒbIŽv‚¢o‚µ‚½‚Å‚¿Iƒ{ƒN‚½‚¿‚Í‚»‚ê‚ð‰ó‚µ‚Ä‚µ‚Ü‚¢ƒLƒƒƒvƒeƒ“‚©‚ç‰B‚µ‚½‚ÌI‚±‚ÌŽ–‚ð’m‚ç‚ê‚é‚ÆƒJƒ“ƒJƒ“‚É“{‚ç‚ê‚¿‚á‚¤‚Å‚¿B
 desksealA15 = ‚È‚ñ‚Æ‚©’¼‚»‚¤‚Æ‚µ‚½‚Ì‚¾‚¯‚ê‚Ç...‚Å‚àA‚¤[‚ñB‚¤‚Ü‚­o—ˆ‚È‚©‚Á‚½‚Ì...ƒs[ƒX‚ð‰ó‚µ‚¿‚á‚Á‚½...
 desksealA16 = ‚²‚ß‚ñ‚È‚³‚¢‚Å‚¿B‚¨ì‚¿‚á‚ÜB“{‚ç‚È‚¢‚Å‚­‚¾‚¿I
 
 deckshard0 = ‚±‚ñ‚É‚¿‚ÍI¡A‹ó‚¢‚½ƒOƒ‰ƒX‚ª‚½‚­‚³‚ñ•K—v‚È‚ñ‚Å‚¿B‚Å‚àA‚º‚ñ‚Ô—Ž‚Æ‚µ‚¿‚á‚Á‚½‚Ì...B•‚¯‚Ä—~‚µ‚¢‚Å‚¿H
 
-leftshard0 = ‚¢‚Â‚àŽ¸”s‚Î‚©‚è‚Å‚²‚ß‚ñ‚È‚³‚¢‚Å‚¿...ƒLƒƒƒvƒeƒ“‚ÌŠ‚Öƒ{ƒN‚ð˜A‚ê‚Äs‚Á‚Ä‚­‚ê‚È‚¢‚Å‚¿‚©H
+leftshard0 = ‚¢‚Â‚àŽ¸”s‚Î‚©‚è‚Å‚²‚ß‚ñ‚È‚³‚¢‚Å‚¿...ƒLƒƒƒvƒeƒ“‚ÌŠ‚Öƒ{ƒN‚ð˜A‚ê‚Äs‚Á‚Ä‚­‚ê‚éH
 leftshard3 = ‹–‚µ‚Ä‚­‚ê‚Ä‚ ‚è‚ª‚Æ‚¤I‚È‚ñ‚¾‚©Œ³‹C‚ªo‚Ä‚«‚½‚Å‚¿IŒ©‚Â‚¯‚½ƒ^ƒCƒ€ƒs[ƒX‚Ì”j•Ð‚Í‚Ý‚ñ‚ÈƒLƒ~‚Ì•¨‚¾‚©‚çƒlB
 
 seals0 = ‚±‚ñ‚É‚¿‚ÍB‚¨ì‚¿‚á‚ÜIƒ{ƒN‚½‚¿‚Í‘D‚ð”ü‚µ‚­•Û‚Âˆ×‚Éˆê¶Œœ–½A“­‚¢‚Ä‚¢‚é‚ñ‚Å‚¿B‚±‚Ì‘D‚ð‹C‚É“ü‚Á‚Ä‚­‚ê‚é‚ÆŠð‚µ‚¢‚ÈI
@@ -37,7 +37,7 @@ thankyou1 = Žè“`‚Á‚Ä‚­‚ê‚ÄA‚ ‚è‚ª‚Æ‚¤‚Å‚¿I
 
 seals0 = ‚±‚ñ‚É‚¿‚ÍA‚¨ì‚¿‚á‚ÜI‰½‚©‚¨Žè“`‚¢o—ˆ‚éŽ–‚Í‚ ‚é‚Å‚¿‚©H
 seals1 = ‚¨‚âH‚Ü‚¾‰½‚©•K—v‚Æ‚µ‚Ä‚¢‚é’T‚µ•¨‚ªŒ©‚Â‚©‚ç‚È‚¢H
-seals2 = ‚Ó[‚Þ...ƒLƒƒƒvƒeƒ“‚É‰½‚©E‚¢•¨‚ª‚È‚¢‚©•·‚¢‚Ä‚Ý‚é‚Æ‚¢‚¢‚Å‚¿‚æB‚»‚Ìˆ×‚É‚ÍŽ„’B‚Ì–Z‚µ‚¢ŽdŽ–‚ðŽè“`‚Á‚Ä‚à‚ç‚¤•K—v‚ª‚ ‚é‚Å‚¿I
+seals2 = ‚Ó[‚Þ...ƒLƒƒƒvƒeƒ“‚É‰½‚©E‚¢•¨‚ª‚È‚¢‚©•·‚¢‚Ä‚Ý‚é‚Æ‚¢‚¢‚Å‚¿‚æB‚»‚Ìˆ×‚É‚Íƒ{ƒN’B‚Ì–Z‚µ‚¢ŽdŽ–‚ðŽè“`‚Á‚Ä‚à‚ç‚¤•K—v‚ª‚ ‚é‚Å‚¿I
 seals3 = ‚½‚Ô‚ñ...ŠÈ’P‚É‚Í‹³‚¦‚Ä‚Í‚­‚ê‚È‚¢‚©‚à’m‚ê‚È‚¢‚¯‚ê‚ÇB[hint]”Þ‚©‚ç‚ÌŽG—p‚ðƒtƒHƒ[‚·‚é[/hint]‚Æ—Ç‚¢‚Å‚¿‚æB
 seals4 = ƒLƒƒƒvƒeƒ“‚Í‚Æ‚Á‚Ä‚àŒµ‚µ‚¢‚¯‚ê‚ÇA‚»‚ê‚Í‘D‚Ì‚©‚¶Žæ‚è‚ÌÓ”C‚ª‚ ‚é‚©‚ç‚È‚ñ‚Å‚¿I
 seals5 = ƒ{ƒN‚½‚¿‚Í”Þ‚ªA‚Æ‚Á‚Ä‚à‚Æ‚Á‚Ä‚à‘åD‚«‚È‚ñ‚Å‚¿B
@@ -48,7 +48,7 @@ seals5 = ‚±‚ñ‚É‚¿‚ÍIƒLƒƒƒvƒeƒ“‚Ì‹–‰Â‚ð“¾‚½‚æ‚¤‚Å‚¿‚ËB‚³‚Á‚«‚©‚ç” ‚Ì’†‚ªƒXƒS‚­Œ
 //ƒXƒ^[ƒg’n“_
 [docks]
 seals1 = “–ƒNƒ‹[ƒWƒ“ƒO‚É‚æ‚¤‚±‚»‚Å‚¿B‚¨ì‚¿‚á‚ÜI
-seals2 = ‘f°‚ç‚µ‚¢ŽžŠÔ‚ð‚·‚²‚¿‚Ä‚ËB
+seals2 = ‘f°‚ç‚µ‚¢ŽžŠÔ‚ð‚·‚²‚µ‚Ä‚ËB
 
 [act3]
 loudspeaker0 = ‚±‚ñ‚É‚¿‚ÍIƒLƒƒƒvƒeƒ“‚ÌŽwŽ¦‚É]‚Á‚ÄƒlB
@@ -59,10 +59,10 @@ carried1 = ‚Ë‚¦Iƒ{ƒN‚½‚¿‚Í‰½ˆ‚És‚¯‚Î‚¢‚¢‚ÌH
 seals0 = ƒTƒ“ƒLƒ…[I‚¨ì‚¿‚á‚ÜB
 
 [fluff]
-deskseals0 = ƒnƒ[I‚à‚µ•Ô‹à‚ðŠó–]‚³‚ê‚Ä‚àAƒ{ƒN‚½‚¿‚©‚ç‚ÍA‚¨•Ô‚µ‚·‚éŽ–‚ªo—ˆ‚È‚¢‚Å‚¿I
-deskseals1 = ‚»‚ê‚Í‹x“ú‚ð‘S•”A•Ôã‚·‚é‚æ‚¤‚È‚à‚Ì‚Å‚¿‚©‚çƒlB
+deskseals0 = ƒnƒ[I‚à‚µ•Ô‹à‚ðŠó–]‚³‚ê‚Ä‚àAƒ{ƒN’B‚©‚ç‚ÍA‚¨•Ô‚µ‚·‚éŽ–‚ªo—ˆ‚È‚¢‚Å‚¿I
+deskseals1 = ‚»‚ê‚Í‹x“ú‚ð‘S•”A•Ôã‚·‚é‚æ‚¤‚È‚à‚Ì‚Å‚·‚©‚çƒlB
 
-kitchenseals0 = ‚«A‹C‚ð‚Â‚¯‚ÄIƒI[ƒuƒ“‚É‰½‚©–â‘è‚ª‚ ‚é‚Ý‚½‚¢‚Å‚¿...
+kitchenseals0 = ‚«A‹C‚ð‚Â‚¯‚ÄIƒI[ƒuƒ“‚É–â‘è‚ª‚ ‚é‚Ý‚½‚¢‚Å‚¿...
 kitchenseals1 = ƒA‚¿‚¿I‚â‚¯‚Ç‚µ‚»‚¤...
 kitchenseals2 = ƒ„ƒbƒz[B‚¢‚¢u‚äv‚¾‚ÈB
 kitchenseals3 = ”wL‚Ñ‚µ‚È‚¢‚ÆƒJƒEƒ“ƒ^[‚É“Í‚©‚È‚¢‚ÌI‚±‚ê‚Íƒ{ƒN‚½‚¿‚É‚ÍŽè‚Ì“Í‚©‚È‚¢ŽdŽ–‚È‚Ì‚©‚à...
@@ -73,13 +73,13 @@ kitchenbubbleseal2 = ‚±‚ê‚Íƒ_ƒCƒjƒ“ƒO—p‚Å‚¿I
 kitchenbubbleseal3 = ‚±‚ê‚ðŽ‚Á‚Äƒ_ƒCƒjƒ“ƒO‚És‚Á‚Ä‚­‚¾‚¿‚¢I
 kitchenbubbleseal4 = ƒ‹[ƒ€ƒT[ƒrƒXI‚»‚ê‚ðƒoƒ‹ƒRƒj[‚Ö‰^‚ñ‚Å‚¿I
 kitchenbubbleseal5 = ƒ‹[ƒ€ƒT[ƒrƒX‚Ì’•¶‚ª‚ ‚é‚Å‚¿I
-kitchenbubbleseal6 = –Ê‚©‚¶‚¢‚Á‚Ï‚¢I‰E‘¤‚ÌŽ–‚Å‚¿‚æB‚¨ì‚¿‚á‚ÜB
+kitchenbubbleseal6 = –Ê‚©‚¶‚¢‚Á‚Ï‚¢I‰E‘¤‚ÌŽ–‚Å‚·‚æB‚¨ì‚¿‚á‚ÜB
 kitchenbubbleseal7 = ‘D‚ÌƒTƒCƒh‚Å‚¿I‚»‚ÌƒhƒA‚ð‚Ü‚Á‚·‚®‚Éo‚é‚Å‚¿I
 
 seals0 = ‚±‚Ìƒ^ƒIƒ‹‚ÌŽèG‚èƒNƒZ‚É‚È‚Á‚¿‚á‚¤B
-seals1 = ‚¨ŽdŽ–‚ªŽc‚Á‚Ä‚é‚Å‚¿...‚Å‚àƒƒƒƒ‚Å‚¿[B
-seals2 = ‚ä‚Á‚­‚è’­‚ß‚ðŠy‚¿‚Ý‚È‚ª‚çi‚ñ‚Å‚­‚¾‚³‚¢ƒlI‚‚¢Žè‚·‚è‚©‚ç—Ž‚¿‚é‚ÆƒPƒK‚ð‚·‚é‚Å‚¿‚æI
+seals1 = ‚¨ŽdŽ–‚ªŽc‚Á‚Ä‚é‚Ì...‚Å‚àƒƒƒƒ‚Å‚¿[B
+seals2 = ‚ä‚Á‚­‚è’­‚ß‚ðŠy‚µ‚Ý‚È‚ª‚çi‚ñ‚Å‚­‚¾‚³‚¢ƒlI‚‚¢Žè‚·‚è‚©‚ç—Ž‚¿‚é‚ÆƒPƒK‚ð‚·‚é‚Å‚¿‚æI
 seals3 = ‚¨‚Á‚Æ...°‚Éƒe[ƒuƒ‹‚ðŒÅ’è‚·‚éŽ–‚ð–Y‚ê‚Ä‚¢‚½‚Å‚¿BŠŠ‚èž‚ñ‚Å‚­‚éƒe[ƒuƒ‹‚É‹C‚ð•t‚¯‚ÄI
-seals4 = ‚¤[‚ñ...Žc”O‚Å‚¿‚ªA‚ ‚È‚½‚ÉƒMƒƒƒ“ƒuƒ‹‚ÍA‚Ü‚¾‘‚¢‹C‚ª‚·‚é‚Å‚¿‚æI‚¨ì‚¿‚á‚ÜI
+seals4 = ‚¤[‚ñ...Žc”O‚Å‚·‚ªA‚ ‚È‚½‚ÉƒMƒƒƒ“ƒuƒ‹‚ÍA‚Ü‚¾‘‚¢‹C‚ª‚·‚é‚Å‚¿‚æI‚¨ì‚¿‚á‚ÜI
 seals5 = ƒe[ƒuƒ‹‚É‹ßŠñ‚Á‚¿‚áƒ_ƒ‚Å‚¿I
 seals6 = ”ü‚µ‚¢ƒK[ƒfƒ“[br]‚Å‚µ‚åH‚¨ì‚¿‚á‚ÜB

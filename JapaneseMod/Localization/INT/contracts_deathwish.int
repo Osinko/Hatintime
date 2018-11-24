@@ -14,7 +14,7 @@ Obj_Failed = 失敗
 Best_Time = ベストタイム
 Best_Score = ベストスコア
 Lives_Remaining = 残りの命
-//？このデスウィッシュが確認できてない
+//TODO？このデスウィッシュが確認できてない
 [Hat_SnatcherContract_DeathWish_Intro_100Pons]
 Title = ポンの狂信者
 Objective = 20ポン集めろ
@@ -62,7 +62,7 @@ Objective = ジャンプする事なくタイムピースを集めろ
 Condition = ジャンプするとあなたは死ぬ！
 Collect4 = ジャンプする事なく4つのタイムピースを集めろ
 TrainRush = ジャンプする事なくトレインラッシュをクリアしろ
-Tip0 = 簡単な事だ。お前の[icon:icehat]氷の帽子は実際にジャンプする事なく段差を登る事に利用できる。便利だよな！
+Tip0 = お前の[icon:icehat]氷の帽子は軽くタップするように使うと実際にジャンプする事なく小さな段差を登る事に利用できるぞ。便利だよな！
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = 騒しい風車
@@ -220,7 +220,7 @@ Presses2 = 7回のジャンプでクリアしろ
 Objective_Easy = 「 宇宙から来た女の子」を24回のジャンプでクリアしろ
 EasyPresses1 = 18回のジャンプでクリアしろ
 EasyPresses2 = 14回のジャンプでクリアしろ
-Tip0 = 簡単な事だ。お前の[icon:icehat]氷の帽子は実際にジャンプする事なく段差を登る事に利用できる。便利だよな！
+Tip0 = 簡単な事だ。お前の[icon:icehat]氷の帽子を利用すれば実際にジャンプしないでも高い場所に移動する事ができる。便利だよな！
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
 Title = スナッチャーと遊ぼう
@@ -312,7 +312,7 @@ Objective = 40の仕事をこなせ
 NoMiss = ひとつも欠かす事無く40の仕事をこなせ
 More = 70の仕事をこなせ
 Objective_Easy = 30の仕事をこなせ
-Condition = 終わりがない
+Condition = 終わりが見えない
 Tip0 =[name]船のレイアウトを理解しろ。[/name]お前が知らない便利なルートがあるかも知れないぞ！
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
@@ -327,16 +327,16 @@ EasyTip = 時間停止の帽子を使ってみろ！
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
 Title = コミュニティリフト：リズムジャンプスタジオ
-ShortTitle = Rhythm Jump Studio
+ShortTitle = リズム ジャンプ スタジオ
 Condition = 制作者 Lane 'FlameLFH' Haskins
 Objective = タイムリフトを完了しろ
 AllPons = すべてのリフトポンを集めろ
 AllPages = すべてのストーリーブックのページを収集しろ
-Tip0 = これは力作だ。キッド。あわてふためいてコケまくれ。
+Tip0 = これはお前の得意分野だな。キッド。[br]私はダンスが苦手なんだ。足がもつれる。
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
 Title = コミュニティリフト：トワイライトトラベル
-ShortTitle = Twilight Travels
+ShortTitle = トワイライト トラベル
 Condition = 制作者 Eric 'Jak' Ridge
 Objective = タイムリフトを完了しろ
 AllPons = すべてのリフトポンを集めろ
@@ -345,7 +345,7 @@ Tip0 = もう鐘を鳴らすのは、やめろキッド。頭痛がする。
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
 Title = コミュニティリフト：ザマウンテンリフト
-ShortTitle = The Mountain Rift
+ShortTitle = ザ マウンテン リフト
 Condition = 制作者 Devan 'Mr.Brawls' Miller
 Objective = タイムリフトを完了しろ
 AllPons = すべてのリフトポンを集めろ
